@@ -1,0 +1,4885 @@
+###############################
+Episode: 0,Steps: 21 Reward: 2.665 Ave_reward: 0.127
+Target: 1.498, -1.277
+final_position: 0.567, -1.936
+final_velocity: -0.008, 0.177
+###############################
+Episode: 1,Steps: 23 Reward: 3.847 Ave_reward: 0.167
+Target: 1.597, 1.423
+final_position: 0.484, 1.837
+final_velocity: 0.039, -0.070
+###############################
+Episode: 2,Steps: 16 Reward: 3.346 Ave_reward: 0.209
+Target: 0.908, 1.561
+final_position: 0.678, 0.331
+final_velocity: 0.056, 0.105
+###############################
+Episode: 3,Steps: 15 Reward: 2.175 Ave_reward: 0.145
+Target: 1.636, -1.474
+final_position: -0.071, -1.242
+final_velocity: -0.005, 0.122
+###############################
+Episode: 4,Steps: 12 Reward: 0.986 Ave_reward: 0.082
+Target: 2.000, -0.064
+final_position: -0.105, 0.744
+final_velocity: -0.059, -0.156
+###############################
+Episode: 5,Steps: 22 Reward: 2.780 Ave_reward: 0.126
+Target: 2.176, -0.458
+final_position: 0.509, -0.734
+final_velocity: 0.033, 0.167
+###############################
+Episode: 6,Steps: 20 Reward: 4.409 Ave_reward: 0.220
+Target: 1.306, -1.761
+final_position: 1.210, -0.422
+final_velocity: 0.067, -0.117
+###############################
+Episode: 7,Steps: 12 Reward: 0.075 Ave_reward: 0.006
+Target: 1.724, -0.883
+final_position: -0.013, 0.826
+final_velocity: -0.140, -0.132
+###############################
+Episode: 8,Steps: 18 Reward: 3.011 Ave_reward: 0.167
+Target: 2.141, -1.086
+final_position: 0.403, -1.296
+final_velocity: 0.005, 0.150
+###############################
+Episode: 9,Steps: 25 Reward: 2.999 Ave_reward: 0.120
+Target: 2.283, -0.477
+final_position: 1.395, -1.631
+final_velocity: -0.051, 0.158
+###############################
+Episode: 10,Steps: 18 Reward: 0.085 Ave_reward: 0.005
+Target: 1.485, -0.328
+final_position: 0.445, -1.601
+final_velocity: 0.003, 0.143
+###############################
+Episode: 11,Steps: 26 Reward: 3.789 Ave_reward: 0.146
+Target: 1.591, 1.129
+final_position: 1.843, -0.054
+final_velocity: -0.059, 0.094
+###############################
+Episode: 12,Steps: 21 Reward: 5.212 Ave_reward: 0.248
+Target: 1.333, -1.501
+final_position: 0.394, -1.818
+final_velocity: 0.004, 0.157
+###############################
+Episode: 13,Steps: 27 Reward: 4.274 Ave_reward: 0.158
+Target: 2.113, 0.742
+final_position: 0.886, 0.505
+final_velocity: 0.000, 0.015
+###############################
+Episode: 14,Steps: 21 Reward: 2.463 Ave_reward: 0.117
+Target: 1.732, -0.671
+final_position: 0.092, -0.766
+final_velocity: -0.012, 0.044
+###############################
+Episode: 15,Steps: 34 Reward: 9.636 Ave_reward: 0.283
+Target: 2.133, -0.371
+final_position: 2.001, -0.782
+final_velocity: -0.085, 0.099
+###############################
+Episode: 16,Steps: 10 Reward: -0.256 Ave_reward: -0.026
+Target: 1.696, -1.254
+final_position: -0.179, 0.610
+final_velocity: -0.090, -0.128
+###############################
+Episode: 17,Steps: 17 Reward: 2.817 Ave_reward: 0.166
+Target: 1.865, 0.825
+final_position: 0.529, -0.366
+final_velocity: 0.001, 0.107
+###############################
+Episode: 18,Steps: 18 Reward: 3.863 Ave_reward: 0.215
+Target: 1.470, 1.471
+final_position: 0.089, 1.267
+final_velocity: -0.004, -0.069
+###############################
+Episode: 19,Steps: 26 Reward: 3.963 Ave_reward: 0.152
+Target: 1.537, 0.355
+final_position: 1.137, 1.221
+final_velocity: 0.033, -0.151
+###############################
+Episode: 20,Steps: 24 Reward: 27.274 Ave_reward: 1.136
+Target: 1.530, 1.389
+final_position: 1.433, 1.251
+final_velocity: 0.112, 0.032
+###############################
+Episode: 21,Steps: 22 Reward: 7.119 Ave_reward: 0.324
+Target: 1.438, 0.917
+final_position: 1.111, -0.064
+final_velocity: -0.130, 0.031
+###############################
+Episode: 22,Steps: 19 Reward: 2.570 Ave_reward: 0.135
+Target: 2.371, 0.670
+final_position: 0.293, 0.400
+final_velocity: -0.076, -0.060
+###############################
+Episode: 23,Steps: 24 Reward: 4.626 Ave_reward: 0.193
+Target: 2.331, -0.200
+final_position: 1.184, 0.203
+final_velocity: -0.024, -0.078
+###############################
+Episode: 24,Steps: 13 Reward: 1.149 Ave_reward: 0.088
+Target: 1.724, 0.205
+final_position: -0.316, 0.589
+final_velocity: -0.081, -0.123
+###############################
+Episode: 25,Steps: 15 Reward: 1.274 Ave_reward: 0.085
+Target: 1.038, -1.109
+final_position: 0.176, 0.144
+final_velocity: -0.042, -0.064
+###############################
+Episode: 26,Steps: 12 Reward: 0.591 Ave_reward: 0.049
+Target: 1.856, -0.620
+final_position: -0.150, -0.917
+final_velocity: 0.015, 0.163
+###############################
+Episode: 27,Steps: 20 Reward: 3.034 Ave_reward: 0.152
+Target: 1.492, 0.810
+final_position: 0.829, -0.779
+final_velocity: -0.064, 0.095
+###############################
+Episode: 28,Steps: 22 Reward: 2.167 Ave_reward: 0.099
+Target: 1.752, 1.180
+final_position: 0.945, -0.520
+final_velocity: -0.056, 0.091
+###############################
+Episode: 29,Steps: 25 Reward: 8.131 Ave_reward: 0.325
+Target: 1.988, -0.134
+final_position: 1.491, 0.456
+final_velocity: -0.080, -0.048
+###############################
+Episode: 30,Steps: 18 Reward: 2.678 Ave_reward: 0.149
+Target: 1.614, -0.143
+final_position: 0.496, 0.976
+final_velocity: -0.104, -0.149
+###############################
+Episode: 31,Steps: 23 Reward: 4.266 Ave_reward: 0.185
+Target: 2.090, -0.625
+final_position: 0.803, -1.193
+final_velocity: -0.067, 0.021
+###############################
+Episode: 32,Steps: 16 Reward: 1.471 Ave_reward: 0.092
+Target: 2.052, -0.123
+final_position: 0.422, -1.067
+final_velocity: 0.005, 0.188
+###############################
+Episode: 33,Steps: 22 Reward: 4.778 Ave_reward: 0.217
+Target: 1.586, 0.036
+final_position: 0.495, 0.936
+final_velocity: -0.077, 0.006
+###############################
+Episode: 34,Steps: 22 Reward: 7.421 Ave_reward: 0.337
+Target: 1.155, 0.962
+final_position: 0.836, 0.097
+final_velocity: -0.073, 0.139
+###############################
+Episode: 35,Steps: 17 Reward: 2.820 Ave_reward: 0.166
+Target: 1.378, 1.373
+final_position: -0.197, 1.213
+final_velocity: -0.021, -0.079
+###############################
+Episode: 36,Steps: 16 Reward: 2.096 Ave_reward: 0.131
+Target: 1.674, 1.526
+final_position: -0.055, 0.968
+final_velocity: 0.039, -0.151
+###############################
+Episode: 37,Steps: 17 Reward: 2.117 Ave_reward: 0.125
+Target: 1.680, -0.019
+final_position: 0.049, 0.787
+final_velocity: -0.101, -0.041
+###############################
+Episode: 38,Steps: 25 Reward: 8.581 Ave_reward: 0.343
+Target: 1.164, -1.137
+final_position: 0.927, -1.441
+final_velocity: -0.017, 0.108
+###############################
+Episode: 39,Steps: 14 Reward: 1.537 Ave_reward: 0.110
+Target: 1.578, 0.016
+final_position: -0.142, 0.855
+final_velocity: -0.134, -0.137
+###############################
+Episode: 40,Steps: 30 Reward: 6.603 Ave_reward: 0.220
+Target: 2.253, -0.293
+final_position: 2.068, 0.768
+final_velocity: -0.093, -0.143
+###############################
+Episode: 41,Steps: 21 Reward: 2.316 Ave_reward: 0.110
+Target: 1.500, 0.491
+final_position: 0.137, -0.409
+final_velocity: -0.023, 0.078
+###############################
+Episode: 42,Steps: 30 Reward: 7.495 Ave_reward: 0.250
+Target: 1.542, -1.949
+final_position: 0.972, -0.949
+final_velocity: -0.105, -0.021
+###############################
+Episode: 43,Steps: 28 Reward: 6.247 Ave_reward: 0.223
+Target: 1.515, -1.855
+final_position: 0.561, -2.312
+final_velocity: -0.071, 0.084
+###############################
+Episode: 44,Steps: 27 Reward: 5.147 Ave_reward: 0.191
+Target: 2.151, -0.865
+final_position: 1.240, -1.656
+final_velocity: 0.019, 0.076
+###############################
+Episode: 45,Steps: 13 Reward: 0.991 Ave_reward: 0.076
+Target: 1.883, 0.938
+final_position: -0.446, -0.565
+final_velocity: -0.135, 0.039
+###############################
+Episode: 46,Steps: 19 Reward: 3.611 Ave_reward: 0.190
+Target: 1.725, 1.561
+final_position: 0.323, 1.455
+final_velocity: -0.013, -0.105
+###############################
+Episode: 47,Steps: 20 Reward: 3.342 Ave_reward: 0.167
+Target: 1.698, 0.782
+final_position: 0.790, -0.323
+final_velocity: -0.004, 0.122
+###############################
+Episode: 48,Steps: 13 Reward: 0.904 Ave_reward: 0.070
+Target: 1.534, 0.590
+final_position: -0.229, 0.618
+final_velocity: 0.012, -0.154
+###############################
+Episode: 49,Steps: 14 Reward: 1.234 Ave_reward: 0.088
+Target: 1.304, -1.149
+final_position: 0.331, 0.584
+final_velocity: -0.007, -0.103
+###############################
+Episode: 50,Steps: 12 Reward: -0.216 Ave_reward: -0.018
+Target: 1.008, -1.189
+final_position: 0.047, 0.670
+final_velocity: -0.080, -0.035
+###############################
+Episode: 51,Steps: 17 Reward: 2.234 Ave_reward: 0.131
+Target: 1.824, -1.291
+final_position: 0.566, 0.367
+final_velocity: -0.028, -0.017
+###############################
+Episode: 52,Steps: 21 Reward: 3.100 Ave_reward: 0.148
+Target: 1.700, -1.499
+final_position: 0.926, 0.087
+final_velocity: -0.038, -0.049
+###############################
+Episode: 53,Steps: 17 Reward: 3.224 Ave_reward: 0.190
+Target: 1.394, 1.483
+final_position: 0.037, 1.433
+final_velocity: 0.051, -0.237
+###############################
+Episode: 54,Steps: 20 Reward: 2.642 Ave_reward: 0.132
+Target: 2.360, -0.154
+final_position: 0.698, -0.732
+final_velocity: 0.027, 0.132
+###############################
+Episode: 55,Steps: 18 Reward: 3.098 Ave_reward: 0.172
+Target: 2.071, -0.978
+final_position: 1.050, 0.299
+final_velocity: -0.006, -0.117
+###############################
+Episode: 56,Steps: 36 Reward: 7.794 Ave_reward: 0.216
+Target: 1.706, 1.772
+final_position: 0.945, 2.061
+final_velocity: -0.041, -0.042
+###############################
+Episode: 57,Steps: 26 Reward: 4.958 Ave_reward: 0.191
+Target: 1.780, -0.084
+final_position: 2.088, -0.675
+final_velocity: 0.041, 0.138
+###############################
+Episode: 58,Steps: 34 Reward: 9.755 Ave_reward: 0.287
+Target: 2.003, -0.084
+final_position: 1.817, 0.531
+final_velocity: -0.188, -0.091
+###############################
+Episode: 59,Steps: 13 Reward: 0.255 Ave_reward: 0.020
+Target: 1.491, -0.974
+final_position: 0.253, 0.572
+final_velocity: 0.048, -0.130
+###############################
+Episode: 60,Steps: 28 Reward: 1.662 Ave_reward: 0.059
+Target: 2.248, -0.278
+final_position: 1.491, 1.374
+final_velocity: -0.140, -0.164
+###############################
+Episode: 61,Steps: 29 Reward: 7.827 Ave_reward: 0.270
+Target: 1.554, -0.879
+final_position: 1.160, -0.978
+final_velocity: -0.042, 0.054
+###############################
+Episode: 62,Steps: 13 Reward: 0.670 Ave_reward: 0.052
+Target: 1.762, 0.689
+final_position: -0.340, 0.676
+final_velocity: -0.014, -0.042
+###############################
+Episode: 63,Steps: 37 Reward: 6.268 Ave_reward: 0.169
+Target: 1.963, -0.789
+final_position: 2.637, -1.553
+final_velocity: -0.134, 0.081
+###############################
+Episode: 64,Steps: 26 Reward: 9.004 Ave_reward: 0.346
+Target: 1.786, 0.612
+final_position: 1.358, 0.890
+final_velocity: -0.023, -0.091
+###############################
+Episode: 65,Steps: 23 Reward: 4.113 Ave_reward: 0.179
+Target: 1.909, -0.301
+final_position: 0.691, 0.031
+final_velocity: -0.027, -0.055
+###############################
+Episode: 66,Steps: 21 Reward: 4.141 Ave_reward: 0.197
+Target: 1.496, 1.265
+final_position: 1.217, -0.360
+final_velocity: -0.143, 0.036
+###############################
+Episode: 67,Steps: 14 Reward: 1.302 Ave_reward: 0.093
+Target: 1.515, 1.003
+final_position: -0.068, 1.328
+final_velocity: -0.006, -0.087
+###############################
+Episode: 68,Steps: 30 Reward: 11.537 Ave_reward: 0.385
+Target: 2.119, 0.541
+final_position: 2.184, 0.380
+final_velocity: 0.082, 0.015
+###############################
+Episode: 69,Steps: 30 Reward: 5.559 Ave_reward: 0.185
+Target: 1.858, -1.082
+final_position: 1.330, -1.873
+final_velocity: -0.003, 0.079
+###############################
+Episode: 70,Steps: 25 Reward: 16.182 Ave_reward: 0.647
+Target: 1.703, -1.258
+final_position: 1.646, -1.058
+final_velocity: -0.056, -0.138
+###############################
+Episode: 71,Steps: 34 Reward: 9.853 Ave_reward: 0.290
+Target: 1.550, 1.879
+final_position: 1.476, 2.233
+final_velocity: -0.026, -0.071
+###############################
+Episode: 72,Steps: 29 Reward: 5.899 Ave_reward: 0.203
+Target: 2.296, -0.762
+final_position: 1.238, -0.142
+final_velocity: -0.032, -0.126
+###############################
+Episode: 73,Steps: 25 Reward: 6.018 Ave_reward: 0.241
+Target: 1.525, -1.978
+final_position: 0.580, -1.942
+final_velocity: 0.052, 0.195
+###############################
+Episode: 74,Steps: 23 Reward: 3.254 Ave_reward: 0.141
+Target: 1.997, -0.146
+final_position: 0.745, 0.927
+final_velocity: -0.138, -0.098
+###############################
+Episode: 75,Steps: 23 Reward: 2.943 Ave_reward: 0.128
+Target: 1.968, 0.903
+final_position: 0.702, 1.470
+final_velocity: -0.037, -0.165
+###############################
+Episode: 76,Steps: 27 Reward: 12.740 Ave_reward: 0.472
+Target: 1.866, -0.252
+final_position: 1.693, -0.433
+final_velocity: -0.102, 0.110
+###############################
+Episode: 77,Steps: 22 Reward: 25.040 Ave_reward: 1.138
+Target: 1.004, -1.524
+final_position: 0.846, -1.582
+final_velocity: 0.062, 0.081
+###############################
+Episode: 78,Steps: 31 Reward: 8.681 Ave_reward: 0.280
+Target: 2.019, 0.394
+final_position: 2.195, 0.728
+final_velocity: -0.121, -0.120
+###############################
+Episode: 79,Steps: 24 Reward: 19.709 Ave_reward: 0.821
+Target: 0.850, -1.450
+final_position: 0.644, -1.517
+final_velocity: -0.029, 0.126
+###############################
+Episode: 80,Steps: 29 Reward: 9.919 Ave_reward: 0.342
+Target: 1.659, -1.005
+final_position: 1.667, -1.529
+final_velocity: -0.114, 0.047
+###############################
+Episode: 81,Steps: 21 Reward: 4.222 Ave_reward: 0.201
+Target: 1.319, -1.886
+final_position: 0.431, -0.505
+final_velocity: -0.052, 0.004
+###############################
+Episode: 82,Steps: 19 Reward: 4.529 Ave_reward: 0.238
+Target: 1.576, 0.599
+final_position: 1.387, -0.255
+final_velocity: 0.060, 0.137
+###############################
+Episode: 83,Steps: 30 Reward: 7.201 Ave_reward: 0.240
+Target: 1.638, -1.147
+final_position: 1.213, -1.799
+final_velocity: -0.116, 0.145
+###############################
+Episode: 84,Steps: 21 Reward: 3.251 Ave_reward: 0.155
+Target: 1.162, -1.093
+final_position: 0.640, -1.829
+final_velocity: -0.046, 0.187
+###############################
+Episode: 85,Steps: 21 Reward: 25.090 Ave_reward: 1.195
+Target: 1.475, -0.372
+final_position: 1.482, -0.170
+final_velocity: -0.004, -0.152
+###############################
+Episode: 86,Steps: 21 Reward: 3.813 Ave_reward: 0.182
+Target: 2.096, 0.313
+final_position: 0.850, -0.458
+final_velocity: 0.014, 0.094
+###############################
+Episode: 87,Steps: 13 Reward: 0.713 Ave_reward: 0.055
+Target: 1.793, 0.112
+final_position: 0.159, -0.868
+final_velocity: 0.048, 0.141
+###############################
+Episode: 88,Steps: 28 Reward: 4.875 Ave_reward: 0.174
+Target: 2.086, 0.990
+final_position: 1.219, 1.687
+final_velocity: -0.042, -0.093
+###############################
+Episode: 89,Steps: 26 Reward: 8.484 Ave_reward: 0.326
+Target: 1.216, -1.301
+final_position: 1.063, -1.701
+final_velocity: -0.001, 0.039
+###############################
+Episode: 90,Steps: 22 Reward: 5.204 Ave_reward: 0.237
+Target: 1.067, 1.389
+final_position: -0.038, 1.488
+final_velocity: -0.051, -0.082
+###############################
+Episode: 91,Steps: 18 Reward: 1.745 Ave_reward: 0.097
+Target: 1.095, -1.267
+final_position: -0.115, -1.544
+final_velocity: 0.018, 0.171
+###############################
+Episode: 92,Steps: 30 Reward: 7.138 Ave_reward: 0.238
+Target: 1.116, 1.724
+final_position: 0.673, 2.165
+final_velocity: -0.089, -0.064
+###############################
+Episode: 93,Steps: 33 Reward: 8.795 Ave_reward: 0.267
+Target: 1.287, 1.364
+final_position: 1.383, 1.495
+final_velocity: 0.033, -0.050
+###############################
+Episode: 94,Steps: 24 Reward: 3.532 Ave_reward: 0.147
+Target: 1.122, 1.159
+final_position: 0.302, 1.795
+final_velocity: -0.004, -0.068
+###############################
+Episode: 95,Steps: 20 Reward: 4.353 Ave_reward: 0.218
+Target: 1.391, 0.831
+final_position: 0.625, 1.253
+final_velocity: -0.011, -0.118
+###############################
+Episode: 96,Steps: 16 Reward: 1.962 Ave_reward: 0.123
+Target: 1.742, -0.982
+final_position: 0.395, 0.273
+final_velocity: -0.037, -0.079
+###############################
+Episode: 97,Steps: 25 Reward: 5.509 Ave_reward: 0.220
+Target: 1.093, -1.724
+final_position: 0.425, -2.089
+final_velocity: -0.024, 0.186
+###############################
+Episode: 98,Steps: 24 Reward: 4.526 Ave_reward: 0.189
+Target: 0.970, 1.675
+final_position: 0.230, 0.675
+final_velocity: -0.005, 0.062
+###############################
+Episode: 99,Steps: 30 Reward: 14.690 Ave_reward: 0.490
+Target: 1.652, -0.789
+final_position: 1.810, -0.692
+final_velocity: 0.028, -0.114
+###############################
+Episode: 100,Steps: 16 Reward: -0.502 Ave_reward: -0.031
+Target: 1.367, -1.301
+final_position: 0.321, 0.828
+final_velocity: 0.030, -0.081
+###############################
+Episode: 101,Steps: 19 Reward: 2.004 Ave_reward: 0.105
+Target: 2.043, 0.117
+final_position: 0.216, 0.545
+final_velocity: 0.014, -0.075
+###############################
+Episode: 102,Steps: 20 Reward: 2.340 Ave_reward: 0.117
+Target: 2.051, 0.483
+final_position: 0.743, -0.750
+final_velocity: 0.033, 0.116
+###############################
+Episode: 103,Steps: 31 Reward: 10.356 Ave_reward: 0.334
+Target: 1.620, -1.300
+final_position: 1.716, -1.812
+final_velocity: -0.133, 0.051
+###############################
+Episode: 104,Steps: 34 Reward: 11.219 Ave_reward: 0.330
+Target: 1.425, 1.975
+final_position: 1.393, 2.142
+final_velocity: 0.127, -0.011
+###############################
+Episode: 105,Steps: 38 Reward: 5.408 Ave_reward: 0.142
+Target: 1.991, -1.399
+final_position: 1.864, -1.964
+final_velocity: 0.003, 0.207
+###############################
+Episode: 106,Steps: 18 Reward: 2.070 Ave_reward: 0.115
+Target: 1.940, 1.389
+final_position: 0.023, 0.945
+final_velocity: 0.012, -0.138
+###############################
+Episode: 107,Steps: 26 Reward: 6.369 Ave_reward: 0.245
+Target: 1.616, -1.040
+final_position: 1.071, -0.295
+final_velocity: -0.104, -0.137
+###############################
+Episode: 108,Steps: 17 Reward: 3.013 Ave_reward: 0.177
+Target: 2.359, 0.636
+final_position: 0.608, 0.793
+final_velocity: 0.015, -0.088
+###############################
+Episode: 109,Steps: 37 Reward: 19.205 Ave_reward: 0.519
+Target: 2.248, -0.431
+final_position: 2.252, -0.570
+final_velocity: -0.015, 0.191
+###############################
+Episode: 110,Steps: 22 Reward: 4.963 Ave_reward: 0.226
+Target: 1.145, -1.629
+final_position: 0.237, -1.553
+final_velocity: 0.016, 0.078
+###############################
+Episode: 111,Steps: 20 Reward: 3.198 Ave_reward: 0.160
+Target: 0.908, 1.556
+final_position: -0.280, 1.308
+final_velocity: -0.001, -0.063
+###############################
+Episode: 112,Steps: 17 Reward: 3.454 Ave_reward: 0.203
+Target: 1.194, 0.978
+final_position: 0.220, 1.455
+final_velocity: -0.055, -0.210
+###############################
+Episode: 113,Steps: 25 Reward: 7.992 Ave_reward: 0.320
+Target: 1.088, 1.441
+final_position: 0.875, 2.110
+final_velocity: -0.014, -0.081
+###############################
+Episode: 114,Steps: 19 Reward: 2.391 Ave_reward: 0.126
+Target: 1.852, 1.008
+final_position: 0.195, 1.509
+final_velocity: -0.005, -0.187
+###############################
+Episode: 115,Steps: 16 Reward: 1.928 Ave_reward: 0.120
+Target: 2.417, 0.044
+final_position: 0.378, -0.818
+final_velocity: -0.030, 0.174
+###############################
+Episode: 116,Steps: 34 Reward: 11.660 Ave_reward: 0.343
+Target: 1.842, -0.079
+final_position: 1.870, -0.396
+final_velocity: -0.033, 0.070
+###############################
+Episode: 117,Steps: 25 Reward: 7.509 Ave_reward: 0.300
+Target: 1.502, 0.339
+final_position: 1.707, 0.534
+final_velocity: -0.032, -0.126
+###############################
+Episode: 118,Steps: 22 Reward: 3.917 Ave_reward: 0.178
+Target: 2.179, -1.022
+final_position: 0.869, -1.506
+final_velocity: 0.054, 0.140
+###############################
+Episode: 119,Steps: 29 Reward: 21.444 Ave_reward: 0.739
+Target: 1.768, 1.161
+final_position: 1.595, 1.230
+final_velocity: 0.027, -0.068
+###############################
+Episode: 120,Steps: 27 Reward: 6.031 Ave_reward: 0.223
+Target: 1.570, -1.691
+final_position: 1.387, -0.854
+final_velocity: 0.026, -0.210
+###############################
+Episode: 121,Steps: 14 Reward: 1.764 Ave_reward: 0.126
+Target: 1.029, -1.616
+final_position: 0.139, 0.063
+final_velocity: 0.009, -0.055
+###############################
+Episode: 122,Steps: 21 Reward: 3.948 Ave_reward: 0.188
+Target: 2.161, -0.115
+final_position: 0.678, 0.238
+final_velocity: 0.023, -0.100
+###############################
+Episode: 123,Steps: 35 Reward: 18.383 Ave_reward: 0.525
+Target: 1.991, 0.973
+final_position: 2.001, 0.817
+final_velocity: 0.064, 0.064
+###############################
+Episode: 124,Steps: 23 Reward: 25.436 Ave_reward: 1.106
+Target: 1.243, -1.579
+final_position: 1.078, -1.647
+final_velocity: 0.047, 0.186
+###############################
+Episode: 125,Steps: 21 Reward: 5.929 Ave_reward: 0.282
+Target: 2.042, 0.372
+final_position: 1.122, 0.722
+final_velocity: 0.024, -0.150
+###############################
+Episode: 126,Steps: 38 Reward: 20.220 Ave_reward: 0.532
+Target: 2.361, 0.614
+final_position: 2.234, 0.486
+final_velocity: 0.061, 0.056
+###############################
+Episode: 127,Steps: 27 Reward: 7.204 Ave_reward: 0.267
+Target: 1.925, 0.705
+final_position: 1.503, 1.323
+final_velocity: -0.077, -0.157
+###############################
+Episode: 128,Steps: 30 Reward: 5.712 Ave_reward: 0.190
+Target: 1.278, 1.007
+final_position: 0.823, 1.126
+final_velocity: -0.037, -0.118
+###############################
+Episode: 129,Steps: 21 Reward: 1.941 Ave_reward: 0.092
+Target: 1.562, 1.408
+final_position: -0.127, 0.954
+final_velocity: 0.009, -0.116
+###############################
+Episode: 130,Steps: 30 Reward: 4.792 Ave_reward: 0.160
+Target: 2.130, -0.640
+final_position: 1.087, -0.875
+final_velocity: 0.012, 0.069
+###############################
+Episode: 131,Steps: 21 Reward: 5.725 Ave_reward: 0.273
+Target: 1.694, -1.662
+final_position: 0.722, -1.942
+final_velocity: 0.042, 0.101
+###############################
+Episode: 132,Steps: 16 Reward: 3.533 Ave_reward: 0.221
+Target: 1.614, 0.464
+final_position: 0.584, -0.208
+final_velocity: 0.061, 0.158
+###############################
+Episode: 133,Steps: 27 Reward: 22.119 Ave_reward: 0.819
+Target: 1.662, 1.786
+final_position: 1.561, 1.803
+final_velocity: 0.183, 0.013
+###############################
+Episode: 134,Steps: 19 Reward: 1.649 Ave_reward: 0.087
+Target: 1.488, 1.587
+final_position: -0.241, 1.532
+final_velocity: -0.030, -0.136
+###############################
+Episode: 135,Steps: 38 Reward: 18.309 Ave_reward: 0.482
+Target: 2.370, -0.581
+final_position: 2.265, -0.476
+final_velocity: 0.039, -0.094
+###############################
+Episode: 136,Steps: 25 Reward: 5.039 Ave_reward: 0.202
+Target: 1.282, 2.075
+final_position: 0.102, 2.094
+final_velocity: 0.022, -0.230
+###############################
+Episode: 137,Steps: 19 Reward: 3.065 Ave_reward: 0.161
+Target: 2.022, -1.453
+final_position: 0.814, 0.266
+final_velocity: -0.078, -0.026
+###############################
+Episode: 138,Steps: 11 Reward: -0.284 Ave_reward: -0.026
+Target: 1.487, -1.267
+final_position: -0.006, 0.545
+final_velocity: -0.008, -0.101
+###############################
+Episode: 139,Steps: 25 Reward: 7.167 Ave_reward: 0.287
+Target: 1.453, 0.775
+final_position: 1.553, 0.156
+final_velocity: -0.037, 0.119
+###############################
+Episode: 140,Steps: 26 Reward: 4.603 Ave_reward: 0.177
+Target: 2.008, 1.327
+final_position: 1.811, 0.021
+final_velocity: -0.071, 0.156
+###############################
+Episode: 141,Steps: 33 Reward: 9.965 Ave_reward: 0.302
+Target: 2.151, 0.154
+final_position: 2.516, -0.281
+final_velocity: -0.149, 0.115
+###############################
+Episode: 142,Steps: 34 Reward: 9.827 Ave_reward: 0.289
+Target: 1.445, 1.476
+final_position: 1.796, 2.008
+final_velocity: -0.169, 0.057
+###############################
+Episode: 143,Steps: 18 Reward: 5.219 Ave_reward: 0.290
+Target: 1.137, 1.077
+final_position: -0.067, 0.562
+final_velocity: -0.133, -0.019
+###############################
+Episode: 144,Steps: 29 Reward: 19.520 Ave_reward: 0.673
+Target: 1.401, 0.668
+final_position: 1.266, 0.658
+final_velocity: 0.102, 0.015
+###############################
+Episode: 145,Steps: 23 Reward: 18.366 Ave_reward: 0.799
+Target: 0.910, -1.270
+final_position: 0.805, -1.362
+final_velocity: 0.165, 0.078
+###############################
+Episode: 146,Steps: 24 Reward: 8.286 Ave_reward: 0.345
+Target: 1.500, -1.255
+final_position: 1.159, -1.665
+final_velocity: 0.029, 0.171
+###############################
+Episode: 147,Steps: 30 Reward: 22.062 Ave_reward: 0.735
+Target: 1.641, -0.374
+final_position: 1.482, -0.342
+final_velocity: 0.158, 0.025
+###############################
+Episode: 148,Steps: 29 Reward: 20.645 Ave_reward: 0.712
+Target: 2.058, -1.349
+final_position: 2.039, -1.150
+final_velocity: 0.126, -0.018
+###############################
+Episode: 149,Steps: 32 Reward: 12.035 Ave_reward: 0.376
+Target: 1.180, 1.804
+final_position: 1.656, 1.606
+final_velocity: -0.136, 0.124
+###############################
+Episode: 150,Steps: 27 Reward: 7.674 Ave_reward: 0.284
+Target: 2.274, 0.032
+final_position: 1.218, 0.408
+final_velocity: -0.036, -0.063
+###############################
+Episode: 151,Steps: 25 Reward: 3.950 Ave_reward: 0.158
+Target: 2.277, 0.578
+final_position: 0.923, 0.847
+final_velocity: -0.006, -0.115
+###############################
+Episode: 152,Steps: 32 Reward: 13.183 Ave_reward: 0.412
+Target: 1.374, -1.447
+final_position: 1.314, -1.251
+final_velocity: -0.043, -0.107
+###############################
+Episode: 153,Steps: 35 Reward: 8.498 Ave_reward: 0.243
+Target: 1.845, -0.586
+final_position: 2.006, -1.275
+final_velocity: -0.148, 0.085
+###############################
+Episode: 154,Steps: 20 Reward: 3.761 Ave_reward: 0.188
+Target: 1.596, -0.405
+final_position: 1.519, 0.758
+final_velocity: -0.063, -0.176
+###############################
+Episode: 155,Steps: 12 Reward: 0.169 Ave_reward: 0.014
+Target: 1.380, 1.596
+final_position: 0.157, -0.487
+final_velocity: -0.097, 0.131
+###############################
+Episode: 156,Steps: 32 Reward: 3.568 Ave_reward: 0.112
+Target: 2.449, -0.178
+final_position: 1.376, -0.986
+final_velocity: -0.067, 0.112
+###############################
+Episode: 157,Steps: 17 Reward: 3.156 Ave_reward: 0.186
+Target: 1.498, 0.442
+final_position: 0.417, -0.302
+final_velocity: -0.005, 0.053
+###############################
+Episode: 158,Steps: 14 Reward: 0.981 Ave_reward: 0.070
+Target: 2.365, 0.411
+final_position: 0.207, -0.668
+final_velocity: 0.056, 0.176
+###############################
+Episode: 159,Steps: 18 Reward: 3.555 Ave_reward: 0.197
+Target: 1.458, 0.417
+final_position: 0.307, -0.144
+final_velocity: -0.020, 0.032
+###############################
+Episode: 160,Steps: 34 Reward: 8.865 Ave_reward: 0.261
+Target: 2.452, 0.448
+final_position: 2.167, 0.748
+final_velocity: -0.012, -0.138
+###############################
+Episode: 161,Steps: 24 Reward: 6.176 Ave_reward: 0.257
+Target: 1.531, -0.498
+final_position: 1.699, -1.150
+final_velocity: 0.030, 0.077
+###############################
+Episode: 162,Steps: 16 Reward: 2.257 Ave_reward: 0.141
+Target: 1.109, 1.297
+final_position: -0.259, 1.195
+final_velocity: 0.019, -0.181
+###############################
+Episode: 163,Steps: 34 Reward: 11.554 Ave_reward: 0.340
+Target: 2.072, -0.256
+final_position: 1.962, -0.294
+final_velocity: 0.088, -0.117
+###############################
+Episode: 164,Steps: 37 Reward: 21.530 Ave_reward: 0.582
+Target: 2.259, 0.260
+final_position: 2.105, 0.189
+final_velocity: 0.142, 0.106
+###############################
+Episode: 165,Steps: 17 Reward: 3.384 Ave_reward: 0.199
+Target: 1.661, 0.129
+final_position: 0.563, 0.827
+final_velocity: -0.028, -0.127
+###############################
+Episode: 166,Steps: 20 Reward: 5.773 Ave_reward: 0.289
+Target: 1.265, 0.890
+final_position: 0.582, 1.156
+final_velocity: 0.003, -0.120
+###############################
+Episode: 167,Steps: 28 Reward: 13.249 Ave_reward: 0.473
+Target: 1.587, -0.724
+final_position: 1.530, -0.890
+final_velocity: 0.130, 0.011
+###############################
+Episode: 168,Steps: 31 Reward: 17.320 Ave_reward: 0.559
+Target: 1.507, -0.448
+final_position: 1.546, -0.276
+final_velocity: 0.016, -0.028
+###############################
+Episode: 169,Steps: 27 Reward: 3.983 Ave_reward: 0.148
+Target: 2.211, -0.295
+final_position: 1.115, -1.304
+final_velocity: -0.064, 0.177
+###############################
+Episode: 170,Steps: 19 Reward: 1.729 Ave_reward: 0.091
+Target: 2.219, -0.350
+final_position: 0.851, 1.108
+final_velocity: 0.073, -0.140
+###############################
+Episode: 171,Steps: 21 Reward: 3.961 Ave_reward: 0.189
+Target: 1.461, 2.021
+final_position: 0.177, 2.328
+final_velocity: -0.013, -0.134
+###############################
+Episode: 172,Steps: 33 Reward: 19.490 Ave_reward: 0.591
+Target: 1.340, -1.409
+final_position: 1.269, -1.316
+final_velocity: 0.090, -0.076
+###############################
+Episode: 173,Steps: 25 Reward: 25.140 Ave_reward: 1.006
+Target: 1.920, -0.102
+final_position: 1.824, -0.204
+final_velocity: 0.084, 0.203
+###############################
+Episode: 174,Steps: 30 Reward: 20.566 Ave_reward: 0.686
+Target: 1.549, 0.809
+final_position: 1.457, 0.668
+final_velocity: 0.091, 0.099
+###############################
+Episode: 175,Steps: 38 Reward: 12.465 Ave_reward: 0.328
+Target: 2.195, -1.172
+final_position: 2.419, -1.798
+final_velocity: -0.103, 0.043
+###############################
+Episode: 176,Steps: 19 Reward: 4.604 Ave_reward: 0.242
+Target: 0.961, -1.364
+final_position: 1.140, -0.441
+final_velocity: -0.024, -0.108
+###############################
+Episode: 177,Steps: 32 Reward: 7.060 Ave_reward: 0.221
+Target: 1.557, -1.540
+final_position: 0.869, -2.148
+final_velocity: -0.048, 0.138
+###############################
+Episode: 178,Steps: 22 Reward: 3.299 Ave_reward: 0.150
+Target: 2.457, 0.210
+final_position: 0.986, -0.619
+final_velocity: -0.026, 0.229
+###############################
+Episode: 179,Steps: 24 Reward: 6.678 Ave_reward: 0.278
+Target: 1.467, -1.512
+final_position: 0.642, -1.617
+final_velocity: 0.036, 0.118
+###############################
+Episode: 180,Steps: 28 Reward: 20.722 Ave_reward: 0.740
+Target: 1.780, 0.185
+final_position: 1.601, 0.137
+final_velocity: 0.093, -0.060
+###############################
+Episode: 181,Steps: 20 Reward: 3.773 Ave_reward: 0.189
+Target: 1.160, -1.419
+final_position: 0.981, -0.224
+final_velocity: 0.007, -0.073
+###############################
+Episode: 182,Steps: 15 Reward: 1.438 Ave_reward: 0.096
+Target: 2.105, 1.195
+final_position: 0.425, -0.430
+final_velocity: 0.012, 0.135
+###############################
+Episode: 183,Steps: 31 Reward: 2.922 Ave_reward: 0.094
+Target: 1.488, -0.961
+final_position: 1.057, -1.756
+final_velocity: -0.018, 0.058
+###############################
+Episode: 184,Steps: 38 Reward: 8.168 Ave_reward: 0.215
+Target: 1.436, -1.761
+final_position: 1.095, -2.263
+final_velocity: -0.029, 0.102
+###############################
+Episode: 185,Steps: 25 Reward: 7.241 Ave_reward: 0.290
+Target: 1.095, 1.673
+final_position: 0.657, 2.112
+final_velocity: -0.053, -0.049
+###############################
+Episode: 186,Steps: 14 Reward: 1.619 Ave_reward: 0.116
+Target: 1.453, 1.475
+final_position: 0.383, -0.085
+final_velocity: -0.026, 0.122
+###############################
+Episode: 187,Steps: 37 Reward: 19.014 Ave_reward: 0.514
+Target: 1.740, -1.423
+final_position: 1.580, -1.339
+final_velocity: 0.137, 0.110
+###############################
+Episode: 188,Steps: 24 Reward: 3.090 Ave_reward: 0.129
+Target: 1.784, -1.260
+final_position: 0.298, -1.294
+final_velocity: 0.021, 0.049
+###############################
+Episode: 189,Steps: 22 Reward: 21.718 Ave_reward: 0.987
+Target: 1.446, 0.477
+final_position: 1.316, 0.582
+final_velocity: 0.074, -0.013
+###############################
+Episode: 190,Steps: 18 Reward: 1.163 Ave_reward: 0.065
+Target: 2.245, -0.350
+final_position: 0.507, 0.949
+final_velocity: 0.026, -0.137
+###############################
+Episode: 191,Steps: 18 Reward: 4.498 Ave_reward: 0.250
+Target: 1.483, -0.941
+final_position: 0.613, -1.352
+final_velocity: 0.028, 0.117
+###############################
+Episode: 192,Steps: 31 Reward: 8.176 Ave_reward: 0.264
+Target: 1.214, 1.373
+final_position: 0.915, 1.137
+final_velocity: 0.005, -0.060
+###############################
+Episode: 193,Steps: 10 Reward: -0.296 Ave_reward: -0.030
+Target: 1.043, -1.537
+final_position: 0.026, 0.308
+final_velocity: 0.078, -0.157
+###############################
+Episode: 194,Steps: 22 Reward: 25.351 Ave_reward: 1.152
+Target: 1.467, -0.435
+final_position: 1.288, -0.497
+final_velocity: 0.078, 0.064
+###############################
+Episode: 195,Steps: 28 Reward: 5.141 Ave_reward: 0.184
+Target: 1.545, 1.316
+final_position: 0.832, 0.604
+final_velocity: -0.103, 0.132
+###############################
+Episode: 196,Steps: 29 Reward: 8.091 Ave_reward: 0.279
+Target: 1.985, 1.211
+final_position: 1.445, 0.375
+final_velocity: -0.127, 0.175
+###############################
+Episode: 197,Steps: 28 Reward: 5.303 Ave_reward: 0.189
+Target: 2.340, -0.505
+final_position: 1.253, -1.004
+final_velocity: 0.031, 0.071
+###############################
+Episode: 198,Steps: 18 Reward: 1.727 Ave_reward: 0.096
+Target: 1.716, -1.383
+final_position: 0.605, 0.293
+final_velocity: -0.067, -0.129
+###############################
+Episode: 199,Steps: 24 Reward: 21.333 Ave_reward: 0.889
+Target: 1.476, 0.535
+final_position: 1.562, 0.382
+final_velocity: 0.048, 0.178
+###############################
+Episode: 200,Steps: 11 Reward: -0.029 Ave_reward: -0.003
+Target: 1.558, 1.440
+final_position: 0.052, -0.363
+final_velocity: 0.015, 0.090
+###############################
+Episode: 201,Steps: 35 Reward: 10.302 Ave_reward: 0.294
+Target: 1.075, 1.360
+final_position: 1.124, 1.221
+final_velocity: 0.015, -0.096
+###############################
+Episode: 202,Steps: 21 Reward: 5.447 Ave_reward: 0.259
+Target: 1.504, 1.136
+final_position: 0.606, 1.375
+final_velocity: 0.052, -0.119
+###############################
+Episode: 203,Steps: 25 Reward: 24.844 Ave_reward: 0.994
+Target: 1.277, 1.898
+final_position: 1.147, 1.790
+final_velocity: 0.085, 0.026
+###############################
+Episode: 204,Steps: 26 Reward: 23.789 Ave_reward: 0.915
+Target: 1.221, -1.808
+final_position: 1.139, -1.898
+final_velocity: -0.009, 0.184
+###############################
+Episode: 205,Steps: 21 Reward: 4.448 Ave_reward: 0.212
+Target: 1.747, -0.674
+final_position: 0.696, -1.242
+final_velocity: -0.032, 0.116
+###############################
+Episode: 206,Steps: 23 Reward: 3.891 Ave_reward: 0.169
+Target: 1.678, 1.124
+final_position: 0.556, 1.503
+final_velocity: 0.073, -0.143
+###############################
+Episode: 207,Steps: 30 Reward: 10.624 Ave_reward: 0.354
+Target: 2.033, -0.160
+final_position: 2.177, -0.378
+final_velocity: 0.011, 0.063
+###############################
+Episode: 208,Steps: 33 Reward: 15.896 Ave_reward: 0.482
+Target: 2.309, -0.278
+final_position: 2.366, -0.178
+final_velocity: 0.121, -0.119
+###############################
+Episode: 209,Steps: 47 Reward: 9.589 Ave_reward: 0.204
+Target: 2.220, -0.988
+final_position: 2.187, -0.654
+final_velocity: -0.035, -0.083
+###############################
+Episode: 210,Steps: 16 Reward: 1.763 Ave_reward: 0.110
+Target: 1.570, -1.163
+final_position: 0.388, 0.325
+final_velocity: -0.008, -0.068
+###############################
+Episode: 211,Steps: 17 Reward: 2.678 Ave_reward: 0.158
+Target: 1.884, 0.856
+final_position: 0.476, 1.437
+final_velocity: 0.069, -0.163
+###############################
+Episode: 212,Steps: 34 Reward: 6.963 Ave_reward: 0.205
+Target: 1.903, 0.781
+final_position: 2.029, 1.227
+final_velocity: -0.056, -0.104
+###############################
+Episode: 213,Steps: 26 Reward: 11.205 Ave_reward: 0.431
+Target: 1.645, -0.381
+final_position: 1.581, -0.508
+final_velocity: 0.086, -0.012
+###############################
+Episode: 214,Steps: 26 Reward: 24.501 Ave_reward: 0.942
+Target: 1.837, -1.643
+final_position: 1.697, -1.603
+final_velocity: 0.139, 0.158
+###############################
+Episode: 215,Steps: 40 Reward: 13.889 Ave_reward: 0.347
+Target: 1.942, 0.688
+final_position: 1.932, 0.444
+final_velocity: -0.090, 0.070
+###############################
+Episode: 216,Steps: 24 Reward: 5.486 Ave_reward: 0.229
+Target: 1.423, -1.154
+final_position: 0.539, -1.230
+final_velocity: 0.016, 0.084
+###############################
+Episode: 217,Steps: 25 Reward: 10.572 Ave_reward: 0.423
+Target: 1.027, -1.738
+final_position: 0.398, -1.848
+final_velocity: -0.120, 0.052
+###############################
+Episode: 218,Steps: 28 Reward: 22.991 Ave_reward: 0.821
+Target: 1.136, -1.651
+final_position: 0.987, -1.611
+final_velocity: 0.088, 0.114
+###############################
+Episode: 219,Steps: 30 Reward: 8.992 Ave_reward: 0.300
+Target: 2.156, 0.089
+final_position: 1.759, 0.696
+final_velocity: -0.113, -0.078
+###############################
+Episode: 220,Steps: 29 Reward: 17.916 Ave_reward: 0.618
+Target: 1.662, -1.127
+final_position: 1.530, -1.241
+final_velocity: 0.078, 0.023
+###############################
+Episode: 221,Steps: 14 Reward: 0.975 Ave_reward: 0.070
+Target: 2.229, 0.906
+final_position: 0.154, -0.466
+final_velocity: -0.031, 0.086
+###############################
+Episode: 222,Steps: 23 Reward: 6.138 Ave_reward: 0.267
+Target: 1.326, -1.307
+final_position: 0.509, -0.273
+final_velocity: -0.195, -0.047
+###############################
+Episode: 223,Steps: 10 Reward: -0.589 Ave_reward: -0.059
+Target: 1.373, -1.636
+final_position: -0.022, 0.534
+final_velocity: -0.040, -0.187
+###############################
+Episode: 224,Steps: 26 Reward: 4.554 Ave_reward: 0.175
+Target: 1.941, -1.470
+final_position: 0.687, -2.151
+final_velocity: -0.024, 0.106
+###############################
+Episode: 225,Steps: 29 Reward: 22.461 Ave_reward: 0.775
+Target: 1.239, 1.578
+final_position: 1.067, 1.676
+final_velocity: -0.008, -0.156
+###############################
+Episode: 226,Steps: 26 Reward: 18.280 Ave_reward: 0.703
+Target: 0.845, -1.320
+final_position: 0.718, -1.240
+final_velocity: 0.055, 0.078
+###############################
+Episode: 227,Steps: 32 Reward: 22.685 Ave_reward: 0.709
+Target: 1.362, 1.714
+final_position: 1.205, 1.662
+final_velocity: 0.071, 0.005
+###############################
+Episode: 228,Steps: 35 Reward: 18.100 Ave_reward: 0.517
+Target: 1.586, -1.579
+final_position: 1.644, -1.759
+final_velocity: -0.016, 0.041
+###############################
+Episode: 229,Steps: 33 Reward: 12.398 Ave_reward: 0.376
+Target: 1.881, -0.125
+final_position: 2.041, -0.225
+final_velocity: 0.037, 0.083
+###############################
+Episode: 230,Steps: 25 Reward: 5.268 Ave_reward: 0.211
+Target: 1.101, 1.892
+final_position: 0.260, 2.444
+final_velocity: -0.030, -0.109
+###############################
+Episode: 231,Steps: 33 Reward: 8.267 Ave_reward: 0.251
+Target: 2.054, 1.333
+final_position: 1.752, 1.786
+final_velocity: -0.014, -0.049
+###############################
+Episode: 232,Steps: 48 Reward: 7.961 Ave_reward: 0.166
+Target: 2.311, -0.012
+final_position: 2.258, -0.217
+final_velocity: -0.079, -0.154
+###############################
+Episode: 233,Steps: 22 Reward: 4.664 Ave_reward: 0.212
+Target: 1.767, 0.272
+final_position: 0.269, 0.989
+final_velocity: -0.179, -0.107
+###############################
+Episode: 234,Steps: 16 Reward: 2.306 Ave_reward: 0.144
+Target: 1.423, -0.771
+final_position: 0.199, 0.454
+final_velocity: -0.049, -0.056
+###############################
+Episode: 235,Steps: 34 Reward: 16.891 Ave_reward: 0.497
+Target: 2.004, 0.632
+final_position: 2.067, 0.508
+final_velocity: 0.084, 0.138
+###############################
+Episode: 236,Steps: 25 Reward: 20.828 Ave_reward: 0.833
+Target: 1.494, -0.205
+final_position: 1.353, -0.063
+final_velocity: 0.083, -0.018
+###############################
+Episode: 237,Steps: 40 Reward: 6.731 Ave_reward: 0.168
+Target: 1.464, -1.527
+final_position: 1.809, -1.369
+final_velocity: -0.057, 0.120
+###############################
+Episode: 238,Steps: 26 Reward: 4.015 Ave_reward: 0.154
+Target: 1.959, 1.101
+final_position: 0.720, 1.618
+final_velocity: -0.036, -0.091
+###############################
+Episode: 239,Steps: 13 Reward: 0.335 Ave_reward: 0.026
+Target: 1.803, -1.580
+final_position: 0.040, 0.516
+final_velocity: -0.023, -0.091
+###############################
+Episode: 240,Steps: 46 Reward: 16.020 Ave_reward: 0.348
+Target: 2.291, -0.310
+final_position: 2.336, -0.166
+final_velocity: 0.070, -0.106
+###############################
+Episode: 241,Steps: 35 Reward: 7.731 Ave_reward: 0.221
+Target: 1.358, -2.002
+final_position: 1.202, -1.360
+final_velocity: -0.035, -0.120
+###############################
+Episode: 242,Steps: 50 Reward: 9.309 Ave_reward: 0.186
+Target: 2.321, 0.908
+final_position: 2.275, 1.234
+final_velocity: 0.036, 0.130
+###############################
+Episode: 243,Steps: 22 Reward: 4.390 Ave_reward: 0.200
+Target: 2.156, 0.891
+final_position: 1.023, 1.624
+final_velocity: 0.006, -0.164
+###############################
+Episode: 244,Steps: 18 Reward: 2.621 Ave_reward: 0.146
+Target: 1.147, 1.448
+final_position: -0.099, 1.652
+final_velocity: -0.030, -0.157
+###############################
+Episode: 245,Steps: 29 Reward: 22.942 Ave_reward: 0.791
+Target: 2.042, -0.609
+final_position: 1.947, -0.762
+final_velocity: -0.004, 0.120
+###############################
+Episode: 246,Steps: 26 Reward: 16.433 Ave_reward: 0.632
+Target: 1.722, -0.034
+final_position: 1.558, 0.037
+final_velocity: 0.053, 0.047
+###############################
+Episode: 247,Steps: 30 Reward: 8.146 Ave_reward: 0.272
+Target: 1.309, 0.889
+final_position: 1.624, 0.962
+final_velocity: -0.026, 0.037
+###############################
+Episode: 248,Steps: 19 Reward: 4.439 Ave_reward: 0.234
+Target: 1.679, -0.574
+final_position: 0.754, 0.205
+final_velocity: 0.010, -0.085
+###############################
+Episode: 249,Steps: 27 Reward: 22.689 Ave_reward: 0.840
+Target: 1.801, 0.143
+final_position: 1.735, 0.329
+final_velocity: 0.000, -0.077
+###############################
+Episode: 250,Steps: 12 Reward: 0.488 Ave_reward: 0.041
+Target: 1.834, 1.624
+final_position: 0.302, -0.368
+final_velocity: 0.059, 0.180
+###############################
+Episode: 251,Steps: 30 Reward: 9.782 Ave_reward: 0.326
+Target: 1.171, 1.530
+final_position: 1.163, 1.681
+final_velocity: 0.127, -0.068
+###############################
+Episode: 252,Steps: 21 Reward: 2.797 Ave_reward: 0.133
+Target: 2.275, 0.195
+final_position: 0.584, 0.591
+final_velocity: -0.059, -0.115
+###############################
+Episode: 253,Steps: 27 Reward: 7.167 Ave_reward: 0.265
+Target: 2.010, 0.783
+final_position: 1.225, 1.205
+final_velocity: -0.028, -0.068
+###############################
+Episode: 254,Steps: 34 Reward: 7.029 Ave_reward: 0.207
+Target: 2.053, 0.386
+final_position: 1.415, 0.728
+final_velocity: 0.012, -0.089
+###############################
+Episode: 255,Steps: 22 Reward: 25.729 Ave_reward: 1.170
+Target: 0.929, -1.397
+final_position: 0.809, -1.427
+final_velocity: 0.055, 0.095
+###############################
+Episode: 256,Steps: 34 Reward: 17.440 Ave_reward: 0.513
+Target: 1.967, 0.209
+final_position: 1.894, 0.366
+final_velocity: 0.057, -0.016
+###############################
+Episode: 257,Steps: 31 Reward: 6.406 Ave_reward: 0.207
+Target: 1.044, -1.622
+final_position: 1.166, -0.854
+final_velocity: -0.049, -0.095
+###############################
+Episode: 258,Steps: 22 Reward: 2.847 Ave_reward: 0.129
+Target: 2.331, -0.056
+final_position: 0.521, 0.581
+final_velocity: -0.123, -0.117
+###############################
+Episode: 259,Steps: 24 Reward: 8.190 Ave_reward: 0.341
+Target: 1.345, -0.937
+final_position: 1.408, -1.226
+final_velocity: 0.028, 0.122
+###############################
+Episode: 260,Steps: 26 Reward: 5.510 Ave_reward: 0.212
+Target: 1.991, -0.198
+final_position: 1.700, -0.986
+final_velocity: -0.014, 0.107
+###############################
+Episode: 261,Steps: 34 Reward: 8.655 Ave_reward: 0.255
+Target: 1.668, -0.799
+final_position: 1.916, -0.904
+final_velocity: -0.054, 0.130
+###############################
+Episode: 262,Steps: 39 Reward: 18.214 Ave_reward: 0.467
+Target: 1.301, -1.540
+final_position: 1.258, -1.397
+final_velocity: 0.136, 0.035
+###############################
+Episode: 263,Steps: 28 Reward: 3.340 Ave_reward: 0.119
+Target: 1.979, 0.500
+final_position: 1.201, 1.547
+final_velocity: -0.025, -0.065
+###############################
+Episode: 264,Steps: 28 Reward: 8.728 Ave_reward: 0.312
+Target: 1.815, 0.456
+final_position: 1.853, 1.173
+final_velocity: -0.106, -0.105
+###############################
+Episode: 265,Steps: 21 Reward: 25.888 Ave_reward: 1.233
+Target: 1.580, -0.142
+final_position: 1.462, -0.142
+final_velocity: 0.118, 0.098
+###############################
+Episode: 266,Steps: 14 Reward: 1.451 Ave_reward: 0.104
+Target: 2.435, 0.059
+final_position: 0.104, 0.656
+final_velocity: 0.004, -0.059
+###############################
+Episode: 267,Steps: 34 Reward: 21.311 Ave_reward: 0.627
+Target: 1.737, -1.389
+final_position: 1.613, -1.234
+final_velocity: 0.172, -0.006
+###############################
+Episode: 268,Steps: 27 Reward: 6.375 Ave_reward: 0.236
+Target: 1.864, 0.113
+final_position: 1.616, -0.373
+final_velocity: 0.052, 0.160
+###############################
+Episode: 269,Steps: 10 Reward: -0.148 Ave_reward: -0.015
+Target: 1.073, -1.426
+final_position: 0.083, 0.421
+final_velocity: 0.058, -0.174
+###############################
+Episode: 270,Steps: 26 Reward: 24.753 Ave_reward: 0.952
+Target: 1.033, -1.745
+final_position: 1.040, -1.644
+final_velocity: 0.042, -0.117
+###############################
+Episode: 271,Steps: 33 Reward: 14.173 Ave_reward: 0.429
+Target: 1.676, -1.339
+final_position: 1.680, -1.489
+final_velocity: 0.039, 0.051
+###############################
+Episode: 272,Steps: 12 Reward: -0.071 Ave_reward: -0.006
+Target: 1.565, -1.135
+final_position: 0.063, 0.728
+final_velocity: -0.054, -0.045
+###############################
+Episode: 273,Steps: 28 Reward: 23.091 Ave_reward: 0.825
+Target: 1.594, -1.071
+final_position: 1.498, -1.106
+final_velocity: 0.113, 0.048
+###############################
+Episode: 274,Steps: 22 Reward: 7.245 Ave_reward: 0.329
+Target: 1.667, 0.426
+final_position: 1.460, -0.221
+final_velocity: -0.010, 0.097
+###############################
+Episode: 275,Steps: 23 Reward: 5.426 Ave_reward: 0.236
+Target: 1.476, -0.559
+final_position: 1.207, 0.203
+final_velocity: 0.042, -0.107
+###############################
+Episode: 276,Steps: 28 Reward: 14.179 Ave_reward: 0.506
+Target: 1.671, 0.535
+final_position: 1.501, 0.513
+final_velocity: 0.036, 0.096
+###############################
+Episode: 277,Steps: 28 Reward: 16.087 Ave_reward: 0.575
+Target: 2.079, 0.399
+final_position: 2.075, 0.533
+final_velocity: 0.082, -0.045
+###############################
+Episode: 278,Steps: 38 Reward: 8.933 Ave_reward: 0.235
+Target: 1.540, -1.366
+final_position: 1.901, -1.304
+final_velocity: -0.095, -0.105
+###############################
+Episode: 279,Steps: 38 Reward: 9.359 Ave_reward: 0.246
+Target: 1.954, -0.489
+final_position: 2.089, -0.225
+final_velocity: 0.015, -0.070
+###############################
+Episode: 280,Steps: 16 Reward: 3.506 Ave_reward: 0.219
+Target: 1.753, -0.114
+final_position: 0.251, 0.543
+final_velocity: -0.021, -0.038
+###############################
+Episode: 281,Steps: 34 Reward: 17.063 Ave_reward: 0.502
+Target: 2.039, -0.314
+final_position: 1.892, -0.240
+final_velocity: 0.084, 0.081
+###############################
+Episode: 282,Steps: 29 Reward: 11.070 Ave_reward: 0.382
+Target: 1.020, 1.147
+final_position: 0.837, 1.072
+final_velocity: 0.006, -0.148
+###############################
+Episode: 283,Steps: 28 Reward: 8.704 Ave_reward: 0.311
+Target: 2.012, -0.815
+final_position: 2.358, -0.356
+final_velocity: -0.041, -0.125
+###############################
+Episode: 284,Steps: 23 Reward: 26.843 Ave_reward: 1.167
+Target: 1.117, -1.867
+final_position: 1.228, -1.798
+final_velocity: -0.039, -0.147
+###############################
+Episode: 285,Steps: 20 Reward: 2.314 Ave_reward: 0.116
+Target: 2.114, -0.531
+final_position: 0.788, 0.668
+final_velocity: 0.009, -0.105
+###############################
+Episode: 286,Steps: 31 Reward: 8.479 Ave_reward: 0.274
+Target: 1.460, -0.904
+final_position: 1.560, -1.292
+final_velocity: -0.019, 0.069
+###############################
+Episode: 287,Steps: 29 Reward: 24.902 Ave_reward: 0.859
+Target: 2.041, -0.746
+final_position: 1.930, -0.742
+final_velocity: 0.104, 0.017
+###############################
+Episode: 288,Steps: 20 Reward: 1.707 Ave_reward: 0.085
+Target: 1.555, -0.073
+final_position: 0.806, 1.154
+final_velocity: -0.014, -0.080
+###############################
+Episode: 289,Steps: 22 Reward: 24.132 Ave_reward: 1.097
+Target: 1.102, -1.624
+final_position: 1.195, -1.536
+final_velocity: 0.065, -0.109
+###############################
+Episode: 290,Steps: 34 Reward: 11.156 Ave_reward: 0.328
+Target: 2.250, 0.677
+final_position: 1.880, 1.215
+final_velocity: -0.013, -0.066
+###############################
+Episode: 291,Steps: 20 Reward: 5.140 Ave_reward: 0.257
+Target: 1.240, 1.113
+final_position: 0.741, 1.760
+final_velocity: -0.029, -0.170
+###############################
+Episode: 292,Steps: 25 Reward: 8.892 Ave_reward: 0.356
+Target: 1.631, 0.076
+final_position: 1.786, 0.566
+final_velocity: -0.101, -0.072
+###############################
+Episode: 293,Steps: 13 Reward: 2.067 Ave_reward: 0.159
+Target: 1.396, 1.078
+final_position: -0.184, 1.063
+final_velocity: 0.014, -0.179
+###############################
+Episode: 294,Steps: 29 Reward: 23.367 Ave_reward: 0.806
+Target: 1.655, 0.021
+final_position: 1.484, 0.037
+final_velocity: 0.044, -0.016
+###############################
+Episode: 295,Steps: 31 Reward: 7.887 Ave_reward: 0.254
+Target: 1.549, -1.584
+final_position: 1.950, -1.677
+final_velocity: -0.081, -0.228
+###############################
+Episode: 296,Steps: 26 Reward: 17.097 Ave_reward: 0.658
+Target: 0.885, 1.467
+final_position: 0.752, 1.326
+final_velocity: 0.072, 0.104
+###############################
+Episode: 297,Steps: 48 Reward: 9.227 Ave_reward: 0.192
+Target: 1.958, -0.105
+final_position: 2.103, -0.291
+final_velocity: -0.007, 0.043
+###############################
+Episode: 298,Steps: 12 Reward: 1.029 Ave_reward: 0.086
+Target: 1.569, 0.073
+final_position: -0.069, 0.852
+final_velocity: -0.043, -0.115
+###############################
+Episode: 299,Steps: 25 Reward: 4.587 Ave_reward: 0.183
+Target: 1.476, 0.736
+final_position: 0.887, 1.352
+final_velocity: -0.004, -0.122
+###############################
+Episode: 300,Steps: 28 Reward: 12.183 Ave_reward: 0.435
+Target: 1.270, 1.651
+final_position: 1.192, 1.712
+final_velocity: 0.099, 0.022
+###############################
+Episode: 301,Steps: 13 Reward: 0.456 Ave_reward: 0.035
+Target: 1.209, -0.900
+final_position: -0.009, 0.650
+final_velocity: -0.129, -0.165
+###############################
+Episode: 302,Steps: 19 Reward: 2.632 Ave_reward: 0.139
+Target: 1.039, -1.104
+final_position: 0.857, -0.021
+final_velocity: -0.004, -0.154
+###############################
+Episode: 303,Steps: 28 Reward: 19.787 Ave_reward: 0.707
+Target: 2.313, -0.481
+final_position: 2.191, -0.450
+final_velocity: 0.117, 0.173
+###############################
+Episode: 304,Steps: 21 Reward: 4.392 Ave_reward: 0.209
+Target: 1.771, -1.557
+final_position: 1.087, 0.066
+final_velocity: -0.005, -0.041
+###############################
+Episode: 305,Steps: 17 Reward: 0.224 Ave_reward: 0.013
+Target: 1.514, -1.412
+final_position: 0.739, 0.586
+final_velocity: -0.056, -0.120
+###############################
+Episode: 306,Steps: 31 Reward: 11.024 Ave_reward: 0.356
+Target: 1.920, -0.736
+final_position: 2.212, -0.398
+final_velocity: -0.024, -0.075
+###############################
+Episode: 307,Steps: 22 Reward: 4.369 Ave_reward: 0.199
+Target: 1.238, 1.074
+final_position: 0.794, 0.477
+final_velocity: 0.004, 0.122
+###############################
+Episode: 308,Steps: 21 Reward: 26.914 Ave_reward: 1.282
+Target: 1.673, 0.848
+final_position: 1.528, 0.884
+final_velocity: 0.094, -0.004
+###############################
+Episode: 309,Steps: 20 Reward: 27.015 Ave_reward: 1.351
+Target: 1.052, 1.513
+final_position: 0.988, 1.404
+final_velocity: 0.142, -0.027
+###############################
+Episode: 310,Steps: 39 Reward: 8.854 Ave_reward: 0.227
+Target: 1.731, 1.700
+final_position: 1.975, 1.829
+final_velocity: -0.029, 0.089
+###############################
+Episode: 311,Steps: 27 Reward: 20.472 Ave_reward: 0.758
+Target: 1.364, 1.026
+final_position: 1.308, 0.896
+final_velocity: 0.078, 0.002
+###############################
+Episode: 312,Steps: 32 Reward: 13.516 Ave_reward: 0.422
+Target: 2.162, 1.092
+final_position: 2.126, 0.897
+final_velocity: 0.162, -0.062
+###############################
+Episode: 313,Steps: 22 Reward: 21.101 Ave_reward: 0.959
+Target: 1.417, -0.733
+final_position: 1.380, -0.669
+final_velocity: 0.175, 0.049
+###############################
+Episode: 314,Steps: 10 Reward: -0.514 Ave_reward: -0.051
+Target: 1.126, -1.595
+final_position: -0.045, 0.482
+final_velocity: -0.045, -0.149
+###############################
+Episode: 315,Steps: 39 Reward: 10.424 Ave_reward: 0.267
+Target: 1.803, -1.015
+final_position: 1.683, -1.006
+final_velocity: 0.038, -0.183
+###############################
+Episode: 316,Steps: 35 Reward: 8.979 Ave_reward: 0.257
+Target: 1.363, -0.816
+final_position: 1.531, -0.596
+final_velocity: 0.040, -0.096
+###############################
+Episode: 317,Steps: 25 Reward: 13.759 Ave_reward: 0.550
+Target: 1.805, -0.336
+final_position: 1.724, -0.469
+final_velocity: 0.202, -0.062
+###############################
+Episode: 318,Steps: 28 Reward: 17.644 Ave_reward: 0.630
+Target: 2.255, -0.663
+final_position: 2.073, -0.582
+final_velocity: 0.079, 0.108
+###############################
+Episode: 319,Steps: 21 Reward: 27.888 Ave_reward: 1.328
+Target: 1.066, 1.333
+final_position: 0.924, 1.266
+final_velocity: 0.122, -0.019
+###############################
+Episode: 320,Steps: 40 Reward: 10.267 Ave_reward: 0.257
+Target: 2.195, 0.322
+final_position: 2.105, -0.051
+final_velocity: -0.007, 0.064
+###############################
+Episode: 321,Steps: 10 Reward: -0.305 Ave_reward: -0.031
+Target: 1.107, -1.529
+final_position: 0.049, 0.410
+final_velocity: 0.017, -0.179
+###############################
+Episode: 322,Steps: 22 Reward: 24.089 Ave_reward: 1.095
+Target: 1.564, 0.354
+final_position: 1.404, 0.417
+final_velocity: 0.104, -0.169
+###############################
+Episode: 323,Steps: 25 Reward: 23.102 Ave_reward: 0.924
+Target: 1.768, 0.711
+final_position: 1.676, 0.717
+final_velocity: 0.077, -0.156
+###############################
+Episode: 324,Steps: 34 Reward: 11.191 Ave_reward: 0.329
+Target: 1.299, -1.829
+final_position: 1.504, -1.547
+final_velocity: 0.018, -0.101
+###############################
+Episode: 325,Steps: 28 Reward: 6.096 Ave_reward: 0.218
+Target: 1.271, -1.117
+final_position: 1.644, -1.339
+final_velocity: -0.073, -0.127
+###############################
+Episode: 326,Steps: 28 Reward: 10.787 Ave_reward: 0.385
+Target: 1.360, 1.530
+final_position: 1.354, 1.854
+final_velocity: -0.144, -0.120
+###############################
+Episode: 327,Steps: 30 Reward: 11.178 Ave_reward: 0.373
+Target: 1.859, -0.955
+final_position: 2.024, -0.335
+final_velocity: -0.095, -0.021
+###############################
+Episode: 328,Steps: 34 Reward: 7.682 Ave_reward: 0.226
+Target: 1.977, 1.184
+final_position: 1.487, 1.642
+final_velocity: -0.058, -0.109
+###############################
+Episode: 329,Steps: 37 Reward: 20.516 Ave_reward: 0.554
+Target: 2.024, -0.326
+final_position: 1.978, -0.254
+final_velocity: 0.150, -0.001
+###############################
+Episode: 330,Steps: 29 Reward: 15.053 Ave_reward: 0.519
+Target: 1.741, -1.653
+final_position: 1.584, -1.762
+final_velocity: 0.175, -0.020
+###############################
+Episode: 331,Steps: 27 Reward: 6.290 Ave_reward: 0.233
+Target: 1.724, 1.026
+final_position: 1.734, 1.601
+final_velocity: 0.026, -0.085
+###############################
+Episode: 332,Steps: 20 Reward: 6.355 Ave_reward: 0.318
+Target: 1.144, -1.109
+final_position: 0.587, -1.330
+final_velocity: 0.033, 0.086
+###############################
+Episode: 333,Steps: 28 Reward: 10.416 Ave_reward: 0.372
+Target: 1.674, -1.283
+final_position: 2.000, -1.231
+final_velocity: -0.090, -0.150
+###############################
+Episode: 334,Steps: 26 Reward: 24.611 Ave_reward: 0.947
+Target: 1.703, -1.126
+final_position: 1.727, -0.934
+final_velocity: 0.031, -0.088
+###############################
+Episode: 335,Steps: 26 Reward: 18.362 Ave_reward: 0.706
+Target: 1.503, 1.654
+final_position: 1.404, 1.708
+final_velocity: 0.202, 0.007
+###############################
+Episode: 336,Steps: 48 Reward: 9.794 Ave_reward: 0.204
+Target: 2.045, -0.548
+final_position: 1.717, -0.885
+final_velocity: -0.044, 0.099
+###############################
+Episode: 337,Steps: 28 Reward: 23.346 Ave_reward: 0.834
+Target: 2.010, -0.624
+final_position: 1.905, -0.679
+final_velocity: 0.094, 0.153
+###############################
+Episode: 338,Steps: 37 Reward: 7.262 Ave_reward: 0.196
+Target: 1.240, -1.698
+final_position: 1.336, -1.745
+final_velocity: 0.092, 0.165
+###############################
+Episode: 339,Steps: 18 Reward: 4.995 Ave_reward: 0.278
+Target: 1.535, 1.061
+final_position: 0.870, -0.032
+final_velocity: -0.058, 0.045
+###############################
+Episode: 340,Steps: 32 Reward: 17.250 Ave_reward: 0.539
+Target: 1.917, -0.225
+final_position: 1.932, -0.412
+final_velocity: 0.120, 0.103
+###############################
+Episode: 341,Steps: 28 Reward: 6.891 Ave_reward: 0.246
+Target: 1.969, 0.785
+final_position: 1.760, 0.104
+final_velocity: 0.075, 0.163
+###############################
+Episode: 342,Steps: 30 Reward: 18.421 Ave_reward: 0.614
+Target: 2.278, 0.424
+final_position: 2.116, 0.520
+final_velocity: 0.052, 0.021
+###############################
+Episode: 343,Steps: 25 Reward: 4.736 Ave_reward: 0.189
+Target: 0.839, 1.405
+final_position: 0.700, 2.067
+final_velocity: -0.006, -0.071
+###############################
+Episode: 344,Steps: 32 Reward: 20.100 Ave_reward: 0.628
+Target: 1.814, 0.605
+final_position: 1.649, 0.571
+final_velocity: 0.041, -0.044
+###############################
+Episode: 345,Steps: 32 Reward: 9.414 Ave_reward: 0.294
+Target: 1.041, 1.616
+final_position: 1.096, 1.211
+final_velocity: -0.098, 0.015
+###############################
+Episode: 346,Steps: 37 Reward: 18.630 Ave_reward: 0.504
+Target: 1.808, 0.702
+final_position: 1.672, 0.611
+final_velocity: 0.049, 0.072
+###############################
+Episode: 347,Steps: 24 Reward: 24.232 Ave_reward: 1.010
+Target: 1.282, -1.653
+final_position: 1.407, -1.507
+final_velocity: 0.015, -0.166
+###############################
+Episode: 348,Steps: 26 Reward: 16.401 Ave_reward: 0.631
+Target: 1.637, -0.470
+final_position: 1.633, -0.292
+final_velocity: 0.128, -0.030
+###############################
+Episode: 349,Steps: 28 Reward: 25.490 Ave_reward: 0.910
+Target: 2.041, -1.151
+final_position: 1.844, -1.127
+final_velocity: 0.125, 0.051
+###############################
+Episode: 350,Steps: 22 Reward: 4.090 Ave_reward: 0.186
+Target: 1.399, -1.027
+final_position: 0.808, -0.011
+final_velocity: -0.013, -0.094
+###############################
+Episode: 351,Steps: 20 Reward: 4.762 Ave_reward: 0.238
+Target: 1.356, -0.920
+final_position: 0.596, -1.427
+final_velocity: -0.017, 0.147
+###############################
+Episode: 352,Steps: 20 Reward: 25.496 Ave_reward: 1.275
+Target: 1.234, -1.120
+final_position: 1.076, -1.031
+final_velocity: 0.110, 0.076
+###############################
+Episode: 353,Steps: 25 Reward: 22.477 Ave_reward: 0.899
+Target: 1.665, 0.086
+final_position: 1.620, -0.061
+final_velocity: -0.036, 0.235
+###############################
+Episode: 354,Steps: 39 Reward: 8.288 Ave_reward: 0.213
+Target: 2.150, -0.755
+final_position: 1.723, -1.366
+final_velocity: -0.121, 0.114
+###############################
+Episode: 355,Steps: 25 Reward: 24.775 Ave_reward: 0.991
+Target: 1.498, -1.808
+final_position: 1.314, -1.743
+final_velocity: 0.035, 0.045
+###############################
+Episode: 356,Steps: 34 Reward: 7.332 Ave_reward: 0.216
+Target: 2.057, -0.298
+final_position: 1.665, 0.409
+final_velocity: -0.029, -0.065
+###############################
+Episode: 357,Steps: 37 Reward: 18.528 Ave_reward: 0.501
+Target: 2.147, -1.245
+final_position: 2.044, -1.196
+final_velocity: 0.090, -0.142
+###############################
+Episode: 358,Steps: 24 Reward: 7.134 Ave_reward: 0.297
+Target: 1.828, -0.152
+final_position: 1.770, 0.545
+final_velocity: -0.068, -0.157
+###############################
+Episode: 359,Steps: 21 Reward: 23.631 Ave_reward: 1.125
+Target: 0.961, 1.306
+final_position: 0.883, 1.203
+final_velocity: 0.072, -0.035
+###############################
+Episode: 360,Steps: 28 Reward: 20.821 Ave_reward: 0.744
+Target: 1.564, 0.476
+final_position: 1.467, 0.467
+final_velocity: 0.097, -0.102
+###############################
+Episode: 361,Steps: 30 Reward: 23.322 Ave_reward: 0.777
+Target: 2.222, 0.785
+final_position: 2.177, 0.838
+final_velocity: -0.007, -0.172
+###############################
+Episode: 362,Steps: 28 Reward: 9.732 Ave_reward: 0.348
+Target: 1.521, -0.989
+final_position: 1.604, -0.667
+final_velocity: 0.013, -0.039
+###############################
+Episode: 363,Steps: 28 Reward: 11.212 Ave_reward: 0.400
+Target: 1.244, 1.523
+final_position: 1.793, 1.697
+final_velocity: -0.109, 0.052
+###############################
+Episode: 364,Steps: 32 Reward: 19.297 Ave_reward: 0.603
+Target: 2.127, -0.314
+final_position: 1.990, -0.213
+final_velocity: 0.009, -0.098
+###############################
+Episode: 365,Steps: 25 Reward: 25.122 Ave_reward: 1.005
+Target: 1.250, -1.714
+final_position: 1.120, -1.614
+final_velocity: 0.054, 0.008
+###############################
+Episode: 366,Steps: 12 Reward: 0.032 Ave_reward: 0.003
+Target: 1.320, 2.089
+final_position: 0.340, -0.216
+final_velocity: -0.014, 0.122
+###############################
+Episode: 367,Steps: 22 Reward: 21.339 Ave_reward: 0.970
+Target: 1.063, -1.304
+final_position: 0.920, -1.290
+final_velocity: 0.043, 0.198
+###############################
+Episode: 368,Steps: 20 Reward: 4.441 Ave_reward: 0.222
+Target: 1.274, -0.844
+final_position: 0.795, -0.061
+final_velocity: -0.026, -0.077
+###############################
+Episode: 369,Steps: 22 Reward: 22.170 Ave_reward: 1.008
+Target: 1.110, -1.144
+final_position: 0.984, -1.073
+final_velocity: 0.103, 0.095
+###############################
+Episode: 370,Steps: 31 Reward: 9.097 Ave_reward: 0.293
+Target: 1.346, 1.101
+final_position: 1.182, 1.462
+final_velocity: -0.052, -0.090
+###############################
+Episode: 371,Steps: 28 Reward: 3.775 Ave_reward: 0.135
+Target: 2.224, 0.097
+final_position: 1.137, -0.796
+final_velocity: -0.002, 0.091
+###############################
+Episode: 372,Steps: 20 Reward: 27.856 Ave_reward: 1.393
+Target: 1.508, 0.347
+final_position: 1.385, 0.385
+final_velocity: 0.093, -0.060
+###############################
+Episode: 373,Steps: 32 Reward: 5.280 Ave_reward: 0.165
+Target: 1.381, 1.144
+final_position: 1.554, 0.444
+final_velocity: 0.014, 0.076
+###############################
+Episode: 374,Steps: 25 Reward: 8.223 Ave_reward: 0.329
+Target: 1.242, 1.117
+final_position: 0.942, 1.548
+final_velocity: -0.009, -0.067
+###############################
+Episode: 375,Steps: 24 Reward: 24.641 Ave_reward: 1.027
+Target: 1.117, 1.781
+final_position: 0.987, 1.942
+final_velocity: -0.045, -0.114
+###############################
+Episode: 376,Steps: 31 Reward: 24.207 Ave_reward: 0.781
+Target: 1.976, 1.018
+final_position: 1.874, 0.908
+final_velocity: 0.146, 0.119
+###############################
+Episode: 377,Steps: 40 Reward: 10.812 Ave_reward: 0.270
+Target: 2.151, -0.542
+final_position: 2.240, -1.067
+final_velocity: -0.140, 0.069
+###############################
+Episode: 378,Steps: 17 Reward: 2.830 Ave_reward: 0.166
+Target: 2.207, -1.044
+final_position: 0.997, 0.333
+final_velocity: -0.014, -0.205
+###############################
+Episode: 379,Steps: 31 Reward: 11.448 Ave_reward: 0.369
+Target: 2.000, -0.871
+final_position: 2.276, -0.700
+final_velocity: -0.037, -0.067
+###############################
+Episode: 380,Steps: 24 Reward: 4.725 Ave_reward: 0.197
+Target: 2.292, 0.594
+final_position: 0.766, 0.061
+final_velocity: -0.058, 0.046
+###############################
+Episode: 381,Steps: 31 Reward: 5.389 Ave_reward: 0.174
+Target: 1.491, -0.448
+final_position: 1.908, -0.790
+final_velocity: -0.043, -0.086
+###############################
+Episode: 382,Steps: 25 Reward: 24.886 Ave_reward: 0.995
+Target: 1.267, 2.005
+final_position: 1.146, 2.115
+final_velocity: 0.016, -0.173
+###############################
+Episode: 383,Steps: 26 Reward: 22.726 Ave_reward: 0.874
+Target: 1.728, -1.092
+final_position: 1.561, -1.185
+final_velocity: 0.001, 0.059
+###############################
+Episode: 384,Steps: 33 Reward: 6.565 Ave_reward: 0.199
+Target: 1.647, 0.043
+final_position: 1.858, 0.273
+final_velocity: 0.003, 0.049
+###############################
+Episode: 385,Steps: 26 Reward: 10.273 Ave_reward: 0.395
+Target: 1.336, 1.021
+final_position: 1.618, 0.357
+final_velocity: -0.185, 0.004
+###############################
+Episode: 386,Steps: 26 Reward: 22.005 Ave_reward: 0.846
+Target: 1.465, 0.686
+final_position: 1.330, 0.566
+final_velocity: 0.070, 0.083
+###############################
+Episode: 387,Steps: 12 Reward: 0.007 Ave_reward: 0.001
+Target: 1.865, 1.097
+final_position: 0.171, -0.707
+final_velocity: -0.004, 0.168
+###############################
+Episode: 388,Steps: 31 Reward: 22.071 Ave_reward: 0.712
+Target: 1.611, 1.426
+final_position: 1.559, 1.273
+final_velocity: 0.082, 0.021
+###############################
+Episode: 389,Steps: 22 Reward: 4.571 Ave_reward: 0.208
+Target: 2.480, -0.252
+final_position: 1.182, -0.896
+final_velocity: -0.056, 0.154
+###############################
+Episode: 390,Steps: 35 Reward: 8.087 Ave_reward: 0.231
+Target: 2.091, -0.007
+final_position: 2.208, -0.606
+final_velocity: -0.111, 0.163
+###############################
+Episode: 391,Steps: 29 Reward: 4.916 Ave_reward: 0.170
+Target: 1.989, -0.741
+final_position: 1.421, -1.473
+final_velocity: -0.007, 0.134
+###############################
+Episode: 392,Steps: 26 Reward: 8.058 Ave_reward: 0.310
+Target: 1.404, -0.763
+final_position: 1.355, -1.331
+final_velocity: -0.154, 0.111
+###############################
+Episode: 393,Steps: 28 Reward: 8.473 Ave_reward: 0.303
+Target: 0.949, 1.495
+final_position: 1.039, 2.169
+final_velocity: -0.016, -0.103
+###############################
+Episode: 394,Steps: 36 Reward: 7.274 Ave_reward: 0.202
+Target: 2.130, 0.112
+final_position: 1.798, 0.663
+final_velocity: 0.027, -0.149
+###############################
+Episode: 395,Steps: 23 Reward: 7.787 Ave_reward: 0.339
+Target: 1.507, -1.191
+final_position: 1.041, -1.501
+final_velocity: -0.032, 0.178
+###############################
+Episode: 396,Steps: 21 Reward: 6.319 Ave_reward: 0.301
+Target: 1.551, 0.210
+final_position: 1.204, -0.233
+final_velocity: 0.073, 0.163
+###############################
+Episode: 397,Steps: 27 Reward: 9.682 Ave_reward: 0.359
+Target: 1.041, 1.157
+final_position: 1.095, 1.289
+final_velocity: 0.052, 0.020
+###############################
+Episode: 398,Steps: 26 Reward: 19.458 Ave_reward: 0.748
+Target: 1.705, 0.774
+final_position: 1.744, 0.688
+final_velocity: 0.095, 0.099
+###############################
+Episode: 399,Steps: 28 Reward: 13.499 Ave_reward: 0.482
+Target: 1.854, -0.552
+final_position: 1.888, -0.596
+final_velocity: 0.087, 0.146
+###############################
+Episode: 400,Steps: 24 Reward: 21.948 Ave_reward: 0.915
+Target: 0.963, -1.570
+final_position: 0.825, -1.594
+final_velocity: 0.091, 0.028
+###############################
+Episode: 401,Steps: 21 Reward: 19.278 Ave_reward: 0.918
+Target: 1.133, 1.193
+final_position: 1.014, 1.250
+final_velocity: 0.167, 0.013
+###############################
+Episode: 402,Steps: 29 Reward: 11.179 Ave_reward: 0.385
+Target: 1.983, -0.500
+final_position: 1.826, -0.101
+final_velocity: -0.113, -0.119
+###############################
+Episode: 403,Steps: 29 Reward: 21.619 Ave_reward: 0.745
+Target: 2.284, 0.979
+final_position: 2.106, 1.020
+final_velocity: 0.064, 0.009
+###############################
+Episode: 404,Steps: 21 Reward: 4.351 Ave_reward: 0.207
+Target: 2.473, 0.044
+final_position: 1.035, -0.857
+final_velocity: -0.054, 0.107
+###############################
+Episode: 405,Steps: 31 Reward: 12.835 Ave_reward: 0.414
+Target: 1.177, 1.722
+final_position: 1.034, 1.803
+final_velocity: 0.128, 0.038
+###############################
+Episode: 406,Steps: 24 Reward: 21.766 Ave_reward: 0.907
+Target: 1.036, 1.763
+final_position: 0.978, 1.937
+final_velocity: 0.008, -0.105
+###############################
+Episode: 407,Steps: 23 Reward: 4.545 Ave_reward: 0.198
+Target: 1.612, 1.124
+final_position: 0.734, 1.814
+final_velocity: -0.126, -0.173
+###############################
+Episode: 408,Steps: 31 Reward: 14.107 Ave_reward: 0.455
+Target: 1.867, 0.692
+final_position: 1.683, 0.641
+final_velocity: 0.015, 0.057
+###############################
+Episode: 409,Steps: 24 Reward: 4.752 Ave_reward: 0.198
+Target: 1.679, -0.906
+final_position: 0.670, -1.137
+final_velocity: -0.007, 0.063
+###############################
+Episode: 410,Steps: 34 Reward: 9.593 Ave_reward: 0.282
+Target: 1.290, -1.835
+final_position: 1.015, -1.597
+final_velocity: -0.009, -0.032
+###############################
+Episode: 411,Steps: 29 Reward: 20.217 Ave_reward: 0.697
+Target: 1.708, 0.585
+final_position: 1.625, 0.430
+final_velocity: 0.010, 0.156
+###############################
+Episode: 412,Steps: 29 Reward: 4.980 Ave_reward: 0.172
+Target: 1.599, 0.990
+final_position: 2.191, 0.567
+final_velocity: 0.026, 0.088
+###############################
+Episode: 413,Steps: 28 Reward: 23.895 Ave_reward: 0.853
+Target: 2.040, -1.288
+final_position: 1.982, -1.154
+final_velocity: 0.124, -0.036
+###############################
+Episode: 414,Steps: 28 Reward: 22.740 Ave_reward: 0.812
+Target: 1.188, -1.174
+final_position: 1.088, -1.193
+final_velocity: 0.083, 0.092
+###############################
+Episode: 415,Steps: 18 Reward: 5.743 Ave_reward: 0.319
+Target: 1.543, -0.012
+final_position: 0.916, 0.475
+final_velocity: -0.005, -0.177
+###############################
+Episode: 416,Steps: 29 Reward: 23.372 Ave_reward: 0.806
+Target: 1.847, 1.483
+final_position: 1.802, 1.712
+final_velocity: -0.081, -0.115
+###############################
+Episode: 417,Steps: 21 Reward: 7.746 Ave_reward: 0.369
+Target: 1.173, 1.030
+final_position: 0.820, 1.428
+final_velocity: -0.072, -0.052
+###############################
+Episode: 418,Steps: 30 Reward: 17.068 Ave_reward: 0.569
+Target: 1.884, 1.164
+final_position: 2.066, 1.091
+final_velocity: 0.007, 0.042
+###############################
+Episode: 419,Steps: 11 Reward: -0.032 Ave_reward: -0.003
+Target: 1.562, -1.150
+final_position: 0.057, 0.558
+final_velocity: 0.013, -0.098
+###############################
+Episode: 420,Steps: 20 Reward: 4.438 Ave_reward: 0.222
+Target: 2.029, -0.352
+final_position: 0.972, -0.922
+final_velocity: 0.064, 0.161
+###############################
+Episode: 421,Steps: 11 Reward: -0.219 Ave_reward: -0.020
+Target: 1.207, -1.781
+final_position: 0.230, 0.395
+final_velocity: 0.029, -0.172
+###############################
+Episode: 422,Steps: 26 Reward: 23.135 Ave_reward: 0.890
+Target: 1.187, -1.387
+final_position: 1.000, -1.431
+final_velocity: 0.030, 0.037
+###############################
+Episode: 423,Steps: 27 Reward: 22.056 Ave_reward: 0.817
+Target: 1.659, -0.073
+final_position: 1.584, 0.003
+final_velocity: 0.100, -0.006
+###############################
+Episode: 424,Steps: 24 Reward: 16.948 Ave_reward: 0.706
+Target: 2.037, 0.475
+final_position: 1.927, 0.565
+final_velocity: 0.096, 0.051
+###############################
+Episode: 425,Steps: 34 Reward: 20.473 Ave_reward: 0.602
+Target: 2.409, -0.441
+final_position: 2.318, -0.286
+final_velocity: 0.064, -0.005
+###############################
+Episode: 426,Steps: 16 Reward: 1.830 Ave_reward: 0.114
+Target: 1.242, -1.346
+final_position: 0.832, 0.292
+final_velocity: 0.020, -0.042
+###############################
+Episode: 427,Steps: 23 Reward: 24.542 Ave_reward: 1.067
+Target: 1.473, 0.755
+final_position: 1.532, 0.569
+final_velocity: -0.026, 0.151
+###############################
+Episode: 428,Steps: 25 Reward: 9.737 Ave_reward: 0.389
+Target: 1.162, 1.152
+final_position: 1.085, 1.387
+final_velocity: -0.002, -0.080
+###############################
+Episode: 429,Steps: 21 Reward: 24.636 Ave_reward: 1.173
+Target: 0.872, -1.423
+final_position: 0.790, -1.405
+final_velocity: 0.125, -0.018
+###############################
+Episode: 430,Steps: 21 Reward: 9.507 Ave_reward: 0.453
+Target: 1.025, 1.494
+final_position: 0.657, 1.892
+final_velocity: -0.086, -0.088
+###############################
+Episode: 431,Steps: 30 Reward: 10.201 Ave_reward: 0.340
+Target: 2.217, -0.660
+final_position: 2.365, -0.283
+final_velocity: -0.003, -0.141
+###############################
+Episode: 432,Steps: 25 Reward: 22.122 Ave_reward: 0.885
+Target: 1.547, -0.008
+final_position: 1.505, 0.189
+final_velocity: -0.004, -0.023
+###############################
+Episode: 433,Steps: 22 Reward: 27.533 Ave_reward: 1.252
+Target: 1.265, -1.263
+final_position: 1.174, -1.175
+final_velocity: 0.173, -0.052
+###############################
+Episode: 434,Steps: 19 Reward: 4.777 Ave_reward: 0.251
+Target: 1.829, -0.339
+final_position: 0.922, -0.758
+final_velocity: 0.038, 0.188
+###############################
+Episode: 435,Steps: 29 Reward: 10.431 Ave_reward: 0.360
+Target: 2.141, 0.516
+final_position: 1.770, 0.249
+final_velocity: -0.015, 0.115
+###############################
+Episode: 436,Steps: 26 Reward: 10.001 Ave_reward: 0.385
+Target: 1.288, -0.804
+final_position: 0.781, -1.226
+final_velocity: -0.136, 0.075
+###############################
+Episode: 437,Steps: 25 Reward: 23.190 Ave_reward: 0.928
+Target: 1.743, 0.593
+final_position: 1.654, 0.479
+final_velocity: 0.055, 0.051
+###############################
+Episode: 438,Steps: 32 Reward: 8.310 Ave_reward: 0.260
+Target: 1.944, -0.497
+final_position: 1.827, 0.330
+final_velocity: -0.076, -0.105
+###############################
+Episode: 439,Steps: 28 Reward: 11.500 Ave_reward: 0.411
+Target: 1.748, -0.810
+final_position: 1.650, -0.898
+final_velocity: 0.093, -0.058
+###############################
+Episode: 440,Steps: 23 Reward: 7.113 Ave_reward: 0.309
+Target: 1.821, -0.341
+final_position: 1.230, 0.415
+final_velocity: -0.062, -0.102
+###############################
+Episode: 441,Steps: 27 Reward: 24.826 Ave_reward: 0.919
+Target: 1.503, -1.533
+final_position: 1.429, -1.358
+final_velocity: 0.036, -0.018
+###############################
+Episode: 442,Steps: 28 Reward: 9.241 Ave_reward: 0.330
+Target: 1.507, -0.751
+final_position: 1.245, -1.003
+final_velocity: 0.035, 0.071
+###############################
+Episode: 443,Steps: 20 Reward: 3.855 Ave_reward: 0.193
+Target: 2.344, -0.227
+final_position: 0.974, 0.908
+final_velocity: 0.001, -0.148
+###############################
+Episode: 444,Steps: 11 Reward: -0.111 Ave_reward: -0.010
+Target: 2.115, -0.545
+final_position: -0.201, 0.708
+final_velocity: -0.031, -0.177
+###############################
+Episode: 445,Steps: 32 Reward: 8.257 Ave_reward: 0.258
+Target: 1.568, -1.801
+final_position: 1.863, -2.117
+final_velocity: -0.154, -0.219
+###############################
+Episode: 446,Steps: 28 Reward: 9.650 Ave_reward: 0.345
+Target: 1.831, -0.800
+final_position: 1.804, -0.470
+final_velocity: -0.058, -0.121
+###############################
+Episode: 447,Steps: 23 Reward: 6.077 Ave_reward: 0.264
+Target: 1.672, 1.007
+final_position: 0.947, 1.613
+final_velocity: -0.041, -0.109
+###############################
+Episode: 448,Steps: 24 Reward: 9.152 Ave_reward: 0.381
+Target: 1.599, -0.544
+final_position: 1.709, -0.160
+final_velocity: -0.015, -0.118
+###############################
+Episode: 449,Steps: 37 Reward: 12.878 Ave_reward: 0.348
+Target: 2.384, -0.085
+final_position: 2.203, -0.008
+final_velocity: 0.024, 0.076
+###############################
+Episode: 450,Steps: 20 Reward: 20.437 Ave_reward: 1.022
+Target: 1.031, 1.193
+final_position: 1.015, 0.981
+final_velocity: -0.035, 0.151
+###############################
+Episode: 451,Steps: 33 Reward: 12.135 Ave_reward: 0.368
+Target: 1.773, 1.532
+final_position: 1.911, 2.306
+final_velocity: -0.168, -0.024
+###############################
+Episode: 452,Steps: 20 Reward: 4.833 Ave_reward: 0.242
+Target: 1.799, 0.695
+final_position: 0.319, 1.109
+final_velocity: -0.126, -0.148
+###############################
+Episode: 453,Steps: 29 Reward: 10.844 Ave_reward: 0.374
+Target: 1.173, -1.474
+final_position: 1.656, -1.273
+final_velocity: -0.040, -0.102
+###############################
+Episode: 454,Steps: 26 Reward: 17.728 Ave_reward: 0.682
+Target: 1.466, -1.331
+final_position: 1.455, -1.527
+final_velocity: 0.044, 0.149
+###############################
+Episode: 455,Steps: 29 Reward: 22.332 Ave_reward: 0.770
+Target: 2.137, 0.309
+final_position: 2.018, 0.454
+final_velocity: 0.008, -0.040
+###############################
+Episode: 456,Steps: 24 Reward: 23.646 Ave_reward: 0.985
+Target: 1.744, -0.377
+final_position: 1.595, -0.262
+final_velocity: 0.098, -0.076
+###############################
+Episode: 457,Steps: 28 Reward: 8.988 Ave_reward: 0.321
+Target: 1.389, -0.744
+final_position: 1.596, -1.169
+final_velocity: -0.076, 0.050
+###############################
+Episode: 458,Steps: 32 Reward: 10.221 Ave_reward: 0.319
+Target: 2.078, -0.035
+final_position: 2.209, -0.115
+final_velocity: 0.042, 0.074
+###############################
+Episode: 459,Steps: 25 Reward: 9.221 Ave_reward: 0.369
+Target: 1.270, 1.318
+final_position: 1.713, 1.545
+final_velocity: -0.104, -0.097
+###############################
+Episode: 460,Steps: 22 Reward: 4.875 Ave_reward: 0.222
+Target: 2.104, -1.217
+final_position: 0.856, -1.727
+final_velocity: 0.012, 0.103
+###############################
+Episode: 461,Steps: 30 Reward: 5.573 Ave_reward: 0.186
+Target: 2.144, 0.704
+final_position: 1.830, -0.331
+final_velocity: -0.097, 0.126
+###############################
+Episode: 462,Steps: 29 Reward: 8.361 Ave_reward: 0.288
+Target: 1.745, -1.453
+final_position: 1.075, -1.886
+final_velocity: 0.003, 0.045
+###############################
+Episode: 463,Steps: 32 Reward: 17.904 Ave_reward: 0.559
+Target: 2.420, -0.528
+final_position: 2.437, -0.466
+final_velocity: 0.167, -0.090
+###############################
+Episode: 464,Steps: 40 Reward: 5.626 Ave_reward: 0.141
+Target: 1.831, 0.382
+final_position: 2.236, 0.403
+final_velocity: -0.003, 0.203
+###############################
+Episode: 465,Steps: 23 Reward: 6.241 Ave_reward: 0.271
+Target: 2.051, 0.486
+final_position: 1.232, 0.848
+final_velocity: 0.009, -0.203
+###############################
+Episode: 466,Steps: 28 Reward: 6.111 Ave_reward: 0.218
+Target: 1.716, 1.275
+final_position: 1.834, 0.282
+final_velocity: -0.001, 0.138
+###############################
+Episode: 467,Steps: 27 Reward: 9.824 Ave_reward: 0.364
+Target: 1.461, 1.290
+final_position: 1.715, 1.622
+final_velocity: -0.039, -0.152
+###############################
+Episode: 468,Steps: 30 Reward: 25.412 Ave_reward: 0.847
+Target: 2.264, 0.520
+final_position: 2.185, 0.569
+final_velocity: 0.158, -0.103
+###############################
+Episode: 469,Steps: 33 Reward: 20.165 Ave_reward: 0.611
+Target: 1.781, 1.500
+final_position: 1.835, 1.461
+final_velocity: 0.085, 0.204
+###############################
+Episode: 470,Steps: 28 Reward: 6.076 Ave_reward: 0.217
+Target: 2.156, 1.026
+final_position: 1.688, 0.132
+final_velocity: 0.021, 0.052
+###############################
+Episode: 471,Steps: 22 Reward: 23.489 Ave_reward: 1.068
+Target: 1.588, 0.737
+final_position: 1.594, 0.893
+final_velocity: 0.044, -0.139
+###############################
+Episode: 472,Steps: 26 Reward: 18.247 Ave_reward: 0.702
+Target: 1.346, -1.697
+final_position: 1.233, -1.851
+final_velocity: 0.153, 0.109
+###############################
+Episode: 473,Steps: 27 Reward: 10.341 Ave_reward: 0.383
+Target: 1.782, 0.992
+final_position: 1.529, 1.409
+final_velocity: -0.108, -0.152
+###############################
+Episode: 474,Steps: 14 Reward: 0.937 Ave_reward: 0.067
+Target: 1.510, 0.316
+final_position: 0.038, -0.517
+final_velocity: -0.019, 0.138
+###############################
+Episode: 475,Steps: 30 Reward: 22.708 Ave_reward: 0.757
+Target: 1.529, -1.747
+final_position: 1.456, -1.645
+final_velocity: 0.137, 0.068
+###############################
+Episode: 476,Steps: 28 Reward: 19.638 Ave_reward: 0.701
+Target: 1.864, -0.364
+final_position: 1.744, -0.217
+final_velocity: 0.000, -0.067
+###############################
+Episode: 477,Steps: 25 Reward: 25.581 Ave_reward: 1.023
+Target: 1.488, -1.101
+final_position: 1.447, -0.973
+final_velocity: 0.212, -0.061
+###############################
+Episode: 478,Steps: 30 Reward: 22.156 Ave_reward: 0.739
+Target: 1.959, -1.361
+final_position: 1.782, -1.423
+final_velocity: 0.035, 0.129
+###############################
+Episode: 479,Steps: 33 Reward: 22.476 Ave_reward: 0.681
+Target: 2.301, 0.801
+final_position: 2.177, 0.653
+final_velocity: 0.023, 0.031
+###############################
+Episode: 480,Steps: 26 Reward: 22.359 Ave_reward: 0.860
+Target: 1.982, -1.292
+final_position: 1.873, -1.301
+final_velocity: 0.034, 0.176
+###############################
+Episode: 481,Steps: 28 Reward: 8.833 Ave_reward: 0.315
+Target: 2.406, 0.343
+final_position: 1.599, 0.796
+final_velocity: -0.066, -0.038
+###############################
+Episode: 482,Steps: 26 Reward: 16.368 Ave_reward: 0.630
+Target: 1.705, 0.371
+final_position: 1.556, 0.352
+final_velocity: 0.081, -0.148
+###############################
+Episode: 483,Steps: 31 Reward: 22.292 Ave_reward: 0.719
+Target: 1.963, 1.175
+final_position: 1.797, 1.236
+final_velocity: 0.137, -0.141
+###############################
+Episode: 484,Steps: 24 Reward: 26.122 Ave_reward: 1.088
+Target: 1.731, 0.735
+final_position: 1.610, 0.735
+final_velocity: 0.201, 0.005
+###############################
+Episode: 485,Steps: 30 Reward: 15.832 Ave_reward: 0.528
+Target: 1.315, 2.045
+final_position: 1.492, 2.037
+final_velocity: 0.016, 0.038
+###############################
+Episode: 486,Steps: 27 Reward: 15.059 Ave_reward: 0.558
+Target: 1.600, -1.319
+final_position: 1.463, -1.209
+final_velocity: 0.064, 0.126
+###############################
+Episode: 487,Steps: 39 Reward: 14.565 Ave_reward: 0.373
+Target: 1.991, 1.456
+final_position: 1.811, 1.450
+final_velocity: 0.065, 0.070
+###############################
+Episode: 488,Steps: 22 Reward: 27.876 Ave_reward: 1.267
+Target: 1.614, 0.478
+final_position: 1.494, 0.441
+final_velocity: 0.104, -0.007
+###############################
+Episode: 489,Steps: 31 Reward: 22.282 Ave_reward: 0.719
+Target: 1.370, -2.027
+final_position: 1.319, -1.903
+final_velocity: 0.050, -0.107
+###############################
+Episode: 490,Steps: 25 Reward: 24.195 Ave_reward: 0.968
+Target: 2.165, 0.106
+final_position: 2.020, 0.134
+final_velocity: 0.122, 0.060
+###############################
+Episode: 491,Steps: 27 Reward: 13.335 Ave_reward: 0.494
+Target: 1.040, 1.365
+final_position: 1.051, 1.563
+final_velocity: 0.043, -0.066
+###############################
+Episode: 492,Steps: 24 Reward: 6.264 Ave_reward: 0.261
+Target: 1.546, 0.320
+final_position: 1.267, -0.207
+final_velocity: -0.005, 0.094
+###############################
+Episode: 493,Steps: 33 Reward: 21.145 Ave_reward: 0.641
+Target: 1.669, 0.591
+final_position: 1.543, 0.580
+final_velocity: 0.104, -0.000
+###############################
+Episode: 494,Steps: 18 Reward: 4.302 Ave_reward: 0.239
+Target: 1.163, -1.123
+final_position: 0.236, -1.315
+final_velocity: 0.057, 0.109
+###############################
+Episode: 495,Steps: 40 Reward: 19.999 Ave_reward: 0.500
+Target: 2.295, 0.854
+final_position: 2.143, 0.749
+final_velocity: 0.066, 0.076
+###############################
+Episode: 496,Steps: 24 Reward: 11.375 Ave_reward: 0.474
+Target: 1.659, 0.165
+final_position: 1.811, 0.156
+final_velocity: -0.011, 0.178
+###############################
+Episode: 497,Steps: 24 Reward: 7.977 Ave_reward: 0.332
+Target: 1.155, -1.784
+final_position: 1.520, -0.906
+final_velocity: -0.096, -0.129
+###############################
+Episode: 498,Steps: 24 Reward: 14.695 Ave_reward: 0.612
+Target: 1.135, 1.044
+final_position: 1.278, 0.992
+final_velocity: 0.055, 0.126
+###############################
+Episode: 499,Steps: 24 Reward: 9.155 Ave_reward: 0.381
+Target: 1.093, -1.300
+final_position: 0.674, -1.324
+final_velocity: -0.040, 0.106
+###############################
+Episode: 500,Steps: 24 Reward: 12.986 Ave_reward: 0.541
+Target: 1.340, -0.851
+final_position: 1.195, -0.954
+final_velocity: 0.050, -0.024
+###############################
+Episode: 501,Steps: 35 Reward: 11.388 Ave_reward: 0.325
+Target: 1.384, -2.078
+final_position: 1.385, -2.723
+final_velocity: -0.072, 0.063
+###############################
+Episode: 502,Steps: 23 Reward: 6.507 Ave_reward: 0.283
+Target: 2.037, 0.960
+final_position: 1.252, 0.421
+final_velocity: -0.034, 0.093
+###############################
+Episode: 503,Steps: 19 Reward: 24.574 Ave_reward: 1.293
+Target: 1.031, -1.413
+final_position: 0.902, -1.277
+final_velocity: 0.068, -0.076
+###############################
+Episode: 504,Steps: 20 Reward: 29.163 Ave_reward: 1.458
+Target: 1.294, 1.101
+final_position: 1.156, 1.060
+final_velocity: 0.097, -0.048
+###############################
+Episode: 505,Steps: 26 Reward: 23.913 Ave_reward: 0.920
+Target: 1.503, 0.588
+final_position: 1.467, 0.451
+final_velocity: 0.073, 0.080
+###############################
+Episode: 506,Steps: 20 Reward: 4.026 Ave_reward: 0.201
+Target: 2.259, 0.083
+final_position: 0.944, 0.923
+final_velocity: 0.022, -0.134
+###############################
+Episode: 507,Steps: 23 Reward: 23.950 Ave_reward: 1.041
+Target: 1.318, 1.673
+final_position: 1.240, 1.609
+final_velocity: 0.123, 0.106
+###############################
+Episode: 508,Steps: 20 Reward: 21.681 Ave_reward: 1.084
+Target: 1.155, -1.296
+final_position: 0.989, -1.196
+final_velocity: 0.029, 0.054
+###############################
+Episode: 509,Steps: 18 Reward: 4.591 Ave_reward: 0.255
+Target: 1.495, -0.602
+final_position: 0.656, -0.918
+final_velocity: 0.025, 0.079
+###############################
+Episode: 510,Steps: 20 Reward: 3.862 Ave_reward: 0.193
+Target: 1.644, 0.085
+final_position: 0.712, 0.781
+final_velocity: 0.015, -0.132
+###############################
+Episode: 511,Steps: 36 Reward: 7.505 Ave_reward: 0.208
+Target: 2.486, 0.090
+final_position: 2.068, -0.254
+final_velocity: 0.024, 0.043
+###############################
+Episode: 512,Steps: 28 Reward: 20.666 Ave_reward: 0.738
+Target: 2.029, 0.738
+final_position: 1.864, 0.624
+final_velocity: 0.072, -0.026
+###############################
+Episode: 513,Steps: 25 Reward: 5.841 Ave_reward: 0.234
+Target: 2.158, -0.457
+final_position: 1.451, -1.206
+final_velocity: -0.048, 0.165
+###############################
+Episode: 514,Steps: 26 Reward: 20.762 Ave_reward: 0.799
+Target: 1.966, -0.593
+final_position: 1.807, -0.602
+final_velocity: 0.061, 0.110
+###############################
+Episode: 515,Steps: 27 Reward: 6.373 Ave_reward: 0.236
+Target: 1.584, -1.605
+final_position: 1.172, -2.329
+final_velocity: -0.050, 0.216
+###############################
+Episode: 516,Steps: 22 Reward: 5.239 Ave_reward: 0.238
+Target: 1.897, 1.260
+final_position: 0.990, 0.376
+final_velocity: -0.013, 0.114
+###############################
+Episode: 517,Steps: 27 Reward: 21.566 Ave_reward: 0.799
+Target: 1.652, -0.346
+final_position: 1.463, -0.286
+final_velocity: 0.044, -0.015
+###############################
+Episode: 518,Steps: 23 Reward: 25.285 Ave_reward: 1.099
+Target: 1.259, 1.220
+final_position: 1.146, 1.117
+final_velocity: 0.182, 0.121
+###############################
+Episode: 519,Steps: 39 Reward: 8.782 Ave_reward: 0.225
+Target: 2.408, 0.326
+final_position: 2.795, -0.100
+final_velocity: -0.096, 0.094
+###############################
+Episode: 520,Steps: 25 Reward: 23.367 Ave_reward: 0.935
+Target: 1.973, 0.500
+final_position: 2.016, 0.332
+final_velocity: 0.081, 0.130
+###############################
+Episode: 521,Steps: 42 Reward: 9.433 Ave_reward: 0.225
+Target: 1.541, 1.450
+final_position: 1.815, 0.662
+final_velocity: -0.155, 0.030
+###############################
+Episode: 522,Steps: 25 Reward: 21.115 Ave_reward: 0.845
+Target: 1.751, -0.343
+final_position: 1.620, -0.242
+final_velocity: 0.025, -0.062
+###############################
+Episode: 523,Steps: 29 Reward: 10.021 Ave_reward: 0.346
+Target: 2.258, 0.128
+final_position: 2.276, 0.648
+final_velocity: -0.036, -0.067
+###############################
+Episode: 524,Steps: 24 Reward: 8.850 Ave_reward: 0.369
+Target: 1.245, -0.837
+final_position: 1.181, -1.318
+final_velocity: -0.182, 0.076
+###############################
+Episode: 525,Steps: 24 Reward: 21.294 Ave_reward: 0.887
+Target: 1.492, -1.628
+final_position: 1.393, -1.691
+final_velocity: 0.202, 0.048
+###############################
+Episode: 526,Steps: 24 Reward: 5.766 Ave_reward: 0.240
+Target: 1.714, -0.036
+final_position: 1.267, -0.776
+final_velocity: -0.151, 0.156
+###############################
+Episode: 527,Steps: 25 Reward: 5.366 Ave_reward: 0.215
+Target: 1.717, 0.779
+final_position: 0.509, 0.136
+final_velocity: -0.108, 0.011
+###############################
+Episode: 528,Steps: 19 Reward: 6.287 Ave_reward: 0.331
+Target: 1.138, 1.026
+final_position: 0.742, 1.474
+final_velocity: -0.003, -0.089
+###############################
+Episode: 529,Steps: 27 Reward: 5.133 Ave_reward: 0.190
+Target: 1.836, 0.182
+final_position: 1.311, 1.132
+final_velocity: -0.068, -0.134
+###############################
+Episode: 530,Steps: 25 Reward: 26.644 Ave_reward: 1.066
+Target: 1.294, -2.025
+final_position: 1.135, -1.995
+final_velocity: 0.147, 0.058
+###############################
+Episode: 531,Steps: 32 Reward: 19.874 Ave_reward: 0.621
+Target: 2.221, 0.872
+final_position: 2.165, 0.962
+final_velocity: 0.168, -0.086
+###############################
+Episode: 532,Steps: 25 Reward: 10.124 Ave_reward: 0.405
+Target: 1.389, -1.207
+final_position: 1.429, -1.904
+final_velocity: -0.076, 0.149
+###############################
+Episode: 533,Steps: 10 Reward: -0.423 Ave_reward: -0.042
+Target: 1.465, -1.791
+final_position: 0.033, 0.481
+final_velocity: -0.059, -0.200
+###############################
+Episode: 534,Steps: 36 Reward: 4.128 Ave_reward: 0.115
+Target: 1.286, 1.723
+final_position: 0.495, 2.248
+final_velocity: -0.041, -0.159
+###############################
+Episode: 535,Steps: 12 Reward: 0.306 Ave_reward: 0.026
+Target: 1.951, -0.414
+final_position: 0.110, 0.795
+final_velocity: -0.008, -0.163
+###############################
+Episode: 536,Steps: 11 Reward: 0.031 Ave_reward: 0.003
+Target: 1.415, -1.047
+final_position: 0.120, 0.468
+final_velocity: 0.014, -0.096
+###############################
+Episode: 537,Steps: 33 Reward: 20.838 Ave_reward: 0.631
+Target: 2.141, 0.150
+final_position: 1.971, 0.093
+final_velocity: 0.065, -0.022
+###############################
+Episode: 538,Steps: 36 Reward: 8.437 Ave_reward: 0.234
+Target: 2.141, 0.710
+final_position: 2.507, 1.156
+final_velocity: -0.000, -0.122
+###############################
+Episode: 539,Steps: 24 Reward: 8.404 Ave_reward: 0.350
+Target: 1.000, 1.536
+final_position: 0.949, 2.145
+final_velocity: -0.090, -0.074
+###############################
+Episode: 540,Steps: 29 Reward: 7.952 Ave_reward: 0.274
+Target: 1.420, -1.731
+final_position: 1.417, -2.322
+final_velocity: -0.077, 0.202
+###############################
+Episode: 541,Steps: 22 Reward: 19.619 Ave_reward: 0.892
+Target: 1.637, 0.116
+final_position: 1.522, -0.010
+final_velocity: -0.033, 0.196
+###############################
+Episode: 542,Steps: 11 Reward: 0.180 Ave_reward: 0.016
+Target: 1.347, -1.272
+final_position: 0.195, 0.462
+final_velocity: 0.021, -0.150
+###############################
+Episode: 543,Steps: 33 Reward: 8.658 Ave_reward: 0.262
+Target: 1.243, -1.704
+final_position: 0.947, -2.011
+final_velocity: -0.118, 0.140
+###############################
+Episode: 544,Steps: 22 Reward: 24.919 Ave_reward: 1.133
+Target: 1.072, -1.539
+final_position: 0.996, -1.424
+final_velocity: 0.124, -0.110
+###############################
+Episode: 545,Steps: 39 Reward: 19.241 Ave_reward: 0.493
+Target: 2.058, -0.042
+final_position: 1.910, -0.091
+final_velocity: 0.049, 0.067
+###############################
+Episode: 546,Steps: 27 Reward: 9.226 Ave_reward: 0.342
+Target: 1.630, -1.386
+final_position: 1.445, -0.780
+final_velocity: -0.048, -0.053
+###############################
+Episode: 547,Steps: 23 Reward: 26.711 Ave_reward: 1.161
+Target: 1.657, 0.875
+final_position: 1.488, 0.785
+final_velocity: 0.083, 0.005
+###############################
+Episode: 548,Steps: 23 Reward: 25.964 Ave_reward: 1.129
+Target: 1.589, -0.852
+final_position: 1.515, -0.719
+final_velocity: 0.158, -0.044
+###############################
+Episode: 549,Steps: 34 Reward: 6.935 Ave_reward: 0.204
+Target: 1.339, 1.578
+final_position: 0.869, 1.988
+final_velocity: 0.033, -0.104
+###############################
+Episode: 550,Steps: 23 Reward: 21.736 Ave_reward: 0.945
+Target: 1.339, -1.207
+final_position: 1.183, -1.308
+final_velocity: 0.084, 0.036
+###############################
+Episode: 551,Steps: 27 Reward: 21.943 Ave_reward: 0.813
+Target: 2.011, 0.274
+final_position: 1.852, 0.256
+final_velocity: 0.042, -0.027
+###############################
+Episode: 552,Steps: 28 Reward: 23.058 Ave_reward: 0.824
+Target: 1.943, -1.302
+final_position: 1.962, -1.136
+final_velocity: 0.117, -0.129
+###############################
+Episode: 553,Steps: 23 Reward: 24.758 Ave_reward: 1.076
+Target: 1.111, 1.600
+final_position: 1.075, 1.430
+final_velocity: 0.134, 0.065
+###############################
+Episode: 554,Steps: 22 Reward: 24.509 Ave_reward: 1.114
+Target: 0.935, -1.182
+final_position: 0.810, -1.169
+final_velocity: 0.136, 0.024
+###############################
+Episode: 555,Steps: 21 Reward: 6.647 Ave_reward: 0.317
+Target: 1.092, 1.692
+final_position: 0.525, 2.161
+final_velocity: 0.010, -0.124
+###############################
+Episode: 556,Steps: 22 Reward: 7.015 Ave_reward: 0.319
+Target: 1.437, 1.068
+final_position: 1.480, 0.466
+final_velocity: 0.104, 0.181
+###############################
+Episode: 557,Steps: 27 Reward: 9.190 Ave_reward: 0.340
+Target: 1.737, 0.063
+final_position: 1.610, 0.412
+final_velocity: -0.021, -0.086
+###############################
+Episode: 558,Steps: 20 Reward: 7.132 Ave_reward: 0.357
+Target: 1.249, 0.947
+final_position: 1.362, 0.458
+final_velocity: 0.032, 0.191
+###############################
+Episode: 559,Steps: 21 Reward: 16.423 Ave_reward: 0.782
+Target: 1.505, -0.617
+final_position: 1.509, -0.505
+final_velocity: 0.146, -0.013
+###############################
+Episode: 560,Steps: 32 Reward: 19.916 Ave_reward: 0.622
+Target: 1.641, -1.135
+final_position: 1.594, -0.972
+final_velocity: 0.105, -0.031
+###############################
+Episode: 561,Steps: 40 Reward: 17.049 Ave_reward: 0.426
+Target: 1.739, -1.364
+final_position: 1.694, -1.538
+final_velocity: -0.023, 0.227
+###############################
+Episode: 562,Steps: 25 Reward: 27.074 Ave_reward: 1.083
+Target: 1.778, -1.023
+final_position: 1.746, -0.936
+final_velocity: 0.071, -0.139
+###############################
+Episode: 563,Steps: 20 Reward: 28.324 Ave_reward: 1.416
+Target: 1.150, 1.764
+final_position: 0.953, 1.764
+final_velocity: 0.150, -0.118
+###############################
+Episode: 564,Steps: 15 Reward: 1.158 Ave_reward: 0.077
+Target: 1.962, 0.468
+final_position: 0.190, 1.288
+final_velocity: -0.049, -0.234
+###############################
+Episode: 565,Steps: 27 Reward: 16.443 Ave_reward: 0.609
+Target: 1.261, -1.124
+final_position: 1.276, -1.297
+final_velocity: 0.017, 0.154
+###############################
+Episode: 566,Steps: 17 Reward: 2.647 Ave_reward: 0.156
+Target: 1.285, 0.855
+final_position: 0.381, -0.130
+final_velocity: -0.040, 0.158
+###############################
+Episode: 567,Steps: 23 Reward: 6.446 Ave_reward: 0.280
+Target: 1.607, -1.761
+final_position: 0.847, -2.134
+final_velocity: -0.005, 0.192
+###############################
+Episode: 568,Steps: 24 Reward: 23.757 Ave_reward: 0.990
+Target: 1.880, -0.726
+final_position: 1.761, -0.771
+final_velocity: 0.039, 0.101
+###############################
+Episode: 569,Steps: 28 Reward: 9.815 Ave_reward: 0.351
+Target: 1.809, 0.557
+final_position: 2.074, 0.624
+final_velocity: -0.039, 0.101
+###############################
+Episode: 570,Steps: 27 Reward: 7.141 Ave_reward: 0.264
+Target: 1.771, -1.003
+final_position: 1.663, -1.565
+final_velocity: 0.017, 0.122
+###############################
+Episode: 571,Steps: 22 Reward: 18.965 Ave_reward: 0.862
+Target: 1.557, -0.101
+final_position: 1.665, -0.258
+final_velocity: 0.012, 0.177
+###############################
+Episode: 572,Steps: 27 Reward: 24.746 Ave_reward: 0.917
+Target: 2.163, 0.521
+final_position: 1.979, 0.493
+final_velocity: 0.126, -0.041
+###############################
+Episode: 573,Steps: 27 Reward: 11.981 Ave_reward: 0.444
+Target: 1.852, -0.634
+final_position: 1.973, -0.698
+final_velocity: 0.020, 0.217
+###############################
+Episode: 574,Steps: 27 Reward: 23.373 Ave_reward: 0.866
+Target: 2.221, 0.594
+final_position: 2.042, 0.511
+final_velocity: 0.076, 0.056
+###############################
+Episode: 575,Steps: 37 Reward: 7.341 Ave_reward: 0.198
+Target: 2.379, 0.531
+final_position: 1.752, 1.061
+final_velocity: 0.007, -0.092
+###############################
+Episode: 576,Steps: 24 Reward: 24.492 Ave_reward: 1.020
+Target: 1.402, 1.802
+final_position: 1.346, 1.676
+final_velocity: 0.118, 0.006
+###############################
+Episode: 577,Steps: 29 Reward: 8.328 Ave_reward: 0.287
+Target: 1.583, 1.270
+final_position: 1.373, 1.767
+final_velocity: -0.023, -0.059
+###############################
+Episode: 578,Steps: 29 Reward: 23.682 Ave_reward: 0.817
+Target: 2.189, 0.872
+final_position: 2.131, 0.803
+final_velocity: 0.120, 0.135
+###############################
+Episode: 579,Steps: 20 Reward: 28.085 Ave_reward: 1.404
+Target: 1.450, -0.621
+final_position: 1.345, -0.666
+final_velocity: 0.061, 0.094
+###############################
+Episode: 580,Steps: 27 Reward: 20.880 Ave_reward: 0.773
+Target: 1.752, 0.443
+final_position: 1.780, 0.309
+final_velocity: 0.083, 0.122
+###############################
+Episode: 581,Steps: 28 Reward: 20.376 Ave_reward: 0.728
+Target: 1.912, 1.560
+final_position: 1.731, 1.493
+final_velocity: 0.128, 0.110
+###############################
+Episode: 582,Steps: 25 Reward: 8.095 Ave_reward: 0.324
+Target: 1.381, -1.255
+final_position: 1.543, -1.525
+final_velocity: -0.014, 0.148
+###############################
+Episode: 583,Steps: 24 Reward: 4.082 Ave_reward: 0.170
+Target: 2.433, 0.243
+final_position: 0.960, -0.630
+final_velocity: -0.082, 0.143
+###############################
+Episode: 584,Steps: 23 Reward: 27.481 Ave_reward: 1.195
+Target: 1.515, -1.429
+final_position: 1.416, -1.368
+final_velocity: 0.116, 0.021
+###############################
+Episode: 585,Steps: 27 Reward: 24.357 Ave_reward: 0.902
+Target: 2.079, 0.659
+final_position: 1.963, 0.775
+final_velocity: 0.119, -0.185
+###############################
+Episode: 586,Steps: 30 Reward: 11.214 Ave_reward: 0.374
+Target: 1.893, -1.426
+final_position: 2.215, -1.514
+final_velocity: -0.109, 0.164
+###############################
+Episode: 587,Steps: 23 Reward: 18.619 Ave_reward: 0.810
+Target: 1.508, -0.777
+final_position: 1.516, -0.901
+final_velocity: 0.078, 0.167
+###############################
+Episode: 588,Steps: 21 Reward: 7.736 Ave_reward: 0.368
+Target: 1.030, -1.137
+final_position: 1.222, -1.184
+final_velocity: -0.020, 0.150
+###############################
+Episode: 589,Steps: 25 Reward: 8.368 Ave_reward: 0.335
+Target: 1.910, 0.577
+final_position: 1.353, 0.041
+final_velocity: 0.014, 0.082
+###############################
+Episode: 590,Steps: 32 Reward: 4.064 Ave_reward: 0.127
+Target: 2.056, 0.010
+final_position: 1.232, -0.944
+final_velocity: -0.044, 0.158
+###############################
+Episode: 591,Steps: 32 Reward: 10.965 Ave_reward: 0.343
+Target: 1.026, -1.577
+final_position: 0.880, -1.633
+final_velocity: 0.071, -0.098
+###############################
+Episode: 592,Steps: 31 Reward: 11.139 Ave_reward: 0.359
+Target: 2.187, 0.969
+final_position: 2.258, 1.270
+final_velocity: 0.004, -0.031
+###############################
+Episode: 593,Steps: 24 Reward: 23.562 Ave_reward: 0.982
+Target: 1.693, 1.171
+final_position: 1.693, 1.003
+final_velocity: -0.005, 0.181
+###############################
+Episode: 594,Steps: 15 Reward: 2.482 Ave_reward: 0.165
+Target: 1.161, 1.081
+final_position: 0.165, -0.488
+final_velocity: -0.062, 0.067
+###############################
+Episode: 595,Steps: 20 Reward: 24.789 Ave_reward: 1.239
+Target: 1.280, 0.810
+final_position: 1.190, 0.791
+final_velocity: 0.137, -0.104
+###############################
+Episode: 596,Steps: 32 Reward: 20.496 Ave_reward: 0.640
+Target: 1.839, 0.712
+final_position: 1.652, 0.728
+final_velocity: 0.048, -0.024
+###############################
+Episode: 597,Steps: 27 Reward: 22.036 Ave_reward: 0.816
+Target: 1.320, -1.582
+final_position: 1.274, -1.470
+final_velocity: 0.098, -0.045
+###############################
+Episode: 598,Steps: 24 Reward: 5.137 Ave_reward: 0.214
+Target: 1.681, 0.715
+final_position: 0.608, 0.912
+final_velocity: -0.077, -0.170
+###############################
+Episode: 599,Steps: 34 Reward: 7.725 Ave_reward: 0.227
+Target: 1.705, -0.935
+final_position: 1.742, -0.429
+final_velocity: -0.138, -0.066
+###############################
+Episode: 600,Steps: 31 Reward: 15.061 Ave_reward: 0.486
+Target: 1.973, 0.976
+final_position: 2.094, 0.956
+final_velocity: -0.001, 0.202
+###############################
+Episode: 601,Steps: 26 Reward: 8.210 Ave_reward: 0.316
+Target: 2.261, 0.764
+final_position: 2.073, 1.448
+final_velocity: -0.030, -0.166
+###############################
+Episode: 602,Steps: 15 Reward: 2.489 Ave_reward: 0.166
+Target: 1.612, 0.399
+final_position: 0.531, -0.522
+final_velocity: 0.073, 0.149
+###############################
+Episode: 603,Steps: 22 Reward: 18.976 Ave_reward: 0.863
+Target: 1.274, -1.323
+final_position: 1.221, -1.145
+final_velocity: -0.005, -0.105
+###############################
+Episode: 604,Steps: 26 Reward: 8.554 Ave_reward: 0.329
+Target: 1.055, 1.568
+final_position: 1.393, 1.684
+final_velocity: -0.091, 0.125
+###############################
+Episode: 605,Steps: 20 Reward: 28.818 Ave_reward: 1.441
+Target: 1.063, 1.671
+final_position: 0.932, 1.691
+final_velocity: 0.117, -0.131
+###############################
+Episode: 606,Steps: 26 Reward: 24.350 Ave_reward: 0.937
+Target: 1.642, -1.521
+final_position: 1.477, -1.442
+final_velocity: 0.145, -0.048
+###############################
+Episode: 607,Steps: 30 Reward: 9.589 Ave_reward: 0.320
+Target: 1.503, -1.589
+final_position: 2.042, -1.662
+final_velocity: -0.129, -0.107
+###############################
+Episode: 608,Steps: 31 Reward: 16.592 Ave_reward: 0.535
+Target: 1.657, -0.938
+final_position: 1.595, -0.832
+final_velocity: 0.040, -0.238
+###############################
+Episode: 609,Steps: 15 Reward: 2.132 Ave_reward: 0.142
+Target: 1.851, 1.122
+final_position: 0.637, -0.156
+final_velocity: 0.053, 0.096
+###############################
+Episode: 610,Steps: 31 Reward: 10.422 Ave_reward: 0.336
+Target: 1.276, -1.369
+final_position: 1.321, -1.399
+final_velocity: 0.083, 0.138
+###############################
+Episode: 611,Steps: 23 Reward: 6.014 Ave_reward: 0.261
+Target: 1.013, -1.172
+final_position: 1.173, -0.739
+final_velocity: 0.027, -0.185
+###############################
+Episode: 612,Steps: 13 Reward: 0.705 Ave_reward: 0.054
+Target: 1.609, 0.322
+final_position: 0.063, -0.681
+final_velocity: -0.007, 0.103
+###############################
+Episode: 613,Steps: 22 Reward: 20.681 Ave_reward: 0.940
+Target: 1.376, 0.993
+final_position: 1.218, 1.046
+final_velocity: 0.005, -0.092
+###############################
+Episode: 614,Steps: 24 Reward: 8.440 Ave_reward: 0.352
+Target: 1.556, -0.177
+final_position: 1.327, -0.624
+final_velocity: 0.001, 0.071
+###############################
+Episode: 615,Steps: 20 Reward: 27.689 Ave_reward: 1.384
+Target: 1.227, 0.991
+final_position: 1.195, 0.902
+final_velocity: 0.162, 0.050
+###############################
+Episode: 616,Steps: 27 Reward: 25.530 Ave_reward: 0.946
+Target: 1.720, -1.382
+final_position: 1.671, -1.259
+final_velocity: 0.129, -0.189
+###############################
+Episode: 617,Steps: 24 Reward: 8.310 Ave_reward: 0.346
+Target: 1.864, -0.097
+final_position: 1.509, 0.437
+final_velocity: -0.032, -0.068
+###############################
+Episode: 618,Steps: 21 Reward: 24.443 Ave_reward: 1.164
+Target: 1.330, 1.008
+final_position: 1.267, 1.152
+final_velocity: 0.083, -0.182
+###############################
+Episode: 619,Steps: 14 Reward: 1.914 Ave_reward: 0.137
+Target: 1.663, 0.078
+final_position: 0.427, -0.732
+final_velocity: 0.076, 0.148
+###############################
+Episode: 620,Steps: 26 Reward: 8.885 Ave_reward: 0.342
+Target: 1.726, 0.400
+final_position: 1.566, 0.355
+final_velocity: -0.060, 0.218
+###############################
+Episode: 621,Steps: 22 Reward: 26.560 Ave_reward: 1.207
+Target: 1.289, 1.711
+final_position: 1.152, 1.661
+final_velocity: 0.088, -0.081
+###############################
+Episode: 622,Steps: 22 Reward: 7.076 Ave_reward: 0.322
+Target: 1.105, 1.832
+final_position: 0.845, 2.272
+final_velocity: 0.024, -0.045
+###############################
+Episode: 623,Steps: 26 Reward: 8.191 Ave_reward: 0.315
+Target: 1.259, 1.594
+final_position: 1.449, 1.209
+final_velocity: -0.029, 0.143
+###############################
+Episode: 624,Steps: 28 Reward: 6.103 Ave_reward: 0.218
+Target: 0.817, -1.323
+final_position: 0.927, -1.706
+final_velocity: 0.029, 0.086
+###############################
+Episode: 625,Steps: 20 Reward: 6.035 Ave_reward: 0.302
+Target: 0.975, -1.171
+final_position: 0.824, -1.628
+final_velocity: -0.035, 0.091
+###############################
+Episode: 626,Steps: 22 Reward: 29.582 Ave_reward: 1.345
+Target: 1.211, 1.962
+final_position: 1.209, 1.934
+final_velocity: 0.147, 0.150
+###############################
+Episode: 627,Steps: 24 Reward: 21.223 Ave_reward: 0.884
+Target: 1.770, 0.981
+final_position: 1.691, 0.982
+final_velocity: 0.117, 0.067
+###############################
+Episode: 628,Steps: 20 Reward: 21.294 Ave_reward: 1.065
+Target: 1.109, 1.103
+final_position: 1.058, 1.054
+final_velocity: 0.074, 0.132
+###############################
+Episode: 629,Steps: 20 Reward: 5.443 Ave_reward: 0.272
+Target: 2.032, -0.206
+final_position: 1.072, -0.808
+final_velocity: -0.030, 0.150
+###############################
+Episode: 630,Steps: 23 Reward: 23.608 Ave_reward: 1.026
+Target: 1.178, 1.595
+final_position: 1.324, 1.545
+final_velocity: -0.013, 0.122
+###############################
+Episode: 631,Steps: 19 Reward: 2.647 Ave_reward: 0.139
+Target: 2.178, -0.856
+final_position: 0.549, -1.468
+final_velocity: 0.026, 0.177
+###############################
+Episode: 632,Steps: 23 Reward: 7.677 Ave_reward: 0.334
+Target: 1.149, 1.795
+final_position: 0.860, 1.191
+final_velocity: -0.011, 0.111
+###############################
+Episode: 633,Steps: 29 Reward: 11.466 Ave_reward: 0.395
+Target: 2.334, -0.039
+final_position: 2.576, 0.007
+final_velocity: 0.013, -0.114
+###############################
+Episode: 634,Steps: 21 Reward: 9.057 Ave_reward: 0.431
+Target: 1.135, 1.009
+final_position: 0.975, 1.100
+final_velocity: 0.083, 0.070
+###############################
+Episode: 635,Steps: 14 Reward: 2.585 Ave_reward: 0.185
+Target: 0.994, 1.195
+final_position: 0.368, -0.203
+final_velocity: 0.029, 0.058
+###############################
+Episode: 636,Steps: 32 Reward: 5.884 Ave_reward: 0.184
+Target: 1.874, -0.441
+final_position: 1.525, 0.234
+final_velocity: -0.034, -0.091
+###############################
+Episode: 637,Steps: 23 Reward: 19.606 Ave_reward: 0.852
+Target: 1.695, 0.831
+final_position: 1.539, 0.874
+final_velocity: -0.017, -0.137
+###############################
+Episode: 638,Steps: 22 Reward: 6.239 Ave_reward: 0.284
+Target: 1.899, 0.650
+final_position: 1.150, 1.243
+final_velocity: 0.016, -0.039
+###############################
+Episode: 639,Steps: 26 Reward: 24.504 Ave_reward: 0.942
+Target: 1.819, -1.043
+final_position: 1.698, -1.111
+final_velocity: 0.105, 0.074
+###############################
+Episode: 640,Steps: 22 Reward: 10.321 Ave_reward: 0.469
+Target: 1.152, -1.099
+final_position: 0.988, -1.028
+final_velocity: 0.047, -0.176
+###############################
+Episode: 641,Steps: 20 Reward: 3.819 Ave_reward: 0.191
+Target: 2.292, 0.617
+final_position: 0.869, -0.118
+final_velocity: 0.009, 0.110
+###############################
+Episode: 642,Steps: 23 Reward: 24.571 Ave_reward: 1.068
+Target: 1.299, 1.934
+final_position: 1.173, 1.791
+final_velocity: 0.146, -0.096
+###############################
+Episode: 643,Steps: 22 Reward: 17.942 Ave_reward: 0.816
+Target: 1.782, 0.194
+final_position: 1.621, 0.078
+final_velocity: -0.002, 0.231
+###############################
+Episode: 644,Steps: 32 Reward: 12.175 Ave_reward: 0.380
+Target: 1.336, -1.902
+final_position: 1.245, -1.938
+final_velocity: 0.090, -0.139
+###############################
+Episode: 645,Steps: 22 Reward: 23.862 Ave_reward: 1.085
+Target: 0.879, -1.237
+final_position: 0.855, -1.054
+final_velocity: 0.139, -0.060
+###############################
+Episode: 646,Steps: 30 Reward: 17.555 Ave_reward: 0.585
+Target: 1.825, 0.313
+final_position: 1.667, 0.274
+final_velocity: 0.018, -0.027
+###############################
+Episode: 647,Steps: 25 Reward: 24.600 Ave_reward: 0.984
+Target: 2.063, -0.898
+final_position: 2.047, -1.083
+final_velocity: 0.009, 0.150
+###############################
+Episode: 648,Steps: 34 Reward: 20.204 Ave_reward: 0.594
+Target: 1.492, -1.995
+final_position: 1.368, -1.945
+final_velocity: 0.156, 0.080
+###############################
+Episode: 649,Steps: 24 Reward: 11.082 Ave_reward: 0.462
+Target: 1.433, -0.833
+final_position: 1.720, -0.191
+final_velocity: -0.134, -0.041
+###############################
+Episode: 650,Steps: 19 Reward: 3.144 Ave_reward: 0.165
+Target: 1.473, 1.432
+final_position: 0.796, 0.283
+final_velocity: 0.032, 0.195
+###############################
+Episode: 651,Steps: 28 Reward: 19.758 Ave_reward: 0.706
+Target: 2.009, -0.071
+final_position: 1.901, -0.176
+final_velocity: 0.113, -0.008
+###############################
+Episode: 652,Steps: 21 Reward: 26.320 Ave_reward: 1.253
+Target: 0.939, -1.486
+final_position: 0.781, -1.615
+final_velocity: -0.049, 0.183
+###############################
+Episode: 653,Steps: 29 Reward: 18.819 Ave_reward: 0.649
+Target: 1.445, -1.284
+final_position: 1.354, -1.379
+final_velocity: 0.090, 0.086
+###############################
+Episode: 654,Steps: 26 Reward: 24.387 Ave_reward: 0.938
+Target: 1.845, -0.353
+final_position: 1.682, -0.259
+final_velocity: 0.175, -0.049
+###############################
+Episode: 655,Steps: 42 Reward: 11.865 Ave_reward: 0.283
+Target: 2.295, -0.699
+final_position: 2.624, -0.751
+final_velocity: -0.092, -0.127
+###############################
+Episode: 656,Steps: 34 Reward: 21.110 Ave_reward: 0.621
+Target: 2.256, 0.637
+final_position: 2.112, 0.582
+final_velocity: 0.068, -0.041
+###############################
+Episode: 657,Steps: 25 Reward: 23.583 Ave_reward: 0.943
+Target: 1.830, 0.482
+final_position: 1.783, 0.662
+final_velocity: 0.036, -0.113
+###############################
+Episode: 658,Steps: 33 Reward: 6.434 Ave_reward: 0.195
+Target: 1.523, -1.574
+final_position: 1.228, -2.211
+final_velocity: -0.116, 0.121
+###############################
+Episode: 659,Steps: 26 Reward: 24.684 Ave_reward: 0.949
+Target: 1.855, -1.319
+final_position: 1.745, -1.158
+final_velocity: 0.126, -0.071
+###############################
+Episode: 660,Steps: 21 Reward: 27.587 Ave_reward: 1.314
+Target: 0.954, -1.591
+final_position: 0.834, -1.656
+final_velocity: 0.088, 0.131
+###############################
+Episode: 661,Steps: 30 Reward: 10.884 Ave_reward: 0.363
+Target: 1.736, -0.414
+final_position: 1.579, -0.435
+final_velocity: 0.013, -0.232
+###############################
+Episode: 662,Steps: 24 Reward: 24.227 Ave_reward: 1.009
+Target: 1.216, -1.279
+final_position: 1.190, -1.209
+final_velocity: 0.178, -0.014
+###############################
+Episode: 663,Steps: 23 Reward: 27.813 Ave_reward: 1.209
+Target: 1.219, 2.013
+final_position: 1.114, 1.979
+final_velocity: 0.076, -0.021
+###############################
+Episode: 664,Steps: 27 Reward: 14.236 Ave_reward: 0.527
+Target: 2.019, 0.315
+final_position: 2.048, 0.194
+final_velocity: 0.167, 0.035
+###############################
+Episode: 665,Steps: 22 Reward: 4.403 Ave_reward: 0.200
+Target: 2.070, 0.681
+final_position: 1.294, -0.424
+final_velocity: -0.025, 0.114
+###############################
+Episode: 666,Steps: 21 Reward: 7.618 Ave_reward: 0.363
+Target: 0.869, -1.500
+final_position: 0.626, -1.892
+final_velocity: -0.025, 0.183
+###############################
+Episode: 667,Steps: 23 Reward: 21.280 Ave_reward: 0.925
+Target: 1.253, -1.198
+final_position: 1.269, -1.022
+final_velocity: 0.154, -0.063
+###############################
+Episode: 668,Steps: 30 Reward: 19.699 Ave_reward: 0.657
+Target: 1.818, -0.801
+final_position: 1.671, -0.664
+final_velocity: 0.138, -0.185
+###############################
+Episode: 669,Steps: 24 Reward: 19.472 Ave_reward: 0.811
+Target: 1.506, -0.322
+final_position: 1.538, -0.134
+final_velocity: 0.059, -0.076
+###############################
+Episode: 670,Steps: 33 Reward: 10.131 Ave_reward: 0.307
+Target: 2.060, -0.512
+final_position: 2.211, -0.714
+final_velocity: 0.045, 0.161
+###############################
+Episode: 671,Steps: 42 Reward: 19.707 Ave_reward: 0.469
+Target: 2.197, -0.940
+final_position: 2.216, -0.785
+final_velocity: 0.063, -0.187
+###############################
+Episode: 672,Steps: 26 Reward: 24.209 Ave_reward: 0.931
+Target: 1.265, 1.607
+final_position: 1.186, 1.468
+final_velocity: 0.067, 0.024
+###############################
+Episode: 673,Steps: 30 Reward: 8.508 Ave_reward: 0.284
+Target: 1.644, 1.059
+final_position: 2.002, 1.317
+final_velocity: -0.010, 0.044
+###############################
+Episode: 674,Steps: 31 Reward: 8.185 Ave_reward: 0.264
+Target: 1.683, 0.388
+final_position: 1.849, 0.089
+final_velocity: -0.018, -0.043
+###############################
+Episode: 675,Steps: 31 Reward: 10.482 Ave_reward: 0.338
+Target: 1.988, -0.297
+final_position: 1.821, -0.257
+final_velocity: -0.010, 0.121
+###############################
+Episode: 676,Steps: 25 Reward: 12.197 Ave_reward: 0.488
+Target: 1.182, 1.445
+final_position: 1.159, 1.538
+final_velocity: 0.119, -0.047
+###############################
+Episode: 677,Steps: 10 Reward: -0.591 Ave_reward: -0.059
+Target: 1.806, -1.632
+final_position: -0.127, 0.685
+final_velocity: -0.052, -0.196
+###############################
+Episode: 678,Steps: 28 Reward: 15.377 Ave_reward: 0.549
+Target: 1.494, -1.083
+final_position: 1.536, -1.257
+final_velocity: 0.034, 0.090
+###############################
+Episode: 679,Steps: 20 Reward: 3.529 Ave_reward: 0.176
+Target: 1.863, 0.061
+final_position: 0.668, -0.440
+final_velocity: -0.036, 0.128
+###############################
+Episode: 680,Steps: 29 Reward: 8.747 Ave_reward: 0.302
+Target: 1.611, 0.093
+final_position: 1.641, 0.363
+final_velocity: -0.001, -0.029
+###############################
+Episode: 681,Steps: 24 Reward: 28.173 Ave_reward: 1.174
+Target: 1.907, 1.232
+final_position: 1.756, 1.185
+final_velocity: 0.122, -0.040
+###############################
+Episode: 682,Steps: 34 Reward: 21.449 Ave_reward: 0.631
+Target: 1.385, -2.024
+final_position: 1.271, -1.993
+final_velocity: 0.072, 0.086
+###############################
+Episode: 683,Steps: 19 Reward: 26.864 Ave_reward: 1.414
+Target: 0.984, 1.139
+final_position: 0.858, 1.112
+final_velocity: 0.177, -0.045
+###############################
+Episode: 684,Steps: 33 Reward: 7.626 Ave_reward: 0.231
+Target: 2.422, 0.024
+final_position: 2.319, -0.581
+final_velocity: 0.084, 0.163
+###############################
+Episode: 685,Steps: 39 Reward: 23.076 Ave_reward: 0.592
+Target: 2.044, -1.324
+final_position: 1.957, -1.221
+final_velocity: 0.060, -0.017
+###############################
+Episode: 686,Steps: 16 Reward: 1.617 Ave_reward: 0.101
+Target: 2.276, 0.651
+final_position: 0.548, -0.548
+final_velocity: -0.045, 0.199
+###############################
+Episode: 687,Steps: 27 Reward: 25.468 Ave_reward: 0.943
+Target: 1.879, 1.339
+final_position: 1.821, 1.299
+final_velocity: 0.116, -0.034
+###############################
+Episode: 688,Steps: 24 Reward: 6.644 Ave_reward: 0.277
+Target: 2.075, 0.816
+final_position: 1.324, 1.260
+final_velocity: 0.009, -0.144
+###############################
+Episode: 689,Steps: 26 Reward: 24.397 Ave_reward: 0.938
+Target: 1.886, 0.633
+final_position: 1.753, 0.635
+final_velocity: 0.110, -0.033
+###############################
+Episode: 690,Steps: 25 Reward: 15.760 Ave_reward: 0.630
+Target: 0.884, -1.373
+final_position: 1.052, -1.368
+final_velocity: 0.038, -0.185
+###############################
+Episode: 691,Steps: 28 Reward: 22.507 Ave_reward: 0.804
+Target: 2.016, -0.320
+final_position: 1.945, -0.204
+final_velocity: 0.155, -0.116
+###############################
+Episode: 692,Steps: 25 Reward: 11.845 Ave_reward: 0.474
+Target: 1.747, 0.208
+final_position: 1.738, 0.337
+final_velocity: 0.149, -0.017
+###############################
+Episode: 693,Steps: 24 Reward: 26.566 Ave_reward: 1.107
+Target: 1.677, 1.457
+final_position: 1.490, 1.524
+final_velocity: 0.105, -0.088
+###############################
+Episode: 694,Steps: 27 Reward: 6.662 Ave_reward: 0.247
+Target: 1.363, 0.650
+final_position: 1.864, 0.931
+final_velocity: -0.077, 0.093
+###############################
+Episode: 695,Steps: 22 Reward: 24.796 Ave_reward: 1.127
+Target: 1.274, -0.852
+final_position: 1.181, -0.726
+final_velocity: 0.061, -0.058
+###############################
+Episode: 696,Steps: 35 Reward: 18.358 Ave_reward: 0.525
+Target: 2.183, -1.007
+final_position: 2.191, -0.816
+final_velocity: 0.102, -0.099
+###############################
+Episode: 697,Steps: 29 Reward: 16.330 Ave_reward: 0.563
+Target: 1.920, -1.376
+final_position: 1.924, -1.567
+final_velocity: 0.083, 0.153
+###############################
+Episode: 698,Steps: 33 Reward: 17.830 Ave_reward: 0.540
+Target: 1.903, -0.724
+final_position: 1.823, -0.844
+final_velocity: 0.094, 0.062
+###############################
+Episode: 699,Steps: 26 Reward: 20.907 Ave_reward: 0.804
+Target: 1.286, -1.408
+final_position: 1.158, -1.389
+final_velocity: 0.038, 0.076
+###############################
+Episode: 700,Steps: 31 Reward: 21.914 Ave_reward: 0.707
+Target: 1.690, 1.262
+final_position: 1.570, 1.125
+final_velocity: 0.097, -0.023
+###############################
+Episode: 701,Steps: 23 Reward: 24.645 Ave_reward: 1.072
+Target: 1.328, 1.438
+final_position: 1.196, 1.365
+final_velocity: 0.184, 0.058
+###############################
+Episode: 702,Steps: 31 Reward: 21.524 Ave_reward: 0.694
+Target: 2.150, 1.241
+final_position: 2.024, 1.369
+final_velocity: 0.118, -0.084
+###############################
+Episode: 703,Steps: 29 Reward: 12.094 Ave_reward: 0.417
+Target: 1.594, 1.267
+final_position: 1.406, 1.285
+final_velocity: -0.005, 0.024
+###############################
+Episode: 704,Steps: 27 Reward: 18.249 Ave_reward: 0.676
+Target: 1.361, -1.892
+final_position: 1.486, -1.798
+final_velocity: 0.098, -0.079
+###############################
+Episode: 705,Steps: 27 Reward: 26.030 Ave_reward: 0.964
+Target: 1.792, 1.726
+final_position: 1.743, 1.656
+final_velocity: 0.105, 0.049
+###############################
+Episode: 706,Steps: 27 Reward: 15.705 Ave_reward: 0.582
+Target: 1.867, 1.303
+final_position: 1.986, 1.213
+final_velocity: 0.142, 0.165
+###############################
+Episode: 707,Steps: 27 Reward: 20.571 Ave_reward: 0.762
+Target: 1.489, -1.616
+final_position: 1.525, -1.474
+final_velocity: 0.173, -0.079
+###############################
+Episode: 708,Steps: 26 Reward: 25.693 Ave_reward: 0.988
+Target: 1.943, 0.935
+final_position: 1.893, 0.921
+final_velocity: 0.205, -0.105
+###############################
+Episode: 709,Steps: 24 Reward: 22.849 Ave_reward: 0.952
+Target: 1.615, 0.830
+final_position: 1.572, 0.944
+final_velocity: 0.065, -0.077
+###############################
+Episode: 710,Steps: 25 Reward: 7.351 Ave_reward: 0.294
+Target: 2.044, 1.169
+final_position: 1.658, 0.274
+final_velocity: 0.028, 0.165
+###############################
+Episode: 711,Steps: 26 Reward: 13.849 Ave_reward: 0.533
+Target: 1.014, -1.679
+final_position: 0.912, -1.567
+final_velocity: 0.031, -0.110
+###############################
+Episode: 712,Steps: 27 Reward: 23.779 Ave_reward: 0.881
+Target: 2.183, -0.783
+final_position: 2.108, -0.665
+final_velocity: 0.080, -0.153
+###############################
+Episode: 713,Steps: 29 Reward: 20.809 Ave_reward: 0.718
+Target: 1.707, 1.114
+final_position: 1.691, 1.264
+final_velocity: 0.014, -0.168
+###############################
+Episode: 714,Steps: 29 Reward: 24.772 Ave_reward: 0.854
+Target: 2.219, -0.933
+final_position: 2.025, -0.889
+final_velocity: 0.119, 0.032
+###############################
+Episode: 715,Steps: 31 Reward: 10.843 Ave_reward: 0.350
+Target: 1.662, -0.591
+final_position: 1.813, -0.543
+final_velocity: 0.046, -0.119
+###############################
+Episode: 716,Steps: 20 Reward: 27.676 Ave_reward: 1.384
+Target: 1.519, -0.279
+final_position: 1.474, -0.188
+final_velocity: 0.121, -0.127
+###############################
+Episode: 717,Steps: 24 Reward: 23.853 Ave_reward: 0.994
+Target: 1.240, 1.798
+final_position: 1.183, 1.667
+final_velocity: 0.157, -0.030
+###############################
+Episode: 718,Steps: 26 Reward: 6.683 Ave_reward: 0.257
+Target: 1.730, 0.466
+final_position: 1.510, 0.817
+final_velocity: -0.045, -0.194
+###############################
+Episode: 719,Steps: 22 Reward: 29.036 Ave_reward: 1.320
+Target: 1.138, -1.664
+final_position: 1.099, -1.590
+final_velocity: 0.128, -0.063
+###############################
+Episode: 720,Steps: 35 Reward: 6.877 Ave_reward: 0.196
+Target: 2.014, 0.448
+final_position: 2.266, 0.256
+final_velocity: -0.104, -0.185
+###############################
+Episode: 721,Steps: 26 Reward: 5.659 Ave_reward: 0.218
+Target: 2.326, -0.511
+final_position: 1.458, -1.090
+final_velocity: 0.005, 0.135
+###############################
+Episode: 722,Steps: 24 Reward: 23.387 Ave_reward: 0.974
+Target: 1.809, 0.495
+final_position: 1.667, 0.467
+final_velocity: 0.077, -0.050
+###############################
+Episode: 723,Steps: 25 Reward: 10.607 Ave_reward: 0.424
+Target: 2.143, 0.628
+final_position: 2.320, 0.111
+final_velocity: -0.046, 0.172
+###############################
+Episode: 724,Steps: 28 Reward: 7.260 Ave_reward: 0.259
+Target: 1.564, -1.592
+final_position: 1.080, -0.878
+final_velocity: -0.069, -0.189
+###############################
+Episode: 725,Steps: 27 Reward: 7.005 Ave_reward: 0.259
+Target: 1.815, 0.835
+final_position: 1.577, 0.176
+final_velocity: -0.134, 0.176
+###############################
+Episode: 726,Steps: 26 Reward: 24.052 Ave_reward: 0.925
+Target: 1.802, -1.323
+final_position: 1.664, -1.243
+final_velocity: 0.140, -0.091
+###############################
+Episode: 727,Steps: 32 Reward: 9.191 Ave_reward: 0.287
+Target: 1.802, 1.448
+final_position: 1.829, 1.032
+final_velocity: -0.049, 0.130
+###############################
+Episode: 728,Steps: 24 Reward: 19.868 Ave_reward: 0.828
+Target: 1.258, -1.595
+final_position: 1.336, -1.416
+final_velocity: 0.149, -0.048
+###############################
+Episode: 729,Steps: 34 Reward: 9.138 Ave_reward: 0.269
+Target: 1.860, 1.372
+final_position: 1.516, 1.730
+final_velocity: -0.035, -0.157
+###############################
+Episode: 730,Steps: 31 Reward: 16.539 Ave_reward: 0.534
+Target: 2.146, -0.362
+final_position: 2.054, -0.453
+final_velocity: 0.092, -0.015
+###############################
+Episode: 731,Steps: 30 Reward: 17.613 Ave_reward: 0.587
+Target: 1.806, -1.196
+final_position: 1.911, -1.369
+final_velocity: -0.002, 0.145
+###############################
+Episode: 732,Steps: 13 Reward: 1.565 Ave_reward: 0.120
+Target: 1.270, 0.894
+final_position: -0.103, 1.099
+final_velocity: 0.011, -0.187
+###############################
+Episode: 733,Steps: 23 Reward: 20.324 Ave_reward: 0.884
+Target: 1.594, 0.598
+final_position: 1.475, 0.626
+final_velocity: 0.179, 0.090
+###############################
+Episode: 734,Steps: 30 Reward: 10.072 Ave_reward: 0.336
+Target: 2.259, -0.866
+final_position: 2.317, -1.261
+final_velocity: -0.047, 0.094
+###############################
+Episode: 735,Steps: 32 Reward: 13.625 Ave_reward: 0.426
+Target: 2.449, -0.066
+final_position: 2.915, -0.311
+final_velocity: -0.189, 0.066
+###############################
+Episode: 736,Steps: 32 Reward: 21.023 Ave_reward: 0.657
+Target: 2.422, -0.473
+final_position: 2.441, -0.332
+final_velocity: 0.016, -0.142
+###############################
+Episode: 737,Steps: 27 Reward: 24.885 Ave_reward: 0.922
+Target: 2.028, 1.373
+final_position: 1.865, 1.464
+final_velocity: 0.069, -0.170
+###############################
+Episode: 738,Steps: 24 Reward: 14.301 Ave_reward: 0.596
+Target: 1.765, -0.308
+final_position: 1.596, -0.321
+final_velocity: 0.031, 0.223
+###############################
+Episode: 739,Steps: 27 Reward: 10.215 Ave_reward: 0.378
+Target: 1.643, 0.872
+final_position: 1.519, 0.728
+final_velocity: 0.110, -0.161
+###############################
+Episode: 740,Steps: 29 Reward: 12.838 Ave_reward: 0.443
+Target: 1.533, -1.469
+final_position: 1.563, -1.646
+final_velocity: 0.118, 0.053
+###############################
+Episode: 741,Steps: 23 Reward: 22.617 Ave_reward: 0.983
+Target: 1.460, -1.104
+final_position: 1.469, -0.911
+final_velocity: 0.162, -0.103
+###############################
+Episode: 742,Steps: 28 Reward: 10.368 Ave_reward: 0.370
+Target: 1.625, 1.366
+final_position: 1.657, 1.512
+final_velocity: 0.128, -0.076
+###############################
+Episode: 743,Steps: 24 Reward: 22.754 Ave_reward: 0.948
+Target: 1.750, 0.642
+final_position: 1.642, 0.581
+final_velocity: 0.055, 0.086
+###############################
+Episode: 744,Steps: 26 Reward: 21.097 Ave_reward: 0.811
+Target: 1.710, 1.143
+final_position: 1.521, 1.189
+final_velocity: 0.025, -0.101
+###############################
+Episode: 745,Steps: 24 Reward: 5.098 Ave_reward: 0.212
+Target: 2.440, 0.255
+final_position: 1.385, -0.293
+final_velocity: 0.035, 0.133
+###############################
+Episode: 746,Steps: 27 Reward: 23.647 Ave_reward: 0.876
+Target: 2.149, -0.332
+final_position: 1.958, -0.350
+final_velocity: 0.061, 0.046
+###############################
+Episode: 747,Steps: 31 Reward: 15.690 Ave_reward: 0.506
+Target: 2.376, -0.708
+final_position: 2.235, -0.770
+final_velocity: -0.064, 0.231
+###############################
+Episode: 748,Steps: 23 Reward: 8.011 Ave_reward: 0.348
+Target: 1.337, -1.073
+final_position: 0.996, -1.327
+final_velocity: 0.010, 0.162
+###############################
+Episode: 749,Steps: 26 Reward: 17.136 Ave_reward: 0.659
+Target: 1.464, 1.693
+final_position: 1.435, 1.793
+final_velocity: 0.122, -0.112
+###############################
+Episode: 750,Steps: 22 Reward: 15.333 Ave_reward: 0.697
+Target: 1.192, -1.271
+final_position: 1.107, -1.390
+final_velocity: 0.089, 0.019
+###############################
+Episode: 751,Steps: 31 Reward: 22.741 Ave_reward: 0.734
+Target: 2.062, -0.040
+final_position: 1.927, 0.066
+final_velocity: 0.056, -0.054
+###############################
+Episode: 752,Steps: 27 Reward: 22.203 Ave_reward: 0.822
+Target: 1.822, 1.029
+final_position: 1.786, 1.049
+final_velocity: 0.131, -0.022
+###############################
+Episode: 753,Steps: 27 Reward: 22.053 Ave_reward: 0.817
+Target: 1.818, 0.512
+final_position: 1.659, 0.484
+final_velocity: 0.058, -0.038
+###############################
+Episode: 754,Steps: 29 Reward: 15.844 Ave_reward: 0.546
+Target: 2.240, -0.363
+final_position: 2.092, -0.260
+final_velocity: -0.017, -0.126
+###############################
+Episode: 755,Steps: 31 Reward: 16.596 Ave_reward: 0.535
+Target: 1.799, 1.045
+final_position: 1.741, 0.892
+final_velocity: -0.020, 0.199
+###############################
+Episode: 756,Steps: 22 Reward: 28.215 Ave_reward: 1.283
+Target: 1.435, -1.445
+final_position: 1.264, -1.346
+final_velocity: 0.208, 0.039
+###############################
+Episode: 757,Steps: 24 Reward: 9.427 Ave_reward: 0.393
+Target: 1.143, 1.352
+final_position: 1.379, 1.631
+final_velocity: 0.002, -0.039
+###############################
+Episode: 758,Steps: 24 Reward: 26.565 Ave_reward: 1.107
+Target: 1.843, 0.522
+final_position: 1.769, 0.467
+final_velocity: 0.116, 0.001
+###############################
+Episode: 759,Steps: 21 Reward: 19.579 Ave_reward: 0.932
+Target: 1.466, -0.757
+final_position: 1.320, -0.883
+final_velocity: 0.156, 0.006
+###############################
+Episode: 760,Steps: 24 Reward: 24.376 Ave_reward: 1.016
+Target: 1.053, -1.484
+final_position: 0.937, -1.383
+final_velocity: 0.148, 0.068
+###############################
+Episode: 761,Steps: 23 Reward: 24.293 Ave_reward: 1.056
+Target: 1.434, 0.917
+final_position: 1.318, 0.926
+final_velocity: 0.150, 0.015
+###############################
+Episode: 762,Steps: 29 Reward: 13.144 Ave_reward: 0.453
+Target: 1.755, 1.297
+final_position: 1.613, 1.229
+final_velocity: 0.053, 0.197
+###############################
+Episode: 763,Steps: 21 Reward: 20.498 Ave_reward: 0.976
+Target: 0.988, 1.529
+final_position: 0.908, 1.710
+final_velocity: 0.062, -0.123
+###############################
+Episode: 764,Steps: 24 Reward: 22.502 Ave_reward: 0.938
+Target: 1.660, -0.122
+final_position: 1.476, -0.138
+final_velocity: 0.097, 0.065
+###############################
+Episode: 765,Steps: 25 Reward: 17.593 Ave_reward: 0.704
+Target: 1.249, 1.395
+final_position: 1.272, 1.249
+final_velocity: 0.137, 0.012
+###############################
+Episode: 766,Steps: 29 Reward: 6.998 Ave_reward: 0.241
+Target: 1.953, -1.132
+final_position: 1.360, -0.688
+final_velocity: 0.017, -0.058
+###############################
+Episode: 767,Steps: 30 Reward: 11.003 Ave_reward: 0.367
+Target: 1.554, -1.511
+final_position: 1.579, -1.618
+final_velocity: 0.082, -0.015
+###############################
+Episode: 768,Steps: 32 Reward: 9.018 Ave_reward: 0.282
+Target: 2.202, -0.248
+final_position: 2.152, 0.620
+final_velocity: -0.117, -0.125
+###############################
+Episode: 769,Steps: 27 Reward: 21.838 Ave_reward: 0.809
+Target: 2.264, -0.549
+final_position: 2.123, -0.553
+final_velocity: 0.079, 0.150
+###############################
+Episode: 770,Steps: 29 Reward: 10.855 Ave_reward: 0.374
+Target: 1.824, 1.461
+final_position: 2.096, 1.489
+final_velocity: -0.031, -0.125
+###############################
+Episode: 771,Steps: 30 Reward: 9.042 Ave_reward: 0.301
+Target: 2.176, 0.811
+final_position: 2.075, 0.366
+final_velocity: -0.041, 0.098
+###############################
+Episode: 772,Steps: 27 Reward: 8.836 Ave_reward: 0.327
+Target: 1.974, 1.327
+final_position: 1.199, 1.205
+final_velocity: 0.027, -0.129
+###############################
+Episode: 773,Steps: 35 Reward: 17.325 Ave_reward: 0.495
+Target: 2.364, -0.147
+final_position: 2.467, 0.024
+final_velocity: 0.002, -0.056
+###############################
+Episode: 774,Steps: 29 Reward: 21.894 Ave_reward: 0.755
+Target: 2.110, -0.744
+final_position: 2.048, -0.568
+final_velocity: 0.008, -0.050
+###############################
+Episode: 775,Steps: 22 Reward: 22.912 Ave_reward: 1.041
+Target: 0.908, -1.507
+final_position: 0.927, -1.351
+final_velocity: 0.023, -0.078
+###############################
+Episode: 776,Steps: 25 Reward: 7.606 Ave_reward: 0.304
+Target: 1.008, -1.482
+final_position: 1.342, -1.447
+final_velocity: -0.059, -0.196
+###############################
+Episode: 777,Steps: 27 Reward: 18.251 Ave_reward: 0.676
+Target: 0.959, -1.590
+final_position: 1.007, -1.432
+final_velocity: 0.120, -0.030
+###############################
+Episode: 778,Steps: 25 Reward: 24.587 Ave_reward: 0.983
+Target: 1.234, 1.945
+final_position: 1.098, 1.946
+final_velocity: 0.065, -0.159
+###############################
+Episode: 779,Steps: 30 Reward: 16.633 Ave_reward: 0.554
+Target: 1.907, -0.668
+final_position: 1.826, -0.528
+final_velocity: 0.176, 0.055
+###############################
+Episode: 780,Steps: 27 Reward: 21.745 Ave_reward: 0.805
+Target: 1.940, -0.112
+final_position: 1.837, -0.068
+final_velocity: 0.087, -0.118
+###############################
+Episode: 781,Steps: 24 Reward: 24.353 Ave_reward: 1.015
+Target: 1.230, -1.190
+final_position: 1.091, -1.281
+final_velocity: 0.028, 0.158
+###############################
+Episode: 782,Steps: 26 Reward: 14.533 Ave_reward: 0.559
+Target: 1.959, 0.696
+final_position: 1.929, 0.584
+final_velocity: 0.136, -0.026
+###############################
+Episode: 783,Steps: 25 Reward: 27.009 Ave_reward: 1.080
+Target: 1.674, 1.586
+final_position: 1.615, 1.598
+final_velocity: 0.101, -0.168
+###############################
+Episode: 784,Steps: 26 Reward: 25.296 Ave_reward: 0.973
+Target: 1.781, -0.277
+final_position: 1.702, -0.291
+final_velocity: 0.133, 0.039
+###############################
+Episode: 785,Steps: 23 Reward: 12.104 Ave_reward: 0.526
+Target: 1.343, -1.308
+final_position: 1.228, -1.186
+final_velocity: -0.028, -0.147
+###############################
+Episode: 786,Steps: 22 Reward: 25.676 Ave_reward: 1.167
+Target: 1.522, -0.507
+final_position: 1.375, -0.471
+final_velocity: 0.177, -0.068
+###############################
+Episode: 787,Steps: 25 Reward: 12.745 Ave_reward: 0.510
+Target: 1.872, -0.037
+final_position: 1.822, 0.080
+final_velocity: 0.135, 0.048
+###############################
+Episode: 788,Steps: 24 Reward: 23.608 Ave_reward: 0.984
+Target: 1.716, 0.111
+final_position: 1.533, 0.180
+final_velocity: 0.059, -0.056
+###############################
+Episode: 789,Steps: 28 Reward: 20.904 Ave_reward: 0.747
+Target: 1.707, -0.136
+final_position: 1.684, -0.016
+final_velocity: 0.064, -0.115
+###############################
+Episode: 790,Steps: 23 Reward: 8.181 Ave_reward: 0.356
+Target: 1.593, -0.194
+final_position: 1.376, 0.247
+final_velocity: 0.052, -0.114
+###############################
+Episode: 791,Steps: 26 Reward: 18.919 Ave_reward: 0.728
+Target: 1.601, -0.609
+final_position: 1.413, -0.614
+final_velocity: 0.067, -0.052
+###############################
+Episode: 792,Steps: 22 Reward: 25.021 Ave_reward: 1.137
+Target: 1.351, 0.720
+final_position: 1.261, 0.742
+final_velocity: 0.070, -0.013
+###############################
+Episode: 793,Steps: 27 Reward: 8.671 Ave_reward: 0.321
+Target: 1.603, -1.241
+final_position: 1.135, -0.779
+final_velocity: 0.038, -0.133
+###############################
+Episode: 794,Steps: 34 Reward: 11.739 Ave_reward: 0.345
+Target: 1.724, 1.697
+final_position: 1.790, 1.978
+final_velocity: 0.038, -0.085
+###############################
+Episode: 795,Steps: 35 Reward: 9.650 Ave_reward: 0.276
+Target: 2.087, -0.416
+final_position: 1.977, 0.067
+final_velocity: -0.094, -0.152
+###############################
+Episode: 796,Steps: 21 Reward: 27.609 Ave_reward: 1.315
+Target: 1.360, 0.764
+final_position: 1.209, 0.832
+final_velocity: 0.087, -0.087
+###############################
+Episode: 797,Steps: 23 Reward: 26.577 Ave_reward: 1.156
+Target: 1.288, -1.417
+final_position: 1.229, -1.319
+final_velocity: 0.116, -0.072
+###############################
+Episode: 798,Steps: 28 Reward: 3.929 Ave_reward: 0.140
+Target: 2.137, 0.070
+final_position: 1.305, 0.654
+final_velocity: 0.034, -0.127
+###############################
+Episode: 799,Steps: 27 Reward: 23.172 Ave_reward: 0.858
+Target: 2.194, -0.257
+final_position: 2.097, -0.264
+final_velocity: 0.089, -0.051
+###############################
+Episode: 800,Steps: 21 Reward: 28.656 Ave_reward: 1.365
+Target: 1.125, -1.268
+final_position: 0.987, -1.251
+final_velocity: 0.139, 0.071
+###############################
+Episode: 801,Steps: 23 Reward: 27.174 Ave_reward: 1.181
+Target: 1.198, 1.992
+final_position: 1.082, 1.834
+final_velocity: 0.118, 0.037
+###############################
+Episode: 802,Steps: 27 Reward: 13.879 Ave_reward: 0.514
+Target: 1.239, -2.061
+final_position: 1.069, -1.969
+final_velocity: 0.065, -0.159
+###############################
+Episode: 803,Steps: 27 Reward: 26.319 Ave_reward: 0.975
+Target: 1.734, 1.396
+final_position: 1.615, 1.339
+final_velocity: 0.082, -0.017
+###############################
+Episode: 804,Steps: 23 Reward: 21.386 Ave_reward: 0.930
+Target: 1.648, 0.238
+final_position: 1.580, 0.394
+final_velocity: 0.121, -0.072
+###############################
+Episode: 805,Steps: 29 Reward: 20.851 Ave_reward: 0.719
+Target: 1.747, 0.445
+final_position: 1.596, 0.557
+final_velocity: 0.148, -0.039
+###############################
+Episode: 806,Steps: 21 Reward: 6.206 Ave_reward: 0.296
+Target: 1.554, 1.442
+final_position: 0.678, 1.484
+final_velocity: 0.031, -0.076
+###############################
+Episode: 807,Steps: 26 Reward: 18.153 Ave_reward: 0.698
+Target: 1.644, -0.240
+final_position: 1.689, -0.095
+final_velocity: 0.123, -0.167
+###############################
+Episode: 808,Steps: 37 Reward: 16.842 Ave_reward: 0.455
+Target: 2.388, 0.696
+final_position: 2.524, 0.847
+final_velocity: -0.025, -0.226
+###############################
+Episode: 809,Steps: 21 Reward: 5.727 Ave_reward: 0.273
+Target: 2.157, -0.987
+final_position: 0.839, -0.990
+final_velocity: 0.024, 0.085
+###############################
+Episode: 810,Steps: 24 Reward: 23.590 Ave_reward: 0.983
+Target: 2.104, -0.249
+final_position: 2.002, -0.362
+final_velocity: 0.019, 0.152
+###############################
+Episode: 811,Steps: 27 Reward: 22.811 Ave_reward: 0.845
+Target: 1.689, -1.456
+final_position: 1.532, -1.451
+final_velocity: 0.035, 0.052
+###############################
+Episode: 812,Steps: 34 Reward: 9.830 Ave_reward: 0.289
+Target: 1.938, -1.573
+final_position: 2.222, -2.018
+final_velocity: -0.108, 0.136
+###############################
+Episode: 813,Steps: 29 Reward: 18.084 Ave_reward: 0.624
+Target: 1.823, 0.685
+final_position: 1.749, 0.807
+final_velocity: 0.111, -0.044
+###############################
+Episode: 814,Steps: 24 Reward: 6.872 Ave_reward: 0.286
+Target: 2.133, 0.583
+final_position: 1.208, 0.799
+final_velocity: -0.007, -0.112
+###############################
+Episode: 815,Steps: 24 Reward: 16.154 Ave_reward: 0.673
+Target: 1.032, 1.402
+final_position: 0.951, 1.242
+final_velocity: 0.158, -0.112
+###############################
+Episode: 816,Steps: 16 Reward: 2.183 Ave_reward: 0.136
+Target: 1.124, -1.506
+final_position: -0.363, -1.311
+final_velocity: 0.025, 0.071
+###############################
+Episode: 817,Steps: 28 Reward: 17.093 Ave_reward: 0.610
+Target: 1.707, 0.249
+final_position: 1.665, 0.390
+final_velocity: 0.076, -0.015
+###############################
+Episode: 818,Steps: 27 Reward: 21.122 Ave_reward: 0.782
+Target: 1.563, 1.314
+final_position: 1.537, 1.477
+final_velocity: 0.019, -0.148
+###############################
+Episode: 819,Steps: 26 Reward: 26.553 Ave_reward: 1.021
+Target: 2.125, 0.696
+final_position: 1.973, 0.686
+final_velocity: 0.055, -0.020
+###############################
+Episode: 820,Steps: 31 Reward: 7.491 Ave_reward: 0.242
+Target: 1.811, 0.314
+final_position: 1.750, -0.020
+final_velocity: -0.008, 0.105
+###############################
+Episode: 821,Steps: 41 Reward: 12.926 Ave_reward: 0.315
+Target: 2.159, 0.989
+final_position: 2.183, 1.101
+final_velocity: 0.129, -0.126
+###############################
+Episode: 822,Steps: 27 Reward: 21.273 Ave_reward: 0.788
+Target: 1.322, 1.314
+final_position: 1.189, 1.248
+final_velocity: 0.153, -0.125
+###############################
+Episode: 823,Steps: 18 Reward: 3.736 Ave_reward: 0.208
+Target: 1.662, 0.565
+final_position: 0.926, -0.324
+final_velocity: 0.034, 0.074
+###############################
+Episode: 824,Steps: 24 Reward: 26.024 Ave_reward: 1.084
+Target: 2.042, 0.458
+final_position: 1.859, 0.403
+final_velocity: 0.148, -0.051
+###############################
+Episode: 825,Steps: 23 Reward: 13.882 Ave_reward: 0.604
+Target: 1.368, -0.727
+final_position: 1.307, -0.808
+final_velocity: 0.128, -0.009
+###############################
+Episode: 826,Steps: 20 Reward: 4.211 Ave_reward: 0.211
+Target: 1.938, -0.333
+final_position: 1.008, -1.096
+final_velocity: 0.029, 0.170
+###############################
+Episode: 827,Steps: 24 Reward: 23.822 Ave_reward: 0.993
+Target: 1.086, 1.577
+final_position: 1.116, 1.404
+final_velocity: 0.124, 0.129
+###############################
+Episode: 828,Steps: 32 Reward: 11.107 Ave_reward: 0.347
+Target: 2.021, -0.363
+final_position: 1.897, -0.361
+final_velocity: 0.023, -0.188
+###############################
+Episode: 829,Steps: 24 Reward: 24.265 Ave_reward: 1.011
+Target: 1.852, 0.429
+final_position: 1.699, 0.329
+final_velocity: 0.054, 0.062
+###############################
+Episode: 830,Steps: 21 Reward: 26.788 Ave_reward: 1.276
+Target: 1.106, 1.353
+final_position: 1.024, 1.372
+final_velocity: 0.077, -0.148
+###############################
+Episode: 831,Steps: 27 Reward: 6.552 Ave_reward: 0.243
+Target: 1.619, 0.301
+final_position: 1.568, 0.025
+final_velocity: 0.029, 0.082
+###############################
+Episode: 832,Steps: 30 Reward: 10.410 Ave_reward: 0.347
+Target: 1.564, -1.666
+final_position: 1.429, -1.896
+final_velocity: -0.018, 0.057
+###############################
+Episode: 833,Steps: 25 Reward: 19.270 Ave_reward: 0.771
+Target: 2.010, 0.359
+final_position: 1.916, 0.431
+final_velocity: -0.028, -0.075
+###############################
+Episode: 834,Steps: 29 Reward: 15.913 Ave_reward: 0.549
+Target: 1.508, 0.145
+final_position: 1.319, 0.142
+final_velocity: 0.026, -0.037
+###############################
+Episode: 835,Steps: 30 Reward: 13.632 Ave_reward: 0.454
+Target: 1.847, 1.317
+final_position: 1.866, 1.384
+final_velocity: 0.116, -0.135
+###############################
+Episode: 836,Steps: 25 Reward: 18.515 Ave_reward: 0.741
+Target: 1.258, 1.649
+final_position: 1.199, 1.510
+final_velocity: 0.009, 0.154
+###############################
+Episode: 837,Steps: 24 Reward: 20.845 Ave_reward: 0.869
+Target: 1.495, 0.260
+final_position: 1.527, 0.403
+final_velocity: 0.035, -0.102
+###############################
+Episode: 838,Steps: 24 Reward: 5.209 Ave_reward: 0.217
+Target: 2.173, -1.105
+final_position: 1.153, -0.131
+final_velocity: -0.029, -0.056
+###############################
+Episode: 839,Steps: 14 Reward: 2.812 Ave_reward: 0.201
+Target: 1.673, 0.598
+final_position: 0.374, -0.174
+final_velocity: 0.058, 0.103
+###############################
+Episode: 840,Steps: 27 Reward: 26.658 Ave_reward: 0.987
+Target: 1.681, 1.585
+final_position: 1.596, 1.617
+final_velocity: 0.109, -0.083
+###############################
+Episode: 841,Steps: 34 Reward: 13.286 Ave_reward: 0.391
+Target: 2.231, 0.045
+final_position: 2.208, 0.194
+final_velocity: 0.073, -0.000
+###############################
+Episode: 842,Steps: 30 Reward: 11.207 Ave_reward: 0.374
+Target: 1.873, 0.893
+final_position: 1.771, 0.216
+final_velocity: -0.086, 0.091
+###############################
+Episode: 843,Steps: 23 Reward: 21.075 Ave_reward: 0.916
+Target: 1.370, 1.247
+final_position: 1.234, 1.137
+final_velocity: 0.109, -0.092
+###############################
+Episode: 844,Steps: 29 Reward: 23.401 Ave_reward: 0.807
+Target: 1.988, 0.632
+final_position: 1.830, 0.597
+final_velocity: 0.142, -0.023
+###############################
+Episode: 845,Steps: 30 Reward: 13.379 Ave_reward: 0.446
+Target: 1.765, 0.361
+final_position: 1.640, 0.331
+final_velocity: 0.043, -0.100
+###############################
+Episode: 846,Steps: 23 Reward: 6.569 Ave_reward: 0.286
+Target: 1.987, 1.396
+final_position: 1.060, 1.688
+final_velocity: 0.021, -0.186
+###############################
+Episode: 847,Steps: 23 Reward: 4.879 Ave_reward: 0.212
+Target: 2.337, -0.514
+final_position: 1.045, -0.105
+final_velocity: 0.013, -0.068
+###############################
+Episode: 848,Steps: 26 Reward: 24.076 Ave_reward: 0.926
+Target: 2.191, 0.458
+final_position: 2.142, 0.610
+final_velocity: 0.042, -0.057
+###############################
+Episode: 849,Steps: 28 Reward: 21.842 Ave_reward: 0.780
+Target: 2.331, -0.688
+final_position: 2.202, -0.843
+final_velocity: -0.034, 0.094
+###############################
+Episode: 850,Steps: 30 Reward: 20.238 Ave_reward: 0.675
+Target: 1.570, -1.683
+final_position: 1.424, -1.801
+final_velocity: 0.113, 0.082
+###############################
+Episode: 851,Steps: 24 Reward: 20.612 Ave_reward: 0.859
+Target: 1.631, -0.656
+final_position: 1.484, -0.702
+final_velocity: 0.065, 0.219
+###############################
+Episode: 852,Steps: 22 Reward: 4.354 Ave_reward: 0.198
+Target: 1.291, -1.188
+final_position: 1.084, -0.258
+final_velocity: -0.014, -0.119
+###############################
+Episode: 853,Steps: 16 Reward: 1.711 Ave_reward: 0.107
+Target: 1.958, -0.415
+final_position: 0.386, 0.545
+final_velocity: 0.014, -0.153
+###############################
+Episode: 854,Steps: 30 Reward: 24.218 Ave_reward: 0.807
+Target: 2.379, 0.012
+final_position: 2.353, 0.074
+final_velocity: 0.173, -0.148
+###############################
+Episode: 855,Steps: 27 Reward: 7.225 Ave_reward: 0.268
+Target: 2.098, -0.571
+final_position: 1.603, 0.027
+final_velocity: -0.072, -0.129
+###############################
+Episode: 856,Steps: 29 Reward: 10.932 Ave_reward: 0.377
+Target: 1.380, -1.389
+final_position: 1.358, -0.843
+final_velocity: 0.004, -0.029
+###############################
+Episode: 857,Steps: 36 Reward: 8.827 Ave_reward: 0.245
+Target: 1.750, 1.558
+final_position: 1.195, 1.441
+final_velocity: -0.006, -0.072
+###############################
+Episode: 858,Steps: 28 Reward: 9.327 Ave_reward: 0.333
+Target: 1.135, -1.627
+final_position: 0.956, -1.548
+final_velocity: -0.003, -0.089
+###############################
+Episode: 859,Steps: 28 Reward: 10.395 Ave_reward: 0.371
+Target: 1.688, 1.111
+final_position: 1.672, 0.702
+final_velocity: -0.048, 0.131
+###############################
+Episode: 860,Steps: 30 Reward: 21.030 Ave_reward: 0.701
+Target: 2.245, -0.812
+final_position: 2.273, -0.978
+final_velocity: 0.009, 0.064
+###############################
+Episode: 861,Steps: 26 Reward: 24.468 Ave_reward: 0.941
+Target: 1.653, -0.891
+final_position: 1.688, -0.743
+final_velocity: 0.034, -0.148
+###############################
+Episode: 862,Steps: 31 Reward: 9.456 Ave_reward: 0.305
+Target: 1.650, 1.395
+final_position: 1.503, 1.668
+final_velocity: -0.030, -0.044
+###############################
+Episode: 863,Steps: 32 Reward: 12.648 Ave_reward: 0.395
+Target: 2.282, -0.172
+final_position: 2.210, -0.311
+final_velocity: 0.087, -0.026
+###############################
+Episode: 864,Steps: 37 Reward: 20.458 Ave_reward: 0.553
+Target: 1.505, 1.737
+final_position: 1.429, 1.904
+final_velocity: -0.020, -0.103
+###############################
+Episode: 865,Steps: 31 Reward: 11.372 Ave_reward: 0.367
+Target: 1.662, 0.242
+final_position: 1.687, 0.388
+final_velocity: 0.041, -0.008
+###############################
+Episode: 866,Steps: 28 Reward: 21.264 Ave_reward: 0.759
+Target: 1.626, 1.335
+final_position: 1.692, 1.229
+final_velocity: 0.051, 0.136
+###############################
+Episode: 867,Steps: 22 Reward: 5.356 Ave_reward: 0.243
+Target: 0.871, 1.385
+final_position: 0.147, 1.584
+final_velocity: 0.015, -0.107
+###############################
+Episode: 868,Steps: 30 Reward: 15.740 Ave_reward: 0.525
+Target: 1.341, -1.376
+final_position: 1.157, -1.395
+final_velocity: 0.128, -0.040
+###############################
+Episode: 869,Steps: 23 Reward: 24.109 Ave_reward: 1.048
+Target: 1.564, 0.403
+final_position: 1.511, 0.371
+final_velocity: 0.168, -0.044
+###############################
+Episode: 870,Steps: 28 Reward: 17.699 Ave_reward: 0.632
+Target: 1.206, -1.270
+final_position: 1.185, -1.155
+final_velocity: 0.090, 0.013
+###############################
+Episode: 871,Steps: 25 Reward: 7.799 Ave_reward: 0.312
+Target: 1.351, 1.051
+final_position: 1.033, 1.693
+final_velocity: -0.012, -0.139
+###############################
+Episode: 872,Steps: 23 Reward: 4.071 Ave_reward: 0.177
+Target: 1.613, 0.045
+final_position: 1.034, 0.860
+final_velocity: 0.009, -0.088
+###############################
+Episode: 873,Steps: 33 Reward: 21.722 Ave_reward: 0.658
+Target: 1.629, -1.602
+final_position: 1.473, -1.637
+final_velocity: 0.108, 0.021
+###############################
+Episode: 874,Steps: 34 Reward: 8.742 Ave_reward: 0.257
+Target: 1.908, -0.154
+final_position: 1.682, 0.430
+final_velocity: -0.147, -0.148
+###############################
+Episode: 875,Steps: 23 Reward: 20.131 Ave_reward: 0.875
+Target: 0.793, 1.309
+final_position: 0.715, 1.304
+final_velocity: 0.046, -0.148
+###############################
+Episode: 876,Steps: 31 Reward: 8.629 Ave_reward: 0.278
+Target: 1.222, -1.445
+final_position: 1.317, -1.838
+final_velocity: -0.065, 0.107
+###############################
+Episode: 877,Steps: 26 Reward: 8.156 Ave_reward: 0.314
+Target: 1.382, 0.709
+final_position: 1.808, 0.809
+final_velocity: -0.049, -0.153
+###############################
+Episode: 878,Steps: 19 Reward: 4.001 Ave_reward: 0.211
+Target: 1.769, -0.593
+final_position: 0.848, 0.230
+final_velocity: 0.027, -0.128
+###############################
+Episode: 879,Steps: 22 Reward: 28.231 Ave_reward: 1.283
+Target: 1.328, -1.304
+final_position: 1.280, -1.269
+final_velocity: 0.155, 0.006
+###############################
+Episode: 880,Steps: 30 Reward: 11.373 Ave_reward: 0.379
+Target: 1.682, 0.474
+final_position: 1.489, 0.424
+final_velocity: -0.035, 0.133
+###############################
+Episode: 881,Steps: 25 Reward: 18.965 Ave_reward: 0.759
+Target: 1.358, -1.130
+final_position: 1.476, -1.011
+final_velocity: 0.050, -0.081
+###############################
+Episode: 882,Steps: 27 Reward: 22.912 Ave_reward: 0.849
+Target: 1.860, 0.461
+final_position: 1.772, 0.304
+final_velocity: 0.048, 0.134
+###############################
+Episode: 883,Steps: 27 Reward: 7.450 Ave_reward: 0.276
+Target: 1.469, -1.490
+final_position: 1.137, -1.915
+final_velocity: -0.020, 0.113
+###############################
+Episode: 884,Steps: 34 Reward: 9.787 Ave_reward: 0.288
+Target: 1.871, 0.568
+final_position: 1.932, 0.898
+final_velocity: -0.031, -0.074
+###############################
+Episode: 885,Steps: 23 Reward: 9.769 Ave_reward: 0.425
+Target: 1.510, -0.224
+final_position: 1.187, 0.376
+final_velocity: -0.060, -0.101
+###############################
+Episode: 886,Steps: 26 Reward: 22.740 Ave_reward: 0.875
+Target: 1.459, -1.212
+final_position: 1.367, -1.063
+final_velocity: 0.081, -0.062
+###############################
+Episode: 887,Steps: 32 Reward: 10.162 Ave_reward: 0.318
+Target: 2.016, 1.332
+final_position: 1.920, 0.647
+final_velocity: -0.058, 0.045
+###############################
+Episode: 888,Steps: 19 Reward: 24.722 Ave_reward: 1.301
+Target: 0.982, -1.172
+final_position: 0.960, -1.028
+final_velocity: 0.042, -0.186
+###############################
+Episode: 889,Steps: 21 Reward: 8.408 Ave_reward: 0.400
+Target: 1.371, 0.825
+final_position: 1.165, 1.171
+final_velocity: 0.063, -0.115
+###############################
+Episode: 890,Steps: 31 Reward: 13.218 Ave_reward: 0.426
+Target: 1.926, -1.305
+final_position: 1.967, -1.994
+final_velocity: -0.088, 0.179
+###############################
+Episode: 891,Steps: 26 Reward: 7.167 Ave_reward: 0.276
+Target: 2.297, -0.615
+final_position: 1.615, -0.915
+final_velocity: 0.038, 0.088
+###############################
+Episode: 892,Steps: 28 Reward: 6.974 Ave_reward: 0.249
+Target: 1.855, -0.386
+final_position: 1.665, -0.894
+final_velocity: -0.065, 0.142
+###############################
+Episode: 893,Steps: 19 Reward: 24.611 Ave_reward: 1.295
+Target: 0.786, -1.321
+final_position: 0.751, -1.340
+final_velocity: 0.158, 0.072
+###############################
+Episode: 894,Steps: 28 Reward: 8.943 Ave_reward: 0.319
+Target: 1.819, 0.760
+final_position: 1.880, 1.390
+final_velocity: -0.076, -0.146
+###############################
+Episode: 895,Steps: 27 Reward: 25.186 Ave_reward: 0.933
+Target: 1.772, -1.639
+final_position: 1.827, -1.565
+final_velocity: 0.061, -0.109
+###############################
+Episode: 896,Steps: 21 Reward: 8.080 Ave_reward: 0.385
+Target: 0.777, 1.339
+final_position: 0.269, 1.845
+final_velocity: -0.138, -0.221
+###############################
+Episode: 897,Steps: 28 Reward: 9.402 Ave_reward: 0.336
+Target: 1.492, 1.406
+final_position: 1.196, 1.559
+final_velocity: -0.004, -0.052
+###############################
+Episode: 898,Steps: 25 Reward: 8.856 Ave_reward: 0.354
+Target: 2.264, 0.448
+final_position: 1.782, 0.916
+final_velocity: 0.061, -0.145
+###############################
+Episode: 899,Steps: 30 Reward: 21.396 Ave_reward: 0.713
+Target: 2.254, 0.788
+final_position: 2.066, 0.836
+final_velocity: 0.056, 0.014
+###############################
+Episode: 900,Steps: 28 Reward: 19.133 Ave_reward: 0.683
+Target: 2.151, 1.195
+final_position: 2.129, 1.311
+final_velocity: 0.084, -0.058
+###############################
+Episode: 901,Steps: 31 Reward: 21.579 Ave_reward: 0.696
+Target: 1.842, -0.560
+final_position: 1.827, -0.693
+final_velocity: 0.031, 0.070
+###############################
+Episode: 902,Steps: 24 Reward: 7.855 Ave_reward: 0.327
+Target: 1.273, 1.307
+final_position: 1.265, 1.762
+final_velocity: -0.048, -0.141
+###############################
+Episode: 903,Steps: 26 Reward: 19.113 Ave_reward: 0.735
+Target: 1.160, 1.917
+final_position: 1.093, 2.002
+final_velocity: 0.085, -0.062
+###############################
+Episode: 904,Steps: 26 Reward: 18.165 Ave_reward: 0.699
+Target: 1.683, 0.460
+final_position: 1.512, 0.509
+final_velocity: 0.021, -0.142
+###############################
+Episode: 905,Steps: 24 Reward: 6.977 Ave_reward: 0.291
+Target: 1.367, 1.056
+final_position: 0.729, 1.387
+final_velocity: 0.007, -0.093
+###############################
+Episode: 906,Steps: 17 Reward: 2.546 Ave_reward: 0.150
+Target: 1.529, 0.927
+final_position: 0.454, -0.097
+final_velocity: 0.041, 0.156
+###############################
+Episode: 907,Steps: 25 Reward: 7.805 Ave_reward: 0.312
+Target: 1.545, 1.121
+final_position: 1.519, 0.503
+final_velocity: -0.064, 0.119
+###############################
+Episode: 908,Steps: 28 Reward: 19.935 Ave_reward: 0.712
+Target: 1.876, 0.607
+final_position: 1.717, 0.596
+final_velocity: 0.167, 0.117
+###############################
+Episode: 909,Steps: 27 Reward: 23.728 Ave_reward: 0.879
+Target: 1.806, -1.309
+final_position: 1.702, -1.411
+final_velocity: 0.073, 0.185
+###############################
+Episode: 910,Steps: 30 Reward: 8.777 Ave_reward: 0.293
+Target: 1.971, 0.664
+final_position: 1.974, 1.298
+final_velocity: -0.150, -0.157
+###############################
+Episode: 911,Steps: 27 Reward: 8.933 Ave_reward: 0.331
+Target: 2.017, -0.133
+final_position: 1.812, 0.572
+final_velocity: -0.087, -0.159
+###############################
+Episode: 912,Steps: 17 Reward: 1.433 Ave_reward: 0.084
+Target: 1.537, -0.014
+final_position: 0.148, -0.072
+final_velocity: 0.039, 0.074
+###############################
+Episode: 913,Steps: 27 Reward: 6.554 Ave_reward: 0.243
+Target: 2.130, 1.189
+final_position: 0.998, 1.016
+final_velocity: 0.013, -0.152
+###############################
+Episode: 914,Steps: 22 Reward: 25.779 Ave_reward: 1.172
+Target: 1.323, 1.001
+final_position: 1.179, 1.082
+final_velocity: 0.059, -0.043
+###############################
+Episode: 915,Steps: 19 Reward: 15.426 Ave_reward: 0.812
+Target: 1.154, -0.965
+final_position: 1.000, -0.904
+final_velocity: 0.039, -0.092
+###############################
+Episode: 916,Steps: 32 Reward: 13.398 Ave_reward: 0.419
+Target: 2.214, -0.219
+final_position: 2.230, -0.056
+final_velocity: 0.115, -0.014
+###############################
+Episode: 917,Steps: 32 Reward: 14.768 Ave_reward: 0.462
+Target: 2.458, -0.177
+final_position: 2.751, 0.287
+final_velocity: -0.064, -0.131
+###############################
+Episode: 918,Steps: 25 Reward: 9.688 Ave_reward: 0.388
+Target: 1.226, 0.894
+final_position: 1.426, 0.859
+final_velocity: 0.017, 0.114
+###############################
+Episode: 919,Steps: 23 Reward: 27.864 Ave_reward: 1.211
+Target: 1.938, -1.085
+final_position: 1.809, -1.015
+final_velocity: 0.069, -0.045
+###############################
+Episode: 920,Steps: 30 Reward: 24.074 Ave_reward: 0.802
+Target: 2.292, -0.546
+final_position: 2.181, -0.385
+final_velocity: 0.079, -0.105
+###############################
+Episode: 921,Steps: 34 Reward: 18.366 Ave_reward: 0.540
+Target: 2.119, -0.257
+final_position: 2.106, -0.087
+final_velocity: 0.125, -0.058
+###############################
+Episode: 922,Steps: 31 Reward: 10.695 Ave_reward: 0.345
+Target: 1.412, 0.892
+final_position: 1.380, 1.058
+final_velocity: 0.096, -0.020
+###############################
+Episode: 923,Steps: 24 Reward: 9.268 Ave_reward: 0.386
+Target: 1.132, 1.382
+final_position: 0.936, 1.751
+final_velocity: 0.003, -0.075
+###############################
+Episode: 924,Steps: 24 Reward: 12.745 Ave_reward: 0.531
+Target: 1.578, -0.152
+final_position: 1.420, -0.204
+final_velocity: -0.024, 0.227
+###############################
+Episode: 925,Steps: 25 Reward: 9.962 Ave_reward: 0.398
+Target: 1.291, -1.712
+final_position: 1.252, -1.042
+final_velocity: -0.042, -0.129
+###############################
+Episode: 926,Steps: 26 Reward: 11.204 Ave_reward: 0.431
+Target: 1.393, 1.628
+final_position: 1.356, 1.911
+final_velocity: -0.080, -0.075
+###############################
+Episode: 927,Steps: 19 Reward: 4.919 Ave_reward: 0.259
+Target: 1.492, 0.507
+final_position: 1.035, -0.131
+final_velocity: 0.020, 0.107
+###############################
+Episode: 928,Steps: 26 Reward: 17.814 Ave_reward: 0.685
+Target: 1.767, -0.550
+final_position: 1.596, -0.479
+final_velocity: 0.070, -0.168
+###############################
+Episode: 929,Steps: 32 Reward: 19.319 Ave_reward: 0.604
+Target: 1.796, 0.968
+final_position: 1.694, 1.127
+final_velocity: 0.044, -0.061
+###############################
+Episode: 930,Steps: 32 Reward: 23.961 Ave_reward: 0.749
+Target: 2.386, 0.672
+final_position: 2.329, 0.621
+final_velocity: 0.112, 0.079
+###############################
+Episode: 931,Steps: 27 Reward: 6.650 Ave_reward: 0.246
+Target: 1.698, -1.160
+final_position: 1.422, -0.513
+final_velocity: -0.155, -0.151
+###############################
+Episode: 932,Steps: 17 Reward: 4.961 Ave_reward: 0.292
+Target: 1.510, -0.093
+final_position: 1.007, 0.543
+final_velocity: 0.073, -0.167
+###############################
+Episode: 933,Steps: 26 Reward: 20.117 Ave_reward: 0.774
+Target: 1.779, -0.629
+final_position: 1.825, -0.526
+final_velocity: 0.115, -0.104
+###############################
+Episode: 934,Steps: 26 Reward: 9.318 Ave_reward: 0.358
+Target: 1.461, -0.654
+final_position: 1.609, -0.424
+final_velocity: 0.027, -0.068
+###############################
+Episode: 935,Steps: 33 Reward: 13.041 Ave_reward: 0.395
+Target: 1.393, 1.797
+final_position: 1.389, 1.961
+final_velocity: 0.108, -0.025
+###############################
+Episode: 936,Steps: 26 Reward: 18.914 Ave_reward: 0.727
+Target: 1.703, -0.273
+final_position: 1.765, -0.183
+final_velocity: 0.078, -0.186
+###############################
+Episode: 937,Steps: 28 Reward: 5.294 Ave_reward: 0.189
+Target: 1.570, 0.517
+final_position: 0.949, 0.727
+final_velocity: -0.034, -0.159
+###############################
+Episode: 938,Steps: 21 Reward: 26.952 Ave_reward: 1.283
+Target: 1.181, -1.353
+final_position: 1.182, -1.185
+final_velocity: 0.058, -0.032
+###############################
+Episode: 939,Steps: 26 Reward: 9.688 Ave_reward: 0.373
+Target: 1.074, 1.624
+final_position: 1.207, 1.839
+final_velocity: 0.025, -0.111
+###############################
+Episode: 940,Steps: 23 Reward: 19.309 Ave_reward: 0.840
+Target: 1.365, -0.806
+final_position: 1.209, -0.810
+final_velocity: 0.023, 0.131
+###############################
+Episode: 941,Steps: 17 Reward: 2.712 Ave_reward: 0.160
+Target: 2.427, 0.012
+final_position: 0.716, 0.856
+final_velocity: 0.042, -0.084
+###############################
+Episode: 942,Steps: 20 Reward: 14.338 Ave_reward: 0.717
+Target: 1.070, 1.266
+final_position: 0.969, 1.218
+final_velocity: 0.051, 0.133
+###############################
+Episode: 943,Steps: 22 Reward: 5.135 Ave_reward: 0.233
+Target: 1.313, 1.536
+final_position: 0.852, 0.591
+final_velocity: 0.034, 0.163
+###############################
+Episode: 944,Steps: 28 Reward: 6.855 Ave_reward: 0.245
+Target: 1.986, -0.311
+final_position: 1.432, -0.914
+final_velocity: -0.084, 0.226
+###############################
+Episode: 945,Steps: 30 Reward: 11.570 Ave_reward: 0.386
+Target: 1.419, -1.361
+final_position: 1.331, -0.883
+final_velocity: -0.005, -0.066
+###############################
+Episode: 946,Steps: 25 Reward: 23.640 Ave_reward: 0.946
+Target: 1.286, -1.546
+final_position: 1.334, -1.391
+final_velocity: 0.155, -0.104
+###############################
+Episode: 947,Steps: 23 Reward: 8.357 Ave_reward: 0.363
+Target: 1.322, 0.852
+final_position: 0.734, 1.185
+final_velocity: -0.029, -0.056
+###############################
+Episode: 948,Steps: 25 Reward: 23.291 Ave_reward: 0.932
+Target: 1.618, 0.818
+final_position: 1.533, 0.690
+final_velocity: 0.037, 0.017
+###############################
+Episode: 949,Steps: 39 Reward: 9.301 Ave_reward: 0.238
+Target: 2.003, 1.147
+final_position: 1.933, 1.680
+final_velocity: -0.035, -0.201
+###############################
+Episode: 950,Steps: 26 Reward: 10.788 Ave_reward: 0.415
+Target: 1.903, 0.076
+final_position: 2.223, 0.241
+final_velocity: -0.089, -0.130
+###############################
+Episode: 951,Steps: 25 Reward: 10.077 Ave_reward: 0.403
+Target: 1.386, -0.817
+final_position: 1.485, -0.646
+final_velocity: 0.068, -0.009
+###############################
+Episode: 952,Steps: 22 Reward: 9.142 Ave_reward: 0.416
+Target: 1.669, 0.479
+final_position: 1.317, 0.836
+final_velocity: 0.004, -0.119
+###############################
+Episode: 953,Steps: 26 Reward: 23.186 Ave_reward: 0.892
+Target: 1.833, -0.323
+final_position: 1.713, -0.249
+final_velocity: 0.109, 0.028
+###############################
+Episode: 954,Steps: 23 Reward: 30.368 Ave_reward: 1.320
+Target: 1.817, -0.997
+final_position: 1.782, -0.940
+final_velocity: 0.201, -0.121
+###############################
+Episode: 955,Steps: 31 Reward: 10.718 Ave_reward: 0.346
+Target: 1.670, -1.616
+final_position: 1.858, -1.266
+final_velocity: -0.049, -0.126
+###############################
+Episode: 956,Steps: 26 Reward: 7.715 Ave_reward: 0.297
+Target: 2.260, -0.697
+final_position: 1.745, -0.046
+final_velocity: 0.012, -0.091
+###############################
+Episode: 957,Steps: 27 Reward: 18.491 Ave_reward: 0.685
+Target: 1.415, 1.547
+final_position: 1.322, 1.438
+final_velocity: 0.126, -0.113
+###############################
+Episode: 958,Steps: 24 Reward: 23.571 Ave_reward: 0.982
+Target: 1.393, -1.687
+final_position: 1.247, -1.697
+final_velocity: 0.014, 0.153
+###############################
+Episode: 959,Steps: 26 Reward: 9.333 Ave_reward: 0.359
+Target: 2.241, -0.948
+final_position: 1.884, -1.345
+final_velocity: 0.008, 0.187
+###############################
+Episode: 960,Steps: 26 Reward: 21.653 Ave_reward: 0.833
+Target: 2.018, 0.409
+final_position: 1.946, 0.534
+final_velocity: 0.145, -0.065
+###############################
+Episode: 961,Steps: 17 Reward: 2.961 Ave_reward: 0.174
+Target: 2.095, 0.802
+final_position: 0.589, -0.075
+final_velocity: 0.003, 0.149
+###############################
+Episode: 962,Steps: 31 Reward: 11.320 Ave_reward: 0.365
+Target: 2.363, -0.589
+final_position: 2.461, -0.135
+final_velocity: -0.103, -0.193
+###############################
+Episode: 963,Steps: 25 Reward: 6.973 Ave_reward: 0.279
+Target: 1.008, 1.175
+final_position: 0.958, 1.805
+final_velocity: 0.034, -0.158
+###############################
+Episode: 964,Steps: 26 Reward: 20.070 Ave_reward: 0.772
+Target: 0.953, 1.601
+final_position: 0.997, 1.430
+final_velocity: 0.095, 0.094
+###############################
+Episode: 965,Steps: 23 Reward: 5.688 Ave_reward: 0.247
+Target: 1.821, -1.022
+final_position: 0.880, -0.267
+final_velocity: -0.078, -0.148
+###############################
+Episode: 966,Steps: 38 Reward: 10.347 Ave_reward: 0.272
+Target: 2.226, 1.098
+final_position: 2.044, 1.056
+final_velocity: -0.026, 0.230
+###############################
+Episode: 967,Steps: 20 Reward: 28.486 Ave_reward: 1.424
+Target: 1.257, -1.289
+final_position: 1.095, -1.326
+final_velocity: 0.089, 0.125
+###############################
+Episode: 968,Steps: 28 Reward: 10.278 Ave_reward: 0.367
+Target: 1.989, -0.707
+final_position: 2.205, -0.924
+final_velocity: -0.013, 0.179
+###############################
+Episode: 969,Steps: 27 Reward: 21.716 Ave_reward: 0.804
+Target: 2.219, -1.140
+final_position: 2.146, -0.967
+final_velocity: 0.002, -0.166
+###############################
+Episode: 970,Steps: 27 Reward: 18.893 Ave_reward: 0.700
+Target: 2.373, -0.429
+final_position: 2.244, -0.330
+final_velocity: -0.004, -0.190
+###############################
+Episode: 971,Steps: 32 Reward: 10.267 Ave_reward: 0.321
+Target: 1.975, -0.249
+final_position: 2.297, 0.045
+final_velocity: 0.012, -0.121
+###############################
+Episode: 972,Steps: 23 Reward: 25.059 Ave_reward: 1.090
+Target: 1.350, -1.415
+final_position: 1.216, -1.269
+final_velocity: 0.156, -0.151
+###############################
+Episode: 973,Steps: 28 Reward: 24.474 Ave_reward: 0.874
+Target: 2.121, -0.083
+final_position: 1.976, -0.023
+final_velocity: 0.175, -0.006
+###############################
+Episode: 974,Steps: 28 Reward: 23.503 Ave_reward: 0.839
+Target: 1.764, -1.551
+final_position: 1.723, -1.710
+final_velocity: -0.026, 0.194
+###############################
+Episode: 975,Steps: 26 Reward: 9.902 Ave_reward: 0.381
+Target: 1.826, -0.389
+final_position: 1.887, 0.116
+final_velocity: 0.037, -0.070
+###############################
+Episode: 976,Steps: 32 Reward: 13.883 Ave_reward: 0.434
+Target: 1.705, 1.344
+final_position: 1.653, 1.379
+final_velocity: 0.136, 0.047

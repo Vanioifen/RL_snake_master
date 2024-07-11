@@ -1,0 +1,1056 @@
+Epi: 0  Last action: [-0.254  0.008  0.807  1.044  0.996] Win:False Ts: 0
+Epi: 1  Last action: [0.613 1.351 0.556 1.309 0.908] Win:False Ts: 0
+Epi: 2  Last action: [-1.576  0.809  1.807 -1.48  -0.84 ] Win:False Ts: 0
+Epi: 3  Last action: [ 1.536 -1.101 -0.727  0.145 -0.109] Win:False Ts: 0
+Epi: 4  Last action: [ 1.171  0.793 -0.171 -0.702  1.028] Win:False Ts: 0
+Epi: 5  Last action: [ 1.239  0.349  0.736 -1.039 -0.91 ] Win:False Ts: 0
+Epi: 6  Last action: [-0.463  1.024  1.207 -0.663 -0.387] Win:False Ts: 0
+Epi: 7  Last action: [ 0.341 -0.762 -1.997 -1.899  0.774] Win:False Ts: 0
+Epi: 8  Last action: [ 1.037 -1.362  0.117 -1.152 -0.396] Win:False Ts: 0
+Epi: 9  Last action: [ 0.325  1.959  0.244 -0.686 -1.195] Win:False Ts: 0
+Epi: 10  Last action: [ 0.044 -1.096  0.573 -0.47  -0.565] Win:False Ts: 0
+Epi: 11  Last action: [ 1.642 -0.103 -1.986 -0.489  1.026] Win:False Ts: 0
+Epi: 12  Last action: [-0.361 -2.183  0.279 -1.664  0.533] Win:False Ts: 0
+Epi: 13  Last action: [-1.855  1.364  0.254 -1.656 -0.426] Win:False Ts: 0
+Epi: 14  Last action: [ 0.367 -1.116 -1.699  1.439 -0.598] Win:False Ts: 0
+Epi: 15  Last action: [ 0.705 -1.648 -0.338  0.995 -0.914] Win:False Ts: 0
+Update: 1  actor_loss: 2.903, critic_loss: 9.098 
+Epi: 16  Last action: [-0.45   1.908 -0.879 -0.219 -0.422] Win:False Ts: 0
+Epi: 17  Last action: [-0.18  -3.014  1.172  0.128  1.513] Win:False Ts: 0
+Epi: 18  Last action: [-0.07  -0.137  1.913 -3.275 -0.295] Win:False Ts: 0
+Epi: 19  Last action: [ 1.218 -1.502  1.431  0.601 -0.913] Win:False Ts: 0
+Epi: 20  Last action: [-0.086  0.614 -0.668  0.253  1.02 ] Win:True Ts: 1
+Epi: 21  Last action: [ 1.081 -1.136  1.008 -1.277  0.077] Win:False Ts: 1
+Epi: 22  Last action: [-1.375 -0.847  0.81   1.983  0.61 ] Win:False Ts: 1
+Epi: 23  Last action: [-0.976  0.815  1.88   1.061  0.043] Win:False Ts: 1
+Epi: 24  Last action: [-2.192  0.065  0.458 -0.811 -0.112] Win:False Ts: 1
+Epi: 25  Last action: [-1.214  1.939 -0.615 -0.547 -1.51 ] Win:False Ts: 1
+Epi: 26  Last action: [ 0.792 -0.063  0.566  1.903 -1.341] Win:False Ts: 1
+Epi: 27  Last action: [-0.766 -0.187  0.498 -1.145 -0.958] Win:False Ts: 1
+Epi: 28  Last action: [-1.966 -0.264  1.874 -0.865  0.125] Win:False Ts: 1
+Epi: 29  Last action: [ 1.531 -1.817  0.273  1.233 -0.126] Win:False Ts: 1
+Epi: 30  Last action: [-0.113 -0.171 -1.2   -0.155 -1.098] Win:False Ts: 1
+Epi: 31  Last action: [ 0.987 -0.019 -0.784  1.025  0.837] Win:False Ts: 1
+Epi: 32  Last action: [ 0.389  0.511  0.85   0.177 -0.647] Win:False Ts: 1
+Epi: 33  Last action: [ 1.693 -0.937  0.54  -0.034 -0.798] Win:False Ts: 1
+Update: 2  actor_loss: 0.216, critic_loss: 10.660 
+Epi: 34  Last action: [-2.072 -1.492 -0.425 -0.535 -1.68 ] Win:False Ts: 1
+Epi: 35  Last action: [ 0.339 -0.763  0.349 -0.577  0.503] Win:False Ts: 1
+Epi: 36  Last action: [-0.216 -0.061 -0.066  0.999  1.622] Win:False Ts: 1
+Epi: 37  Last action: [ 0.558 -1.15   0.138 -1.061 -1.762] Win:False Ts: 1
+Epi: 38  Last action: [-1.056 -1.958 -0.647  0.938 -1.446] Win:False Ts: 1
+Epi: 39  Last action: [-2.011 -0.833 -0.555  0.832 -3.216] Win:False Ts: 1
+Epi: 40  Last action: [ 0.422  0.632 -0.671 -0.53   0.482] Win:False Ts: 1
+Epi: 41  Last action: [-2.66  -2.55  -0.629  0.842 -1.802] Win:False Ts: 1
+Epi: 42  Last action: [-0.093 -1.47  -0.271  0.843 -0.848] Win:False Ts: 1
+Epi: 43  Last action: [ 0.972 -1.319 -0.798 -0.988 -1.709] Win:False Ts: 1
+Epi: 44  Last action: [ 0.169 -1.833  2.301  1.782  1.088] Win:False Ts: 1
+Epi: 45  Last action: [-0.541 -0.941 -1.253  1.174  1.403] Win:False Ts: 1
+Epi: 46  Last action: [ 2.181  0.697  3.036  1.233 -0.336] Win:False Ts: 1
+Epi: 47  Last action: [-0.178  0.528  0.343  0.705  1.219] Win:False Ts: 1
+Epi: 48  Last action: [-1.239  1.737  0.974  0.346  0.609] Win:False Ts: 1
+Epi: 49  Last action: [ 1.121  0.119 -0.919  1.235 -0.089] Win:False Ts: 1
+Epi: 50  Last action: [ 0.92  -0.85   0.216 -0.947 -1.273] Win:False Ts: 1
+Update: 3  actor_loss: -1.920, critic_loss: 5.027 
+Epi: 51  Last action: [ 0.706 -1.385 -0.017 -0.213  0.144] Win:False Ts: 1
+Epi: 52  Last action: [-1.325 -0.434  1.379 -2.448 -1.019] Win:False Ts: 1
+Epi: 53  Last action: [ 1.909  1.167  1.503 -2.901  1.051] Win:False Ts: 1
+Epi: 54  Last action: [-1.34  -2.721 -1.087  1.28  -1.418] Win:False Ts: 1
+Epi: 55  Last action: [-0.872  0.778 -0.307  0.73  -1.351] Win:False Ts: 1
+Epi: 56  Last action: [-3.112  1.739 -1.479  2.701 -0.075] Win:False Ts: 1
+Epi: 57  Last action: [ 0.281  0.221 -0.86   0.89   1.914] Win:False Ts: 1
+Epi: 58  Last action: [-0.327 -0.507 -0.398  0.749  0.164] Win:False Ts: 1
+Epi: 59  Last action: [-0.828  0.998  2.178  1.213  0.623] Win:False Ts: 1
+Epi: 60  Last action: [ 0.741  1.143  0.178 -1.427  0.099] Win:False Ts: 1
+Epi: 61  Last action: [ 0.732  1.57  -1.838 -0.356 -1.7  ] Win:False Ts: 1
+Epi: 62  Last action: [-0.308 -0.107  1.471 -0.68   0.222] Win:False Ts: 1
+Epi: 63  Last action: [ 0.23  -1.961 -1.387 -1.02  -1.143] Win:False Ts: 1
+Update: 4  actor_loss: -0.595, critic_loss: 6.584 
+Epi: 64  Last action: [-0.257 -0.152  0.257 -0.379 -1.168] Win:False Ts: 1
+Epi: 65  Last action: [-1.808 -0.48   0.563  1.428 -1.005] Win:False Ts: 1
+Epi: 66  Last action: [-0.157 -0.766 -0.23  -0.585 -0.342] Win:False Ts: 1
+Epi: 67  Last action: [ 1.049  1.187  1.618 -0.446  1.329] Win:False Ts: 1
+Epi: 68  Last action: [-0.621 -0.789  0.839 -1.282 -1.56 ] Win:True Ts: 2
+Epi: 69  Last action: [-0.925 -1.113 -1.818 -0.911  0.108] Win:False Ts: 2
+Epi: 70  Last action: [ 0.091  2.128  1.393 -0.624  2.321] Win:True Ts: 3
+Epi: 71  Last action: [-0.126  2.243  0.805  0.821 -1.305] Win:False Ts: 3
+Epi: 72  Last action: [-0.117  1.263  1.311  2.813  0.047] Win:False Ts: 3
+Epi: 73  Last action: [-0.931 -0.664 -0.208 -0.43   1.584] Win:False Ts: 3
+Epi: 74  Last action: [-1.143  0.226 -1.036  0.496 -0.699] Win:False Ts: 3
+Epi: 75  Last action: [0.564 1.323 1.678 0.93  2.196] Win:False Ts: 3
+Epi: 76  Last action: [-1.134 -0.608  0.924 -0.608 -0.066] Win:True Ts: 4
+Update: 5  actor_loss: -3.333, critic_loss: 6.250 
+Epi: 77  Last action: [ 0.429 -0.665  0.995 -0.592  2.746] Win:True Ts: 5
+Epi: 78  Last action: [0.925 0.96  1.52  0.132 1.891] Win:False Ts: 5
+Epi: 79  Last action: [-2.542 -0.198  0.76  -0.538  2.544] Win:True Ts: 6
+Epi: 80  Last action: [-2.095 -1.758  0.169 -0.986 -0.46 ] Win:False Ts: 6
+Epi: 81  Last action: [ 1.245 -0.864 -0.295  0.737  0.264] Win:False Ts: 6
+Epi: 82  Last action: [-3.028 -2.201  2.024  1.481  1.844] Win:False Ts: 6
+Epi: 83  Last action: [ 0.042 -1.491 -2.576 -0.121 -2.914] Win:False Ts: 6
+Epi: 84  Last action: [-1.608 -1.041 -0.487  0.132 -0.218] Win:False Ts: 6
+Epi: 85  Last action: [ 0.538  0.485 -0.091 -0.448  1.358] Win:True Ts: 7
+Epi: 86  Last action: [ 1.37  -0.684  0.491 -0.308 -0.203] Win:False Ts: 7
+Epi: 87  Last action: [-2.359 -1.213 -1.971  0.695  0.952] Win:False Ts: 7
+Epi: 88  Last action: [ 3.392  1.212  0.232 -0.159  0.528] Win:False Ts: 7
+Epi: 89  Last action: [-1.058 -1.077  0.563  1.892 -0.377] Win:False Ts: 7
+Epi: 90  Last action: [ 1.363  0.245  0.352  0.604 -0.801] Win:False Ts: 7
+Update: 6  actor_loss: -4.862, critic_loss: 8.826 
+Epi: 91  Last action: [ 0.057 -1.336  0.523  0.652 -1.07 ] Win:False Ts: 7
+Epi: 92  Last action: [ 0.329  1.755  1.144 -0.904 -1.311] Win:False Ts: 7
+Epi: 93  Last action: [-0.665 -0.801 -0.144 -1.323  1.902] Win:True Ts: 8
+Epi: 94  Last action: [ 0.923  1.02  -0.982 -0.379 -1.306] Win:False Ts: 8
+Epi: 95  Last action: [-0.196  0.915  1.413 -2.139  2.583] Win:False Ts: 8
+Epi: 96  Last action: [ 0.042  0.027  0.064 -1.93   0.424] Win:False Ts: 8
+Epi: 97  Last action: [-1.505 -1.979 -0.316  0.096 -0.884] Win:False Ts: 8
+Epi: 98  Last action: [-0.893 -0.688 -0.292 -0.764  0.904] Win:False Ts: 8
+Epi: 99  Last action: [ 0.22  -0.514  1.279 -2.518  0.727] Win:True Ts: 9
+Epi: 100  Last action: [ 1.04   1.341  0.6   -0.754  0.491] Win:False Ts: 9
+Epi: 101  Last action: [-0.059 -0.24   0.337 -1.433  2.241] Win:False Ts: 9
+Epi: 102  Last action: [-0.534 -1.454  2.33  -0.987  1.544] Win:False Ts: 9
+Epi: 103  Last action: [-3.169  0.654  2.067  2.099 -1.668] Win:False Ts: 9
+Update: 7  actor_loss: -4.200, critic_loss: 8.163 
+Epi: 104  Last action: [2.382 1.94  2.326 0.26  1.614] Win:True Ts: 10
+Epi: 105  Last action: [-1.516 -0.239 -0.524  0.701  0.797] Win:False Ts: 10
+Epi: 106  Last action: [ 2.998  0.8    3.228 -1.666 -0.689] Win:False Ts: 10
+Epi: 107  Last action: [ 0.739  0.879  1.413  0.408 -1.742] Win:False Ts: 10
+Epi: 108  Last action: [ 2.726  1.907  0.912 -2.022  1.702] Win:False Ts: 10
+Epi: 109  Last action: [-0.276 -1.298  1.283 -1.12  -0.077] Win:True Ts: 11
+Epi: 110  Last action: [-1.891 -0.485  0.696  0.232 -1.131] Win:False Ts: 11
+Epi: 111  Last action: [ 1.48  -0.9    0.068 -1.83  -2.33 ] Win:False Ts: 11
+Epi: 112  Last action: [ 2.098  0.107  0.642 -1.28  -0.579] Win:False Ts: 11
+Epi: 113  Last action: [-0.149  1.229 -0.373  0.134 -2.308] Win:False Ts: 11
+Epi: 114  Last action: [ 2.016  0.979 -0.241 -1.355 -0.443] Win:False Ts: 11
+Epi: 115  Last action: [-0.529  0.186  0.148  0.16   1.256] Win:False Ts: 11
+Epi: 116  Last action: [-1.049  0.191 -1.221 -1.237  0.295] Win:False Ts: 11
+Epi: 117  Last action: [ 2.067  0.016  0.219 -0.066 -0.195] Win:False Ts: 11
+Update: 8  actor_loss: -3.812, critic_loss: 12.058 
+Epi: 118  Last action: [-0.487 -0.69  -3.013 -1.692 -0.749] Win:False Ts: 11
+Epi: 119  Last action: [-0.546 -1.531  1.504 -1.769  2.418] Win:True Ts: 12
+Epi: 120  Last action: [ 0.099  2.587  0.668 -0.037  1.017] Win:False Ts: 12
+Epi: 121  Last action: [ 2.4    0.291  0.057  0.222 -1.555] Win:False Ts: 11
+Epi: 122  Last action: [ 1.551  1.677  2.892 -1.013  1.002] Win:False Ts: 11
+Epi: 123  Last action: [-1.054 -0.949  0.141  1.495  1.719] Win:True Ts: 12
+Epi: 124  Last action: [ 1.227 -0.957 -0.629 -0.792  0.654] Win:True Ts: 13
+Epi: 125  Last action: [ 0.768  1.693  0.661  0.939 -1.696] Win:False Ts: 13
+Epi: 126  Last action: [-0.779 -1.106  0.49  -1.386  2.67 ] Win:True Ts: 14
+Epi: 127  Last action: [ 0.996  1.113  1.238 -1.144 -0.946] Win:False Ts: 14
+Epi: 128  Last action: [ 2.53   2.481 -1.064 -0.57  -1.641] Win:False Ts: 14
+Epi: 129  Last action: [ 0.325  0.82   0.098 -0.907  1.905] Win:False Ts: 14
+Update: 9  actor_loss: -1.368, critic_loss: 12.092 
+Epi: 130  Last action: [-2.248 -0.837  1.228  1.549 -1.058] Win:False Ts: 14
+Epi: 131  Last action: [-0.513 -1.174  1.076  2.842  1.816] Win:False Ts: 14
+Epi: 132  Last action: [ 1.13   0.023 -0.69  -1.58   0.885] Win:False Ts: 14
+Epi: 133  Last action: [ 1.212  0.362  0.795 -0.488  0.401] Win:True Ts: 15
+Epi: 134  Last action: [ 0.018  0.637 -0.699 -0.403  0.036] Win:False Ts: 15
+Epi: 135  Last action: [ 0.607  0.704 -0.695  0.098  0.196] Win:True Ts: 16
+Epi: 136  Last action: [-0.385  0.261  0.263 -2.352  0.046] Win:False Ts: 16
+Epi: 137  Last action: [ 1.995 -0.968  0.591 -0.129  0.561] Win:False Ts: 16
+Epi: 138  Last action: [ 1.396  2.39  -0.343 -1.872  0.146] Win:False Ts: 16
+Epi: 139  Last action: [-0.662 -1.155  0.082 -0.168  1.537] Win:False Ts: 16
+Epi: 140  Last action: [-1.171  0.861  1.496  0.146  0.59 ] Win:False Ts: 16
+Epi: 141  Last action: [-0.337 -0.392 -0.672  0.095 -1.481] Win:False Ts: 16
+Epi: 142  Last action: [ 0.475  0.709  1.009  1.835 -1.819] Win:False Ts: 16
+Update: 10  actor_loss: -3.042, critic_loss: 12.503 
+Epi: 143  Last action: [-0.674 -0.364  1.328 -1.322 -0.582] Win:False Ts: 16
+Epi: 144  Last action: [0.233 1.253 0.38  0.728 1.519] Win:True Ts: 17
+Epi: 145  Last action: [ 1.587  0.73  -1.988 -1.657 -0.344] Win:True Ts: 18
+Epi: 146  Last action: [-0.849 -0.517 -0.605  1.124 -2.539] Win:False Ts: 18
+Epi: 147  Last action: [ 0.857  0.247  0.906 -2.45   1.093] Win:True Ts: 19
+Epi: 148  Last action: [ 1.734 -0.801  2.203  0.079  1.331] Win:True Ts: 20
+Epi: 149  Last action: [-1.818 -0.581 -0.393  0.886 -1.646] Win:False Ts: 20
+Epi: 150  Last action: [ 0.354 -1.091  0.318 -0.886  0.422] Win:False Ts: 20
+Epi: 151  Last action: [ 1.432  1.957  0.032 -3.2    1.364] Win:False Ts: 20
+Epi: 152  Last action: [ 1.197  1.273  0.327 -0.006 -0.49 ] Win:True Ts: 21
+Epi: 153  Last action: [-0.503 -1.303  1.583 -1.26  -2.03 ] Win:False Ts: 21
+Update: 11  actor_loss: -3.356, critic_loss: 8.527 
+Epi: 154  Last action: [ 0.544  3.211  0.557  1.09  -2.641] Win:False Ts: 21
+Epi: 155  Last action: [-2.216 -2.101  0.348  1.718 -1.611] Win:False Ts: 21
+Epi: 156  Last action: [-0.891 -2.011 -1.058  2.15  -1.235] Win:False Ts: 21
+Epi: 157  Last action: [-1.291 -2.707 -0.832  0.214 -0.527] Win:False Ts: 21
+Epi: 158  Last action: [-2.367 -1.389 -1.448  0.026 -0.496] Win:False Ts: 21
+Epi: 159  Last action: [ 1.049  1.593 -0.377  0.679 -1.986] Win:False Ts: 21
+Epi: 160  Last action: [0.124 0.516 0.747 0.082 0.806] Win:False Ts: 21
+Epi: 161  Last action: [-0.018 -0.564  0.056 -0.177 -0.011] Win:False Ts: 21
+Epi: 162  Last action: [-0.54   0.093  2.166 -0.968  1.601] Win:False Ts: 21
+Epi: 163  Last action: [-2.023  0.781  0.251  1.136  2.634] Win:True Ts: 22
+Epi: 164  Last action: [ 0.362 -0.755 -0.468 -2.826  1.49 ] Win:True Ts: 23
+Epi: 165  Last action: [ 2.176  2.636 -0.88  -1.196  0.691] Win:False Ts: 23
+Epi: 166  Last action: [ 0.5    0.056 -0.814 -0.587  2.46 ] Win:False Ts: 23
+Epi: 167  Last action: [-0.473 -0.243  1.094  1.455  1.498] Win:True Ts: 24
+Update: 12  actor_loss: -2.718, critic_loss: 11.157 
+Epi: 168  Last action: [ 1.486  2.061  2.73  -0.79   0.465] Win:True Ts: 25
+Epi: 169  Last action: [-0.445 -2.012 -1.541  1.429 -0.26 ] Win:False Ts: 24
+Epi: 170  Last action: [ 1.197  0.409 -1.473  0.754 -1.452] Win:False Ts: 24
+Epi: 171  Last action: [-0.357  1.42   1.297 -1.38   1.127] Win:False Ts: 23
+Epi: 172  Last action: [ 0.601  1.202  1.524 -2.094  0.638] Win:True Ts: 24
+Epi: 173  Last action: [ 0.122 -0.34  -0.612  0.828 -0.108] Win:True Ts: 25
+Epi: 174  Last action: [ 2.427 -1.514  1.008  0.721  2.044] Win:True Ts: 26
+Epi: 175  Last action: [-1.212  0.406 -3.354  1.34   0.308] Win:False Ts: 26
+Epi: 176  Last action: [ 1.57   0.595 -2.634  0.257  0.136] Win:False Ts: 26
+Epi: 177  Last action: [-1.496 -0.695  0.12   1.311 -0.567] Win:False Ts: 25
+Epi: 178  Last action: [-0.804 -3.685 -0.334 -0.462  0.138] Win:False Ts: 24
+Epi: 179  Last action: [ 0.112 -1.39   0.392 -0.462  0.312] Win:False Ts: 24
+Update: 13  actor_loss: -2.107, critic_loss: 12.687 
+Epi: 180  Last action: [ 0.891 -0.03   1.916 -0.239  1.262] Win:True Ts: 24
+Epi: 181  Last action: [-0.77  -0.098  2.228 -0.672  1.409] Win:False Ts: 24
+Epi: 182  Last action: [-1.215 -0.661  1.09   1.651 -1.845] Win:False Ts: 24
+Epi: 183  Last action: [ 0.212 -0.771 -0.024 -0.533 -0.752] Win:False Ts: 24
+Epi: 184  Last action: [-0.7   -0.9    2.419 -0.344  2.322] Win:False Ts: 24
+Epi: 185  Last action: [-0.36   1.331  0.201 -1.652 -0.375] Win:False Ts: 24
+Epi: 186  Last action: [-0.325 -0.26   0.222 -0.178 -0.327] Win:False Ts: 23
+Epi: 187  Last action: [ 0.49  -1.008  1.139  0.853 -0.38 ] Win:True Ts: 24
+Epi: 188  Last action: [-1.094 -1.754  2.66  -0.029  0.673] Win:False Ts: 24
+Epi: 189  Last action: [ 1.069 -2.655  0.438  0.186  0.844] Win:True Ts: 25
+Epi: 190  Last action: [-3.435  1.068  1.868  1.994  1.31 ] Win:False Ts: 25
+Epi: 191  Last action: [-1.069 -0.891 -0.099  0.122 -0.188] Win:False Ts: 25
+Epi: 192  Last action: [ 1.467 -1.006 -2.717  0.322 -0.429] Win:False Ts: 25
+Epi: 193  Last action: [ 0.724  2.129  0.598 -1.883  0.425] Win:False Ts: 25
+Update: 14  actor_loss: -5.292, critic_loss: 12.943 
+Epi: 194  Last action: [-0.63   0.019  0.41  -0.789  1.144] Win:True Ts: 25
+Epi: 195  Last action: [-3.199 -0.621 -2.037  1.969 -2.436] Win:False Ts: 25
+Epi: 196  Last action: [-1.387 -0.862 -1.177  0.012  0.287] Win:False Ts: 25
+Epi: 197  Last action: [-1.235 -1.395  1.376 -2.418 -0.844] Win:False Ts: 25
+Epi: 198  Last action: [ 1.473 -0.284 -2.074 -0.563  1.008] Win:False Ts: 25
+Epi: 199  Last action: [ 0.735 -0.496  0.055 -0.7   -0.101] Win:True Ts: 26
+Epi: 200  Last action: [-1.712 -0.538  1.362 -0.745 -0.81 ] Win:False Ts: 25
+Epi: 201  Last action: [-0.15   1.95   1.488 -1.345  1.919] Win:True Ts: 26
+Epi: 202  Last action: [-0.19   0.68  -0.268  0.721 -1.218] Win:False Ts: 26
+Epi: 203  Last action: [ 0.741  0.784  2.557 -1.397  0.802] Win:True Ts: 27
+Epi: 204  Last action: [ 1.508  0.877 -0.084 -0.987  0.204] Win:True Ts: 28
+Epi: 205  Last action: [-0.159 -1.43  -0.059  0.581  0.293] Win:False Ts: 27
+Epi: 206  Last action: [ 1.168 -0.048 -0.312 -0.436  1.471] Win:False Ts: 27
+Update: 15  actor_loss: -2.350, critic_loss: 13.497 
+Epi: 207  Last action: [-0.54  -0.871  2.1    1.128  1.612] Win:False Ts: 27
+Epi: 208  Last action: [ 0.743 -0.72   1.052 -0.848  0.226] Win:True Ts: 28
+Epi: 209  Last action: [-0.185 -0.002 -0.514  1.576 -0.872] Win:False Ts: 28
+Epi: 210  Last action: [ 3.165  1.196 -0.656 -0.358 -1.375] Win:False Ts: 27
+Epi: 211  Last action: [ 1.393  0.2    3.213 -1.574  1.13 ] Win:False Ts: 27
+Epi: 212  Last action: [-1.553  0.092 -0.581 -3.146  0.504] Win:False Ts: 27
+Epi: 213  Last action: [ 1.216 -0.943  2.184 -1.437 -0.185] Win:True Ts: 28
+Epi: 214  Last action: [ 0.659  0.887 -0.731 -1.707  0.619] Win:True Ts: 29
+Epi: 215  Last action: [ 0.159 -0.501  2.098  0.337  1.779] Win:True Ts: 30
+Epi: 216  Last action: [-0.104 -0.411 -0.474  0.982  0.327] Win:False Ts: 30
+Epi: 217  Last action: [ 1.038 -1.911  2.528  0.388  0.525] Win:False Ts: 30
+Update: 16  actor_loss: -3.750, critic_loss: 8.395 
+Epi: 218  Last action: [ 1.726 -0.708 -1.509 -0.234  1.031] Win:True Ts: 31
+Epi: 219  Last action: [-1.471  0.648 -0.973 -1.365 -0.474] Win:False Ts: 31
+Epi: 220  Last action: [ 0.183 -0.727  0.089 -1.619  0.189] Win:True Ts: 31
+Epi: 221  Last action: [ 1.22  -1.008 -2.305  0.459  0.242] Win:False Ts: 31
+Epi: 222  Last action: [-0.449  0.545 -0.668 -0.94  -1.285] Win:False Ts: 31
+Epi: 223  Last action: [ 0.54   1.808 -0.148 -0.897 -0.823] Win:False Ts: 31
+Epi: 224  Last action: [-1.303 -1.214 -0.022  1.787 -1.083] Win:False Ts: 30
+Epi: 225  Last action: [ 1.277  0.185  1.653 -1.697  0.745] Win:True Ts: 30
+Epi: 226  Last action: [2.182 0.238 1.328 0.701 0.504] Win:True Ts: 31
+Epi: 227  Last action: [ 1.089 -2.043  1.545 -0.251  1.093] Win:True Ts: 31
+Epi: 228  Last action: [-0.093 -1.01  -0.606  2.577 -0.141] Win:True Ts: 32
+Epi: 229  Last action: [-0.374  0.256  2.4    0.295  2.138] Win:True Ts: 33
+Update: 17  actor_loss: -3.964, critic_loss: 8.476 
+Epi: 230  Last action: [ 1.621 -0.478 -0.592 -1.514  0.277] Win:False Ts: 33
+Epi: 231  Last action: [ 0.619  1.84   1.673 -1.195  2.   ] Win:False Ts: 33
+Epi: 232  Last action: [-0.169  0.33  -0.614 -1.346  1.651] Win:True Ts: 34
+Epi: 233  Last action: [-1.632 -1.035  0.114 -1.034 -0.176] Win:False Ts: 34
+Epi: 234  Last action: [-0.275  0.258 -1.519 -1.046  0.068] Win:False Ts: 33
+Epi: 235  Last action: [ 0.079 -0.696  0.416  1.304  2.168] Win:True Ts: 34
+Epi: 236  Last action: [ 0.69  -0.549  1.26  -1.057  0.804] Win:True Ts: 34
+Epi: 237  Last action: [-0.466 -0.385  0.792  1.498 -1.691] Win:False Ts: 34
+Epi: 238  Last action: [-0.759 -0.054 -0.318 -1.978 -1.082] Win:False Ts: 34
+Epi: 239  Last action: [ 0.395 -0.498 -0.691 -1.916 -1.627] Win:False Ts: 34
+Update: 18  actor_loss: -0.282, critic_loss: 13.273 
+Epi: 240  Last action: [ 0.442  1.138  1.984 -1.592  0.445] Win:True Ts: 35
+Epi: 241  Last action: [ 0.097  2.256  0.084 -0.537 -0.543] Win:False Ts: 35
+Epi: 242  Last action: [-3.03  -0.416  0.459  1.483 -0.381] Win:False Ts: 35
+Epi: 243  Last action: [-0.489  1.018  0.931 -1.565  0.676] Win:False Ts: 35
+Epi: 244  Last action: [ 0.996  0.025 -0.156 -0.718  0.076] Win:False Ts: 35
+Epi: 245  Last action: [ 0.153 -1.476  1.523 -1.16  -0.319] Win:True Ts: 35
+Epi: 246  Last action: [ 0.83  -0.679  1.665  0.339 -1.092] Win:True Ts: 35
+Epi: 247  Last action: [-0.27  -1.546  1.385 -0.812 -0.231] Win:False Ts: 35
+Epi: 248  Last action: [ 0.233  0.852 -1.123 -1.282 -0.741] Win:False Ts: 34
+Epi: 249  Last action: [ 0.764 -0.121 -0.943 -1.687 -0.706] Win:True Ts: 34
+Epi: 250  Last action: [ 0.282  0.216 -0.116  0.791 -0.559] Win:False Ts: 34
+Epi: 251  Last action: [ 2.331 -1.211  0.598 -1.008  1.627] Win:True Ts: 35
+Update: 19  actor_loss: -3.278, critic_loss: 13.525 
+Epi: 252  Last action: [-0.849  0.76   2.171 -1.115 -1.514] Win:False Ts: 35
+Epi: 253  Last action: [ 0.637  0.374  0.514  0.098 -0.065] Win:False Ts: 34
+Epi: 254  Last action: [ 0.998  1.135 -2.266 -2.371 -1.123] Win:False Ts: 34
+Epi: 255  Last action: [-2.632 -2.066 -0.161  0.461  0.622] Win:True Ts: 35
+Epi: 256  Last action: [ 0.273  0.673 -0.675 -1.067 -0.99 ] Win:True Ts: 36
+Epi: 257  Last action: [-1.154  1.952  0.235  0.328 -0.948] Win:False Ts: 36
+Epi: 258  Last action: [ 0.779  1.54  -2.515 -0.857 -0.062] Win:False Ts: 36
+Epi: 259  Last action: [-1.504  0.042 -0.075  1.042  0.817] Win:False Ts: 36
+Epi: 260  Last action: [-1.448 -0.543  0.222  0.806  0.233] Win:False Ts: 36
+Epi: 261  Last action: [-2.569  0.43   0.321  0.256  0.797] Win:False Ts: 36
+Epi: 262  Last action: [ 0.501 -0.963  1.539  0.264  1.606] Win:True Ts: 37
+Update: 20  actor_loss: -3.230, critic_loss: 10.163 
+Epi: 263  Last action: [ 1.464  1.375  0.427 -0.847  0.483] Win:False Ts: 37
+Epi: 264  Last action: [ 0.321  1.254 -0.654 -0.354 -0.753] Win:False Ts: 36
+Epi: 265  Last action: [ 0.983 -1.47   0.263 -1.101  1.419] Win:True Ts: 36
+Epi: 266  Last action: [-1.016  0.822  0.495 -1.86  -0.087] Win:False Ts: 36
+Epi: 267  Last action: [-0.13   0.412 -0.057 -0.873  1.08 ] Win:True Ts: 37
+Epi: 268  Last action: [-1.242 -1.038 -2.138  1.372 -1.064] Win:False Ts: 36
+Epi: 269  Last action: [ 0.68   1.353 -1.791 -1.753  0.536] Win:False Ts: 35
+Epi: 270  Last action: [ 1.758 -1.272  1.157 -1.247  0.81 ] Win:True Ts: 36
+Epi: 271  Last action: [ 0.594 -1.679  0.757 -2.348 -0.009] Win:True Ts: 37
+Epi: 272  Last action: [ 0.94   1.765 -1.212 -1.677 -1.007] Win:False Ts: 37
+Epi: 273  Last action: [ 1.843 -1.472 -0.262  1.848  2.107] Win:True Ts: 37
+Epi: 274  Last action: [-1.245 -0.822  0.978 -2.563  0.231] Win:False Ts: 36
+Epi: 275  Last action: [ 2.455 -0.786 -2.238 -1.063 -1.263] Win:False Ts: 35
+Update: 21  actor_loss: -3.546, critic_loss: 16.218 
+Epi: 276  Last action: [-0.88  -0.34   0.48   1.547  0.482] Win:True Ts: 36
+Epi: 277  Last action: [ 0.879  1.572  0.49  -0.687  0.273] Win:True Ts: 37
+Epi: 278  Last action: [ 0.058  1.821  0.745 -1.637  0.399] Win:False Ts: 37
+Epi: 279  Last action: [-0.725  0.233 -1.083 -0.348 -1.398] Win:False Ts: 37
+Epi: 280  Last action: [ 2.989  1.603 -0.547 -1.014 -0.671] Win:False Ts: 37
+Epi: 281  Last action: [ 0.014 -2.567  0.788 -1.105 -0.821] Win:True Ts: 37
+Epi: 282  Last action: [ 1.339 -0.411 -0.761  0.609  1.835] Win:True Ts: 38
+Epi: 283  Last action: [ 0.362  0.648 -1.691 -0.811 -0.182] Win:False Ts: 38
+Epi: 284  Last action: [ 1.041 -0.409  1.93  -0.826  0.016] Win:True Ts: 39
+Epi: 285  Last action: [ 1.442  0.594 -1.091 -1.979  1.82 ] Win:False Ts: 39
+Epi: 286  Last action: [-0.994 -0.835  0.318  0.65  -1.186] Win:False Ts: 39
+Update: 22  actor_loss: -2.559, critic_loss: 8.794 
+Epi: 287  Last action: [-0.814  0.33   1.736  0.676 -0.986] Win:True Ts: 40
+Epi: 288  Last action: [ 1.935  1.105  0.526 -2.636 -0.57 ] Win:False Ts: 39
+Epi: 289  Last action: [ 2.     0.6    1.799 -0.049  1.116] Win:True Ts: 40
+Epi: 290  Last action: [ 1.054  0.48  -1.276  1.1   -0.589] Win:False Ts: 39
+Epi: 291  Last action: [-0.119  1.243 -2.431 -1.892 -0.252] Win:False Ts: 39
+Epi: 292  Last action: [ 0.872  1.097  0.306 -2.45  -0.875] Win:False Ts: 39
+Epi: 293  Last action: [ 0.551  0.78  -0.843  0.769  1.522] Win:False Ts: 39
+Epi: 294  Last action: [ 1.239 -0.836  1.897 -0.879  0.844] Win:True Ts: 40
+Epi: 295  Last action: [-0.038  1.132  0.835  0.214  0.639] Win:False Ts: 39
+Epi: 296  Last action: [-3.391 -1.113  1.087 -1.764  0.499] Win:True Ts: 40
+Epi: 297  Last action: [-2.125 -0.681  0.866  1.533  1.58 ] Win:False Ts: 40
+Epi: 298  Last action: [-0.192  0.895 -2.33  -1.236 -0.215] Win:False Ts: 40
+Epi: 299  Last action: [-0.37   1.88  -0.657  0.568  1.707] Win:False Ts: 40
+Update: 23  actor_loss: -1.647, critic_loss: 12.100 
+Epi: 300  Last action: [0.292 0.514 0.328 0.653 3.252] Win:True Ts: 40
+Epi: 301  Last action: [ 1.968  0.961 -0.587  1.04  -0.725] Win:False Ts: 40
+Epi: 302  Last action: [ 0.891  2.028  0.676 -1.534  0.067] Win:False Ts: 39
+Epi: 303  Last action: [-0.62  -0.782  3.212 -0.018  2.257] Win:True Ts: 40
+Epi: 304  Last action: [ 2.361  0.361 -0.25  -1.563 -1.332] Win:False Ts: 39
+Epi: 305  Last action: [ 2.602  1.173 -0.46  -1.574  1.104] Win:False Ts: 38
+Epi: 306  Last action: [ 1.366  1.387  0.5   -1.485  1.442] Win:False Ts: 38
+Epi: 307  Last action: [-1.000e-03 -1.127e+00  9.790e-01  2.200e-02 -4.890e-01] Win:False Ts: 38
+Epi: 308  Last action: [-1.56  -0.411 -0.35  -0.24   0.075] Win:True Ts: 39
+Epi: 309  Last action: [-0.608  0.377  0.147 -0.975  0.806] Win:True Ts: 39
+Epi: 310  Last action: [ 1.318 -2.59  -0.159  0.104  0.769] Win:False Ts: 39
+Epi: 311  Last action: [ 0.237 -0.73   0.819  0.872 -1.794] Win:True Ts: 40
+Epi: 312  Last action: [ 1.354 -1.258 -1.599 -0.888  0.46 ] Win:True Ts: 41
+Update: 24  actor_loss: -0.221, critic_loss: 10.818 
+Epi: 313  Last action: [ 0.084 -0.569 -0.73   0.596  0.266] Win:True Ts: 42
+Epi: 314  Last action: [ 0.382 -1.178 -1.533 -0.741  0.542] Win:False Ts: 41
+Epi: 315  Last action: [ 0.878 -0.469  0.772  1.014 -0.532] Win:True Ts: 41
+Epi: 316  Last action: [ 1.395  0.931 -0.985 -1.248 -1.47 ] Win:False Ts: 40
+Epi: 317  Last action: [-1.324 -1.541 -2.153 -1.507  1.075] Win:True Ts: 41
+Epi: 318  Last action: [-0.947 -1.889  1.096 -0.479 -1.802] Win:True Ts: 42
+Epi: 319  Last action: [-0.534 -1.728  1.889  0.117 -0.306] Win:True Ts: 42
+Epi: 320  Last action: [-1.463 -0.845  1.528  1.459  1.022] Win:False Ts: 42
+Epi: 321  Last action: [ 0.544  1.521 -1.109 -1.309  0.443] Win:False Ts: 41
+Epi: 322  Last action: [ 3.071  1.721  1.665 -0.747  1.122] Win:True Ts: 42
+Epi: 323  Last action: [ 0.018  0.687  1.265 -1.047  0.626] Win:True Ts: 43
+Epi: 324  Last action: [ 1.299  1.919 -1.82   0.49   0.406] Win:False Ts: 43
+Update: 25  actor_loss: -2.615, critic_loss: 8.966 
+Epi: 325  Last action: [-0.6    1.482 -1.03  -0.343  2.688] Win:False Ts: 43
+Epi: 326  Last action: [ 1.354  0.694  0.811 -1.42   2.012] Win:False Ts: 42
+Epi: 327  Last action: [ 0.251  1.117 -0.234 -1.142 -1.063] Win:False Ts: 41
+Epi: 328  Last action: [ 0.157  0.385 -0.059  0.372  0.315] Win:False Ts: 40
+Epi: 329  Last action: [-1.609  0.724  2.102  0.455 -1.129] Win:True Ts: 40
+Epi: 330  Last action: [-0.603 -1.516  0.083  0.441 -0.55 ] Win:True Ts: 40
+Epi: 331  Last action: [ 1.631  1.042 -0.594 -0.249 -0.31 ] Win:False Ts: 40
+Epi: 332  Last action: [-0.747 -0.538  1.239  1.627  1.179] Win:False Ts: 40
+Epi: 333  Last action: [-0.063  2.01  -1.256 -2.134  0.035] Win:False Ts: 39
+Epi: 334  Last action: [ 2.009  1.145 -1.057 -1.625  1.251] Win:True Ts: 40
+Epi: 335  Last action: [ 0.253 -1.197 -0.861  0.422 -0.417] Win:True Ts: 41
+Update: 26  actor_loss: -2.189, critic_loss: 5.175 
+Epi: 336  Last action: [-0.072 -0.317  0.28  -1.235 -0.88 ] Win:False Ts: 40
+Epi: 337  Last action: [ 0.01  -0.896  0.179 -0.05   1.784] Win:True Ts: 40
+Epi: 338  Last action: [ 0.129 -0.883  0.015  0.086  0.971] Win:True Ts: 41
+Epi: 339  Last action: [-0.722 -1.148 -2.026 -1.519 -1.116] Win:False Ts: 41
+Epi: 340  Last action: [-1.655 -1.124 -0.764 -0.076  1.188] Win:True Ts: 42
+Epi: 341  Last action: [-0.527 -0.814  1.424 -1.438 -1.486] Win:False Ts: 41
+Epi: 342  Last action: [-1.739 -1.557  2.429 -0.815 -1.733] Win:True Ts: 42
+Epi: 343  Last action: [ 2.706  0.827 -1.836 -0.996 -0.235] Win:False Ts: 42
+Epi: 344  Last action: [-0.337 -1.38   2.105 -0.713  2.093] Win:True Ts: 43
+Epi: 345  Last action: [-1.45   0.099 -0.319  2.226 -1.782] Win:False Ts: 43
+Update: 27  actor_loss: -3.204, critic_loss: 5.798 
+Epi: 346  Last action: [ 1.54  -0.671  0.834  0.768 -0.428] Win:True Ts: 43
+Epi: 347  Last action: [ 1.082 -1.094 -1.441  0.447  1.857] Win:True Ts: 43
+Epi: 348  Last action: [ 1.302 -0.073  0.604 -0.94   0.412] Win:True Ts: 44
+Epi: 349  Last action: [-1.607 -0.699 -0.603 -0.445 -0.508] Win:True Ts: 45
+Epi: 350  Last action: [ 0.575  1.748 -0.538 -0.245  0.836] Win:False Ts: 44
+Epi: 351  Last action: [ 0.089 -0.935 -1.679 -0.196  1.359] Win:False Ts: 44
+Epi: 352  Last action: [ 1.241  0.199  0.943 -1.443  1.132] Win:True Ts: 44
+Epi: 353  Last action: [-1.133 -0.768  0.563 -0.049 -0.192] Win:True Ts: 45
+Epi: 354  Last action: [-1.407  0.65   0.643  0.862 -0.666] Win:False Ts: 45
+Epi: 355  Last action: [ 1.312 -1.146  0.179 -1.553  2.521] Win:True Ts: 46
+Epi: 356  Last action: [ 2.22   1.977  0.575 -1.054  0.203] Win:False Ts: 45
+Update: 28  actor_loss: -3.254, critic_loss: 8.745 
+Epi: 357  Last action: [1.209 0.529 0.091 0.166 0.824] Win:True Ts: 45
+Epi: 358  Last action: [ 0.827  1.572 -1.601  0.608  1.455] Win:False Ts: 45
+Epi: 359  Last action: [ 0.931  1.25   0.324 -3.007  1.159] Win:True Ts: 46
+Epi: 360  Last action: [ 0.884 -1.906 -1.815 -0.559  1.183] Win:True Ts: 47
+Epi: 361  Last action: [ 2.939  1.089 -1.407 -1.033  1.15 ] Win:True Ts: 48
+Epi: 362  Last action: [ 0.653  0.687 -1.781  0.835 -0.588] Win:False Ts: 48
+Epi: 363  Last action: [-0.556 -1.176 -0.739  2.013 -0.891] Win:False Ts: 47
+Epi: 364  Last action: [-0.019  0.934  0.306 -0.834 -0.099] Win:True Ts: 48
+Epi: 365  Last action: [ 1.119 -1.876  1.445 -1.228  1.306] Win:True Ts: 49
+Epi: 366  Last action: [-0.311  0.681 -1.183  1.111 -1.2  ] Win:False Ts: 48
+Epi: 367  Last action: [-0.474 -0.336  1.185 -0.955  0.595] Win:True Ts: 49
+Epi: 368  Last action: [ 0.4    0.981  0.03  -1.7   -2.325] Win:False Ts: 48
+Epi: 369  Last action: [1.275 0.365 0.221 0.017 1.055] Win:True Ts: 49
+Update: 29  actor_loss: -2.059, critic_loss: 13.426 
+Epi: 370  Last action: [ 1.063  1.085 -0.242  0.224  0.572] Win:False Ts: 49
+Epi: 371  Last action: [-1.972 -1.796 -0.716  0.508  1.648] Win:False Ts: 48
+Epi: 372  Last action: [ 0.807 -1.664  0.065  0.562  1.723] Win:True Ts: 48
+Epi: 373  Last action: [-1.462 -2.061  1.225 -2.124  1.001] Win:False Ts: 48
+Epi: 374  Last action: [ 0.251  0.408 -0.264  0.263 -1.263] Win:False Ts: 47
+Epi: 375  Last action: [ 1.487  1.887 -0.723  1.556 -1.003] Win:True Ts: 48
+Epi: 376  Last action: [ 0.474  0.15  -2.29   0.688  0.103] Win:True Ts: 49
+Epi: 377  Last action: [-0.882 -1.039  0.67   1.34  -0.949] Win:False Ts: 48
+Epi: 378  Last action: [ 0.51   0.426 -0.509  0.909  0.01 ] Win:False Ts: 47
+Epi: 379  Last action: [ 1.034  1.015  0.343  0.916 -0.596] Win:False Ts: 47
+Epi: 380  Last action: [-1.489  0.479 -1.152  1.298 -1.7  ] Win:False Ts: 47
+Update: 30  actor_loss: -2.586, critic_loss: 14.456 
+Epi: 381  Last action: [ 1.663 -0.833  1.666 -0.834 -0.407] Win:False Ts: 47
+Epi: 382  Last action: [ 1.038 -0.04  -0.123  0.694 -0.474] Win:True Ts: 47
+Epi: 383  Last action: [-0.157  0.138  0.439  0.986  1.695] Win:True Ts: 47
+Epi: 384  Last action: [-2.001 -1.763  1.219 -0.502  1.094] Win:False Ts: 47
+Epi: 385  Last action: [-1.068 -0.573 -1.317  1.576 -0.457] Win:False Ts: 46
+Epi: 386  Last action: [-2.228 -2.155  0.754  0.766 -1.599] Win:True Ts: 47
+Epi: 387  Last action: [-2.224  0.082  2.378  1.298 -1.326] Win:False Ts: 47
+Epi: 388  Last action: [-1.318 -0.898  0.634  0.13   0.906] Win:True Ts: 47
+Epi: 389  Last action: [-1.087 -0.555  0.579 -0.765 -0.938] Win:False Ts: 47
+Epi: 390  Last action: [-0.123 -1.05  -2.107  0.437 -1.308] Win:False Ts: 46
+Epi: 391  Last action: [-2.306 -1.231 -1.288 -1.099  0.291] Win:False Ts: 46
+Epi: 392  Last action: [-0.677 -1.287 -1.751  0.17  -1.167] Win:False Ts: 46
+Update: 31  actor_loss: 0.784, critic_loss: 9.779 
+Epi: 393  Last action: [ 0.26   0.398 -1.023  0.15  -1.979] Win:False Ts: 46
+Epi: 394  Last action: [ 0.487  2.047 -0.727  1.179  0.512] Win:False Ts: 46
+Epi: 395  Last action: [-1.372  0.032  0.678 -0.524  1.617] Win:False Ts: 45
+Epi: 396  Last action: [ 0.907 -0.72   0.49   1.675 -0.734] Win:False Ts: 45
+Epi: 397  Last action: [ 0.299  1.963 -0.304  0.578  1.043] Win:True Ts: 45
+Epi: 398  Last action: [ 0.696 -1.018  0.083 -1.225 -1.399] Win:True Ts: 46
+Epi: 399  Last action: [-1.388 -0.041  2.221 -0.228  0.906] Win:True Ts: 47
+Epi: 400  Last action: [ 0.581 -1.362 -0.069 -2.056  0.159] Win:True Ts: 48
+Epi: 401  Last action: [-2.186 -0.546  0.164  0.291 -1.284] Win:True Ts: 48
+Epi: 402  Last action: [ 0.656  0.066 -0.639 -1.107  1.45 ] Win:False Ts: 48
+Epi: 403  Last action: [ 0.577  2.205  0.663  0.14  -1.315] Win:True Ts: 49
+Epi: 404  Last action: [ 0.532  0.179 -0.033  0.57  -0.263] Win:False Ts: 48
+Update: 32  actor_loss: -1.668, critic_loss: 7.545 
+Epi: 405  Last action: [ 0.597 -0.438  0.193  0.213 -1.096] Win:True Ts: 49
+Epi: 406  Last action: [ 1.585  0.848 -0.382 -0.863  0.167] Win:True Ts: 50
+Epi: 407  Last action: [2.419 1.745 0.312 1.053 0.549] Win:False Ts: 50
+Epi: 408  Last action: [-0.812 -1.111 -1.867  0.299 -0.12 ] Win:True Ts: 51
+Epi: 409  Last action: [-0.37  -1.428  0.453  1.983 -0.874] Win:False Ts: 50
+Epi: 410  Last action: [ 2.424  2.522  0.299 -1.39  -0.034] Win:False Ts: 49
+Epi: 411  Last action: [ 0.092 -1.048 -0.471 -0.317 -1.351] Win:True Ts: 50
+Epi: 412  Last action: [-1.087 -0.591  1.053 -1.075  0.604] Win:False Ts: 49
+Epi: 413  Last action: [ 0.681  0.853 -0.406 -0.372  0.038] Win:True Ts: 49
+Epi: 414  Last action: [-0.809 -1.343 -0.416  0.787 -2.025] Win:True Ts: 49
+Epi: 415  Last action: [ 2.958  1.355 -1.614 -1.24   0.193] Win:False Ts: 49
+Epi: 416  Last action: [-0.01   1.759  1.064 -1.218 -0.433] Win:True Ts: 49
+Update: 33  actor_loss: -1.936, critic_loss: 9.780 
+Epi: 417  Last action: [ 1.095  0.435 -1.99  -0.395  1.427] Win:False Ts: 49
+Epi: 418  Last action: [-1.932 -2.772  0.786 -0.108 -0.033] Win:True Ts: 49
+Epi: 419  Last action: [-0.706  0.649 -1.118 -2.252  1.516] Win:False Ts: 48
+Epi: 420  Last action: [-1.76  -1.381 -0.555 -0.277 -0.579] Win:False Ts: 47
+Epi: 421  Last action: [0.796 1.703 1.027 1.017 0.07 ] Win:False Ts: 47
+Epi: 422  Last action: [-2.308 -2.012  1.301  0.374  1.157] Win:True Ts: 48
+Epi: 423  Last action: [-0.368  0.987 -1.146  0.032 -0.915] Win:True Ts: 48
+Epi: 424  Last action: [-0.45  -0.325  1.361 -2.062 -1.705] Win:True Ts: 48
+Epi: 425  Last action: [ 1.465 -0.074  1.51  -0.755 -0.541] Win:True Ts: 49
+Epi: 426  Last action: [ 0.894 -0.18  -1.07  -0.188  0.184] Win:False Ts: 49
+Epi: 427  Last action: [-1.309 -0.359  0.483  1.606 -0.117] Win:True Ts: 50
+Epi: 428  Last action: [-0.674  1.353 -0.725 -0.037 -0.031] Win:False Ts: 50
+Epi: 429  Last action: [-0.045 -1.261  2.224 -2.142  0.255] Win:True Ts: 51
+Epi: 430  Last action: [ 1.127  1.197 -1.159  0.181  1.32 ] Win:False Ts: 50
+Update: 34  actor_loss: -2.170, critic_loss: 14.684 
+Epi: 431  Last action: [1.295 0.879 0.09  1.428 1.316] Win:False Ts: 49
+Epi: 432  Last action: [ 2.108  1.511  1.332 -1.585 -1.083] Win:True Ts: 50
+Epi: 433  Last action: [-0.31   0.591 -0.541 -1.497  1.212] Win:True Ts: 51
+Epi: 434  Last action: [-2.563 -1.413 -0.526 -0.069 -0.249] Win:False Ts: 51
+Epi: 435  Last action: [-1.344 -1.62   0.691  1.016 -1.196] Win:False Ts: 50
+Epi: 436  Last action: [-1.262  0.853 -1.114 -0.489 -0.244] Win:False Ts: 49
+Epi: 437  Last action: [-0.286 -3.099 -0.827 -0.131 -0.171] Win:True Ts: 50
+Epi: 438  Last action: [ 2.524 -0.042 -0.865  0.027 -0.061] Win:False Ts: 49
+Epi: 439  Last action: [-1.398 -0.394  1.078  0.881  2.177] Win:True Ts: 49
+Epi: 440  Last action: [ 0.651  0.388 -1.683 -1.16   1.342] Win:False Ts: 49
+Epi: 441  Last action: [-0.94   0.307 -0.104 -0.204 -0.884] Win:True Ts: 49
+Epi: 442  Last action: [-1.092 -0.878  1.175  1.392  0.528] Win:False Ts: 49
+Epi: 443  Last action: [ 1.52   1.157 -0.316 -0.653  1.35 ] Win:False Ts: 48
+Update: 35  actor_loss: -1.739, critic_loss: 16.841 
+Epi: 444  Last action: [0.422 1.159 0.058 0.275 0.185] Win:False Ts: 48
+Epi: 445  Last action: [ 1.582  1.26   1.685 -0.231  1.272] Win:False Ts: 47
+Epi: 446  Last action: [ 0.66   0.965 -0.199 -2.466  0.881] Win:False Ts: 47
+Epi: 447  Last action: [-0.468  0.539  0.612  0.958 -0.816] Win:False Ts: 46
+Epi: 448  Last action: [ 1.481  1.547  0.163  0.196 -0.849] Win:False Ts: 45
+Epi: 449  Last action: [ 0.47   0.788  0.594 -0.486  0.537] Win:True Ts: 45
+Epi: 450  Last action: [-0.201 -0.572 -0.543 -1.327  2.127] Win:True Ts: 45
+Epi: 451  Last action: [ 0.503  0.55   0.776  1.132 -0.843] Win:False Ts: 45
+Epi: 452  Last action: [0.613 1.254 0.317 0.293 0.892] Win:False Ts: 45
+Epi: 453  Last action: [0.937 0.173 1.5   1.917 0.289] Win:False Ts: 44
+Epi: 454  Last action: [-0.825 -1.773  1.063 -2.261 -0.815] Win:True Ts: 44
+Epi: 455  Last action: [ 0.952  0.197  1.418 -0.181  1.367] Win:True Ts: 45
+Update: 36  actor_loss: -1.139, critic_loss: 5.439 
+Epi: 456  Last action: [ 0.967  0.113 -1.492 -2.869  1.948] Win:True Ts: 45
+Epi: 457  Last action: [-0.187 -1.276  0.43  -0.438  0.331] Win:False Ts: 45
+Epi: 458  Last action: [-0.477 -0.911  1.196  2.321  1.22 ] Win:True Ts: 45
+Epi: 459  Last action: [ 1.783  1.221 -0.123 -1.331  1.211] Win:False Ts: 45
+Epi: 460  Last action: [-1.011  0.413  1.225  0.544 -0.75 ] Win:False Ts: 44
+Epi: 461  Last action: [-1.368 -1.084 -0.428 -1.451 -0.845] Win:False Ts: 43
+Epi: 462  Last action: [ 0.369 -0.79   1.553  0.897  0.876] Win:False Ts: 42
+Epi: 463  Last action: [ 1.836  0.65  -1.111 -0.453  1.505] Win:True Ts: 43
+Epi: 464  Last action: [-1.716 -1.517 -0.082  1.207 -2.017] Win:False Ts: 43
+Epi: 465  Last action: [ 1.982  0.581 -0.361  0.467  2.511] Win:False Ts: 42
+Epi: 466  Last action: [-1.937 -0.096 -0.009 -1.056 -0.192] Win:False Ts: 41
+Update: 37  actor_loss: -1.663, critic_loss: 8.682 
+Epi: 467  Last action: [ 2.908 -0.029 -1.129  1.25  -0.71 ] Win:False Ts: 41
+Epi: 468  Last action: [ 0.299 -0.195 -0.116 -2.394  0.229] Win:True Ts: 41
+Epi: 469  Last action: [ 0.366  0.514 -0.383 -0.663  1.373] Win:True Ts: 42
+Epi: 470  Last action: [-0.219 -0.37  -0.773  0.71   0.697] Win:False Ts: 41
+Epi: 471  Last action: [ 1.239  1.368  0.412 -0.294 -1.695] Win:True Ts: 42
+Epi: 472  Last action: [-0.63  -0.915 -1.798  0.844 -1.134] Win:True Ts: 43
+Epi: 473  Last action: [ 0.194  1.318  0.207 -0.887  0.916] Win:False Ts: 42
+Epi: 474  Last action: [-1.516 -0.134  0.479  0.661 -0.939] Win:False Ts: 42
+Epi: 475  Last action: [-3.258 -0.608 -1.219  0.908 -1.468] Win:True Ts: 43
+Epi: 476  Last action: [-0.715  0.697  1.147 -0.769 -1.18 ] Win:True Ts: 43
+Epi: 477  Last action: [ 1.486  1.228  2.396 -0.113  0.12 ] Win:True Ts: 43
+Epi: 478  Last action: [-1.175 -0.066  0.786  0.878 -1.232] Win:True Ts: 44
+Update: 38  actor_loss: 12.130, critic_loss: 6.710 
+Epi: 479  Last action: [-0.273 -0.96  -1.755  1.259  1.628] Win:True Ts: 45
+Epi: 480  Last action: [-0.86  -0.008  0.15   0.823 -1.361] Win:True Ts: 46
+Epi: 481  Last action: [ 1.727 -0.643  1.133 -0.006 -0.51 ] Win:False Ts: 46
+Epi: 482  Last action: [-0.783 -0.4    1.114 -0.406  1.367] Win:True Ts: 47
+Epi: 483  Last action: [ 2.352  0.757  0.335 -1.116  0.732] Win:True Ts: 47
+Epi: 484  Last action: [ 0.176  0.601 -0.454 -1.423  0.851] Win:True Ts: 47
+Epi: 485  Last action: [-1.143 -0.191  0.673  0.75   0.21 ] Win:True Ts: 48
+Epi: 486  Last action: [-1.458 -0.025  1.635 -0.201  0.79 ] Win:True Ts: 49
+Epi: 487  Last action: [ 1.505 -0.368  0.169 -0.534  0.005] Win:True Ts: 49
+Epi: 488  Last action: [ 0.801  0.469 -0.257 -0.112  2.238] Win:True Ts: 50
+Update: 39  actor_loss: -2.135, critic_loss: 4.059 
+Epi: 489  Last action: [ 1.96  -0.221 -0.209 -1.11  -0.718] Win:True Ts: 50
+Epi: 490  Last action: [-1.115 -1.402  0.237 -1.038  1.413] Win:True Ts: 51
+Epi: 491  Last action: [ 1.616  1.047 -0.577 -1.664  0.784] Win:True Ts: 52
+Epi: 492  Last action: [-0.937 -0.598  0.233 -1.072  0.725] Win:False Ts: 52
+Epi: 493  Last action: [ 0.551 -1.251  0.839 -1.56   0.122] Win:True Ts: 53
+Epi: 494  Last action: [-0.058 -1.646  1.158  0.706 -2.03 ] Win:False Ts: 53
+Epi: 495  Last action: [-1.138  0.189 -1.914  0.786 -0.844] Win:True Ts: 54
+Epi: 496  Last action: [-0.863 -2.055  0.995  0.892 -0.037] Win:True Ts: 55
+Epi: 497  Last action: [ 1.669  1.026  1.135 -1.676  0.009] Win:False Ts: 55
+Epi: 498  Last action: [-0.574 -1.549 -0.902 -0.623  1.707] Win:True Ts: 55
+Epi: 499  Last action: [-0.904 -2.396  0.007  0.596  0.152] Win:False Ts: 54
+Epi: 500  Last action: [ 1.209 -1.065  0.58  -0.864  0.892] Win:True Ts: 54
+Update: 40  actor_loss: -1.728, critic_loss: 7.871 
+Epi: 501  Last action: [-2.151 -0.385 -0.383  1.001  1.827] Win:False Ts: 53
+Epi: 502  Last action: [-1.177 -1.742 -0.405 -0.831  1.366] Win:False Ts: 52
+Epi: 503  Last action: [-0.176  1.06   0.184  1.192 -0.721] Win:True Ts: 53
+Epi: 504  Last action: [ 1.148 -0.548 -1.303  0.614  0.155] Win:True Ts: 53
+Epi: 505  Last action: [-1.999  0.642  1.148  1.548  0.715] Win:True Ts: 54
+Epi: 506  Last action: [ 2.064  0.171 -0.199 -0.5    1.085] Win:False Ts: 53
+Epi: 507  Last action: [-0.005 -0.176  0.285 -0.935  1.035] Win:True Ts: 53
+Epi: 508  Last action: [ 0.022 -1.385  1.118  0.512  0.7  ] Win:True Ts: 54
+Epi: 509  Last action: [-0.987 -0.611 -0.595 -0.25   0.697] Win:False Ts: 53
+Epi: 510  Last action: [ 0.899  2.151  0.397 -0.489 -1.586] Win:False Ts: 53
+Epi: 511  Last action: [-1.049 -1.523 -1.213  1.876 -1.228] Win:False Ts: 53
+Epi: 512  Last action: [-1.347 -0.835  0.275 -2.061 -2.639] Win:True Ts: 53
+Epi: 513  Last action: [-1.32  -1.186  1.415  1.505 -0.507] Win:False Ts: 53
+Epi: 514  Last action: [ 0.595  0.313 -0.856  0.339  1.213] Win:True Ts: 53
+Update: 41  actor_loss: -1.741, critic_loss: 14.725 
+Epi: 515  Last action: [-2.076 -0.696 -0.72   0.255  0.72 ] Win:False Ts: 52
+Epi: 516  Last action: [-0.985 -0.866  0.316  1.26  -0.059] Win:False Ts: 52
+Epi: 517  Last action: [-0.203 -0.234  2.666  1.642  0.334] Win:True Ts: 52
+Epi: 518  Last action: [ 0.228 -0.344 -0.35   1.12   0.027] Win:True Ts: 53
+Epi: 519  Last action: [-0.564 -1.802 -1.282  0.485 -0.304] Win:False Ts: 52
+Epi: 520  Last action: [-0.582 -1.046 -0.358 -0.165 -0.059] Win:True Ts: 53
+Epi: 521  Last action: [-0.813 -0.246 -0.642 -1.738  0.337] Win:False Ts: 53
+Epi: 522  Last action: [ 0.466  0.299  0.918 -2.258  0.373] Win:True Ts: 54
+Epi: 523  Last action: [ 1.012  1.138  0.39   0.601 -0.818] Win:False Ts: 53
+Epi: 524  Last action: [-0.039 -2.178 -1.382 -0.808 -0.728] Win:False Ts: 52
+Epi: 525  Last action: [-1.12  -0.922 -1.568 -0.576  0.648] Win:True Ts: 52
+Update: 42  actor_loss: -2.104, critic_loss: 9.796 
+Epi: 526  Last action: [-0.936 -1.038 -1.413  0.088 -1.385] Win:False Ts: 51
+Epi: 527  Last action: [ 0.143 -1.647  0.53  -1.741 -0.272] Win:False Ts: 51
+Epi: 528  Last action: [ 0.553  0.264  0.595 -0.479 -2.049] Win:False Ts: 50
+Epi: 529  Last action: [ 1.919  1.158  1.358 -1.087 -0.197] Win:False Ts: 50
+Epi: 530  Last action: [ 1.359 -0.452 -1.274 -0.676 -1.233] Win:True Ts: 50
+Epi: 531  Last action: [-1.637  0.524 -1.005 -1.461  1.211] Win:True Ts: 51
+Epi: 532  Last action: [-0.893 -0.857 -1.165 -0.194  0.564] Win:False Ts: 51
+Epi: 533  Last action: [ 0.884  0.811 -1.593  0.165 -0.479] Win:False Ts: 50
+Epi: 534  Last action: [ 0.876  1.181 -0.259 -0.965 -1.278] Win:False Ts: 49
+Epi: 535  Last action: [ 0.325  0.823 -1.698 -0.523 -0.106] Win:False Ts: 49
+Epi: 536  Last action: [-0.167  0.992  0.035 -0.703  0.149] Win:False Ts: 49
+Epi: 537  Last action: [-0.987  1.102 -1.596 -0.967 -0.169] Win:True Ts: 50
+Epi: 538  Last action: [ 1.548  1.174  0.738 -0.37   0.008] Win:False Ts: 49
+Update: 43  actor_loss: -1.725, critic_loss: 13.812 
+Epi: 539  Last action: [ 0.991  0.486  1.164 -1.517 -0.707] Win:False Ts: 49
+Epi: 540  Last action: [-1.407 -1.726 -0.92   1.217  0.589] Win:False Ts: 48
+Epi: 541  Last action: [ 0.427 -0.105 -1.08  -0.293  0.893] Win:True Ts: 49
+Epi: 542  Last action: [ 0.959  0.138  0.468 -2.452 -1.011] Win:False Ts: 48
+Epi: 543  Last action: [-0.911 -1.271 -0.1    0.856 -1.582] Win:False Ts: 48
+Epi: 544  Last action: [ 1.555  0.982 -0.3   -0.698  0.639] Win:True Ts: 49
+Epi: 545  Last action: [-0.211 -0.451 -0.792 -1.223 -1.663] Win:True Ts: 50
+Epi: 546  Last action: [1.62  0.907 2.565 0.051 1.207] Win:False Ts: 50
+Epi: 547  Last action: [ 0.182 -0.719  1.623  0.631 -0.024] Win:True Ts: 51
+Epi: 548  Last action: [ 2.002 -0.801  1.764 -0.298  0.225] Win:True Ts: 52
+Epi: 549  Last action: [ 0.62  -0.092  1.294  0.473  0.212] Win:False Ts: 52
+Epi: 550  Last action: [-0.892 -0.221  1.245 -0.933 -0.232] Win:True Ts: 52
+Epi: 551  Last action: [ 2.29   0.177 -1.879 -0.563 -1.75 ] Win:True Ts: 52
+Update: 44  actor_loss: -1.439, critic_loss: 8.521 
+Epi: 552  Last action: [ 0.781  0.615 -0.215  0.083 -0.024] Win:True Ts: 53
+Epi: 553  Last action: [ 0.165 -1.342  0.513  0.181 -3.327] Win:True Ts: 54
+Epi: 554  Last action: [-0.114 -0.464 -1.733  0.153  1.885] Win:True Ts: 55
+Epi: 555  Last action: [ 1.631  1.354 -0.324 -0.749 -1.987] Win:False Ts: 54
+Epi: 556  Last action: [-1.345 -1.117 -1.389  1.66  -0.747] Win:False Ts: 53
+Epi: 557  Last action: [ 0.472  0.282 -0.218 -0.265 -0.173] Win:False Ts: 52
+Epi: 558  Last action: [-0.253 -1.148  0.254  1.464 -0.025] Win:False Ts: 52
+Epi: 559  Last action: [ 1.55  -0.293 -1.499 -1.175  1.56 ] Win:True Ts: 52
+Epi: 560  Last action: [ 0.743 -1.957  1.01   0.55   0.804] Win:True Ts: 53
+Epi: 561  Last action: [-2.246 -0.951 -0.954  0.233 -2.382] Win:True Ts: 54
+Epi: 562  Last action: [ 0.176  0.802 -0.32   0.429  0.053] Win:True Ts: 55
+Epi: 563  Last action: [ 2.55  -0.302  0.437 -1.033 -0.159] Win:True Ts: 56
+Epi: 564  Last action: [ 2.042  1.235  0.703 -0.874  1.524] Win:False Ts: 55
+Update: 45  actor_loss: -2.312, critic_loss: 16.920 
+Epi: 565  Last action: [-0.725 -1.591 -0.146  1.078 -3.236] Win:True Ts: 56
+Epi: 566  Last action: [-1.203 -1.138 -0.928 -1.484 -1.111] Win:False Ts: 56
+Epi: 567  Last action: [ 0.526 -0.489 -0.048 -1.251  1.334] Win:False Ts: 56
+Epi: 568  Last action: [ 0.826  1.268  0.342  0.281 -0.3  ] Win:True Ts: 57
+Epi: 569  Last action: [-0.87  -1.053 -0.604 -0.246 -1.163] Win:False Ts: 56
+Epi: 570  Last action: [-2.696 -0.166 -0.109  0.795  0.146] Win:False Ts: 55
+Epi: 571  Last action: [-0.961 -0.791 -0.585 -0.555 -0.417] Win:True Ts: 56
+Epi: 572  Last action: [ 1.188 -1.181 -0.641 -0.734  1.778] Win:True Ts: 56
+Epi: 573  Last action: [-1.164 -1.265 -0.506  0.545 -1.175] Win:True Ts: 56
+Epi: 574  Last action: [-0.936  0.984  0.487 -0.677 -0.888] Win:True Ts: 57
+Epi: 575  Last action: [ 0.07   0.368 -2.273 -1.052  0.134] Win:False Ts: 57
+Epi: 576  Last action: [-0.599  0.503 -1.126  0.017 -1.408] Win:True Ts: 57
+Update: 46  actor_loss: -1.413, critic_loss: 11.313 
+Epi: 577  Last action: [ 0.371  0.761  0.784 -0.735  0.87 ] Win:False Ts: 56
+Epi: 578  Last action: [-0.552  0.694  0.378 -1.982  0.628] Win:True Ts: 56
+Epi: 579  Last action: [ 1.489 -0.789  0.137  1.931  0.49 ] Win:True Ts: 56
+Epi: 580  Last action: [-1.867 -1.517  0.387  0.754 -1.661] Win:True Ts: 56
+Epi: 581  Last action: [-0.017 -1.363  0.231  0.79   1.024] Win:True Ts: 56
+Epi: 582  Last action: [-0.672 -0.953 -0.88   1.403 -1.28 ] Win:False Ts: 56
+Epi: 583  Last action: [-1.956  0.419  0.955 -1.123  1.035] Win:False Ts: 55
+Epi: 584  Last action: [ 0.605 -0.616 -0.41  -0.013  2.366] Win:True Ts: 55
+Epi: 585  Last action: [ 1.374  0.853 -1.694 -0.091  1.355] Win:True Ts: 55
+Epi: 586  Last action: [ 0.548 -0.341 -0.303 -1.899  0.526] Win:False Ts: 54
+Epi: 587  Last action: [ 0.732  0.123 -1.192  0.456 -0.251] Win:True Ts: 54
+Epi: 588  Last action: [-1.249 -1.147  0.181  0.047 -1.359] Win:True Ts: 54
+Epi: 589  Last action: [-0.864 -0.978  1.414  1.107  0.956] Win:False Ts: 53
+Update: 47  actor_loss: -1.755, critic_loss: 11.173 
+Epi: 590  Last action: [ 0.49  -0.982 -0.187  2.003 -1.497] Win:False Ts: 52
+Epi: 591  Last action: [ 1.307  0.814 -1.876  0.62   0.429] Win:True Ts: 52
+Epi: 592  Last action: [ 0.681  1.007  1.326 -1.432 -0.94 ] Win:False Ts: 51
+Epi: 593  Last action: [-1.318  0.207  0.422  0.195 -1.138] Win:True Ts: 52
+Epi: 594  Last action: [-0.959 -0.237  0.838 -0.302 -0.845] Win:False Ts: 51
+Epi: 595  Last action: [ 0.427  1.002 -1.575 -0.267  1.323] Win:True Ts: 52
+Epi: 596  Last action: [0.094 0.068 0.999 0.845 1.13 ] Win:True Ts: 52
+Epi: 597  Last action: [ 0.429  0.749 -2.317 -0.876  0.863] Win:True Ts: 52
+Epi: 598  Last action: [-0.314 -0.119 -0.515 -3.036 -0.55 ] Win:False Ts: 52
+Epi: 599  Last action: [-1.034  0.776 -1.603 -0.912  0.669] Win:False Ts: 51
+Epi: 600  Last action: [-0.037 -1.384 -0.597 -0.065 -1.449] Win:True Ts: 52
+Update: 48  actor_loss: -1.265, critic_loss: 8.470 
+Epi: 601  Last action: [ 2.58   1.485  0.029 -0.537 -0.344] Win:False Ts: 51
+Epi: 602  Last action: [-0.119 -1.585  0.161  0.486 -1.725] Win:False Ts: 51
+Epi: 603  Last action: [ 0.94   0.994 -1.77  -0.966  1.053] Win:True Ts: 52
+Epi: 604  Last action: [-1.322  0.011 -0.382  0.415 -1.408] Win:False Ts: 51
+Epi: 605  Last action: [ 1.686  0.968 -1.108  0.366  0.528] Win:True Ts: 51
+Epi: 606  Last action: [ 1.474  1.207 -0.548  0.775  0.454] Win:True Ts: 51
+Epi: 607  Last action: [ 0.693  0.475 -0.161 -0.544 -0.778] Win:False Ts: 51
+Epi: 608  Last action: [-0.744  0.093 -1.175  0.192 -0.193] Win:True Ts: 51
+Epi: 609  Last action: [-1.137 -0.159  1.227 -2.786  0.772] Win:False Ts: 50
+Epi: 610  Last action: [-0.162 -1.622  0.654 -0.73  -0.403] Win:True Ts: 51
+Epi: 611  Last action: [ 1.014  0.276  0.503 -1.146  0.695] Win:False Ts: 51
+Epi: 612  Last action: [-1.247  0.221 -0.481  0.557 -0.858] Win:False Ts: 51
+Epi: 613  Last action: [ 1.45   0.755  0.684 -2.03  -0.427] Win:True Ts: 51
+Epi: 614  Last action: [-0.873 -0.944  1.745 -0.294 -0.961] Win:False Ts: 51
+Update: 49  actor_loss: -1.421, critic_loss: 13.105 
+Epi: 615  Last action: [-0.416 -1.211  0.073  1.51  -1.081] Win:True Ts: 51
+Epi: 616  Last action: [ 1.132  1.266 -1.535 -0.812  1.458] Win:True Ts: 52
+Epi: 617  Last action: [ 0.317  0.928 -0.674  1.09  -1.083] Win:False Ts: 52
+Epi: 618  Last action: [ 0.501 -0.281 -1.439  0.174 -0.545] Win:True Ts: 52
+Epi: 619  Last action: [-0.629 -0.874  0.327 -1.521 -1.747] Win:False Ts: 51
+Epi: 620  Last action: [-0.741 -1.725  0.219 -1.17  -0.763] Win:True Ts: 52
+Epi: 621  Last action: [-0.584  0.27  -1.403 -2.627  0.96 ] Win:True Ts: 52
+Epi: 622  Last action: [ 0.918  0.495 -1.31  -1.343 -0.331] Win:False Ts: 52
+Epi: 623  Last action: [-0.015 -0.601  0.375  0.27  -0.972] Win:False Ts: 51
+Epi: 624  Last action: [-0.876 -0.991  0.618 -2.137 -0.339] Win:False Ts: 51
+Epi: 625  Last action: [-1.534 -0.451  1.121 -0.152 -1.377] Win:False Ts: 51
+Epi: 626  Last action: [ 0.205  0.469 -1.366 -0.554  1.447] Win:True Ts: 51
+Epi: 627  Last action: [ 1.147  0.378 -0.75   0.103  0.915] Win:True Ts: 52
+Epi: 628  Last action: [ 1.066 -0.628  0.033 -1.154  0.428] Win:True Ts: 53
+Epi: 629  Last action: [-1.082 -1.425 -1.203 -1.605 -0.407] Win:False Ts: 53
+Update: 50  actor_loss: -1.109, critic_loss: 13.859 
+Epi: 630  Last action: [-0.543 -0.042 -0.459  0.963 -0.408] Win:True Ts: 54
+Epi: 631  Last action: [-1.665 -0.912 -0.402  0.004 -2.283] Win:False Ts: 53
+Epi: 632  Last action: [-0.32  -0.239  0.077  1.206  0.765] Win:False Ts: 52
+Epi: 633  Last action: [ 1.937  0.416  0.486 -0.109 -0.673] Win:False Ts: 52
+Epi: 634  Last action: [-1.089 -1.215 -0.21   0.128 -1.298] Win:True Ts: 53
+Epi: 635  Last action: [-2.407 -1.522  1.046 -1.557 -0.804] Win:False Ts: 53
+Epi: 636  Last action: [ 0.103  1.101 -0.04  -1.549 -0.691] Win:False Ts: 53
+Epi: 637  Last action: [-0.453 -1.85  -0.16  -0.168  0.807] Win:True Ts: 54
+Epi: 638  Last action: [ 1.338  1.361 -0.198 -0.583  0.962] Win:False Ts: 53
+Epi: 639  Last action: [-1.239 -0.389 -0.115 -0.831 -1.587] Win:True Ts: 54
+Epi: 640  Last action: [-0.408 -0.355 -2.289 -0.708  1.509] Win:True Ts: 55
+Epi: 641  Last action: [-1.44   0.387  0.593 -0.618  0.362] Win:False Ts: 55
+Epi: 642  Last action: [ 0.188 -1.023  0.148 -0.041 -0.856] Win:True Ts: 55
+Epi: 643  Last action: [-0.328 -1.14  -0.612  0.773 -0.297] Win:True Ts: 56
+Update: 51  actor_loss: -2.707, critic_loss: 16.500 
+Epi: 644  Last action: [ 1.116  0.87  -1.018 -1.687  1.468] Win:True Ts: 57
+Epi: 645  Last action: [1.172 0.684 1.313 0.229 0.817] Win:True Ts: 57
+Epi: 646  Last action: [ 0.273 -0.536  0.438  1.185  1.833] Win:True Ts: 57
+Epi: 647  Last action: [-0.212 -0.526  0.264  0.708  0.568] Win:True Ts: 58
+Epi: 648  Last action: [ 0.593 -0.107  0.038 -0.136  1.39 ] Win:True Ts: 58
+Epi: 649  Last action: [ 0.598  0.635 -0.44   0.588 -0.646] Win:False Ts: 57
+Epi: 650  Last action: [-1.376 -1.221 -1.099 -1.177  0.938] Win:False Ts: 57
+Epi: 651  Last action: [ 1.058 -0.282  0.12   0.715 -0.525] Win:True Ts: 57
+Epi: 652  Last action: [-0.171 -0.842  0.629  0.723 -1.351] Win:True Ts: 57
+Epi: 653  Last action: [ 0.09   0.583 -0.607 -0.565  0.816] Win:True Ts: 57
+Epi: 654  Last action: [ 3.19   1.596 -0.991 -0.795  1.523] Win:True Ts: 57
+Update: 52  actor_loss: -2.451, critic_loss: 6.702 
+Epi: 655  Last action: [ 0.41   0.841 -0.108 -0.434  1.4  ] Win:False Ts: 56
+Epi: 656  Last action: [ 0.796 -1.496 -0.639  0.41  -0.066] Win:True Ts: 57
+Epi: 657  Last action: [ 0.111  1.51   0.004 -0.621  1.652] Win:True Ts: 58
+Epi: 658  Last action: [-0.737 -0.9    1.224  0.518 -0.621] Win:False Ts: 58
+Epi: 659  Last action: [ 1.233 -0.27   0.408 -1.425 -0.55 ] Win:True Ts: 59
+Epi: 660  Last action: [-1.02  -0.782  0.463  1.711  1.24 ] Win:True Ts: 59
+Epi: 661  Last action: [2.669 1.134 0.864 0.068 2.543] Win:True Ts: 59
+Epi: 662  Last action: [ 2.584  1.127 -0.981 -1.622  0.371] Win:True Ts: 59
+Epi: 663  Last action: [ 0.839 -0.073  0.212  0.895  0.886] Win:True Ts: 59
+Epi: 664  Last action: [ 1.221  0.074  0.249 -0.789  0.972] Win:True Ts: 59
+Epi: 665  Last action: [-0.66  -0.706  0.558  1.259 -1.711] Win:False Ts: 59
+Epi: 666  Last action: [-0.22  -0.76   0.588  1.216 -1.439] Win:False Ts: 58
+Epi: 667  Last action: [-0.479 -0.303 -1.093 -1.698 -1.45 ] Win:True Ts: 59
+Update: 53  actor_loss: -1.248, critic_loss: 9.596 
+Epi: 668  Last action: [-1.344 -0.953 -2.466 -0.469  0.616] Win:True Ts: 60
+Epi: 669  Last action: [ 0.016  0.273  0.813 -1.707 -1.915] Win:True Ts: 60
+Epi: 670  Last action: [-1.043 -0.717  1.728 -1.387 -0.436] Win:False Ts: 60
+Epi: 671  Last action: [ 1.381  1.303 -0.177 -0.688  0.64 ] Win:True Ts: 61
+Epi: 672  Last action: [ 1.19  -0.586  0.521  0.176  1.802] Win:True Ts: 61
+Epi: 673  Last action: [-0.532 -0.633  1.963 -0.203 -0.383] Win:False Ts: 60
+Epi: 674  Last action: [ 1.504 -0.166 -0.999 -0.708 -0.457] Win:False Ts: 59
+Epi: 675  Last action: [-0.096 -1.113 -0.418  2.322 -0.358] Win:True Ts: 59
+Epi: 676  Last action: [-0.458 -0.95  -0.643 -0.406 -1.337] Win:True Ts: 60
+Epi: 677  Last action: [ 1.409  0.398  0.122 -1.198  0.381] Win:False Ts: 59
+Epi: 678  Last action: [-1.626 -0.558  0.907  0.212  1.121] Win:True Ts: 60
+Update: 54  actor_loss: -0.201, critic_loss: 7.046 
+Epi: 679  Last action: [-1.292  0.057 -0.076 -0.804  0.586] Win:False Ts: 59
+Epi: 680  Last action: [-0.193  0.28  -1.222  0.083 -0.8  ] Win:False Ts: 58
+Epi: 681  Last action: [ 1.931 -0.039 -0.588 -1.328  1.161] Win:True Ts: 58
+Epi: 682  Last action: [-1.171 -0.45  -0.781 -0.173 -0.626] Win:True Ts: 58
+Epi: 683  Last action: [-0.737 -0.739 -0.43   1.397  1.278] Win:True Ts: 59
+Epi: 684  Last action: [-1.591 -0.974  0.394  2.14  -0.564] Win:False Ts: 59
+Epi: 685  Last action: [-2.171 -0.928 -0.229 -0.428 -2.225] Win:True Ts: 59
+Epi: 686  Last action: [-0.902 -1.474 -2.041  0.938 -0.179] Win:False Ts: 58
+Epi: 687  Last action: [ 0.022 -1.758  1.072  0.652  0.122] Win:True Ts: 59
+Epi: 688  Last action: [ 1.093  0.961  0.417 -1.009  1.104] Win:False Ts: 58
+Epi: 689  Last action: [-0.967  1.153  0.207 -1.795 -0.796] Win:True Ts: 58
+Epi: 690  Last action: [ 0.671  0.85  -0.799 -2.85   0.805] Win:True Ts: 59
+Update: 55  actor_loss: -2.406, critic_loss: 14.059 
+Epi: 691  Last action: [-1.058  0.108 -0.099 -0.555 -1.632] Win:True Ts: 60
+Epi: 692  Last action: [-0.132  1.81   0.123 -0.352  0.843] Win:True Ts: 60
+Epi: 693  Last action: [ 0.91   0.375  0.591 -1.011  0.424] Win:True Ts: 61
+Epi: 694  Last action: [-0.985 -0.133  1.938  0.26  -0.61 ] Win:False Ts: 60
+Epi: 695  Last action: [-0.593  0.668 -0.965 -1.056 -0.566] Win:True Ts: 61
+Epi: 696  Last action: [ 0.997  0.135  0.211  1.568 -1.59 ] Win:True Ts: 61
+Epi: 697  Last action: [-0.036 -0.908 -0.008  0.31   1.516] Win:True Ts: 61
+Epi: 698  Last action: [-2.007 -1.52   1.548  2.024 -0.921] Win:True Ts: 61
+Epi: 699  Last action: [ 0.751  0.77  -1.708 -0.308  2.045] Win:True Ts: 62
+Epi: 700  Last action: [-1.26  -0.724 -1.9   -1.026 -0.459] Win:True Ts: 63
+Epi: 701  Last action: [-1.141 -0.985 -0.453 -0.283  0.882] Win:True Ts: 63
+Update: 56  actor_loss: 0.640, critic_loss: 3.635 
+Epi: 702  Last action: [-0.607  0.753  0.178  0.208  1.518] Win:True Ts: 64
+Epi: 703  Last action: [-1.543 -0.368 -1.37  -1.044 -0.039] Win:True Ts: 65
+Epi: 704  Last action: [ 0.406  0.551 -2.171 -0.075  0.477] Win:True Ts: 65
+Epi: 705  Last action: [-1.697 -0.695  0.38   1.172 -1.294] Win:True Ts: 66
+Epi: 706  Last action: [-0.582 -1.068 -1.779  1.986 -0.148] Win:True Ts: 66
+Epi: 707  Last action: [ 0.444  0.924 -1.038  0.774  0.856] Win:True Ts: 66
+Epi: 708  Last action: [-1.753 -0.693 -0.678  0.61  -1.263] Win:True Ts: 67
+Epi: 709  Last action: [ 0.383  0.421 -1.365 -0.458  1.108] Win:True Ts: 67
+Epi: 710  Last action: [-0.542 -0.747  0.161 -0.198 -0.247] Win:False Ts: 67
+Epi: 711  Last action: [-1.021  0.533 -1.19  -0.998 -1.266] Win:True Ts: 67
+Epi: 712  Last action: [ 1.719  1.318 -0.831 -0.233  0.793] Win:True Ts: 68
+Epi: 713  Last action: [-0.254  0.992 -0.357 -0.51   1.625] Win:True Ts: 69
+Update: 57  actor_loss: -2.738, critic_loss: 5.442 
+Epi: 714  Last action: [ 0.763  0.919 -1.705 -1.994  0.124] Win:True Ts: 69
+Epi: 715  Last action: [-0.03   0.84  -1.044 -0.415 -1.32 ] Win:True Ts: 70
+Epi: 716  Last action: [ 1.531  0.851 -1.394 -0.879  0.484] Win:True Ts: 70
+Epi: 717  Last action: [-0.532 -0.764 -0.069 -0.468  0.475] Win:True Ts: 70
+Epi: 718  Last action: [-0.116  0.817  0.05  -1.724  0.422] Win:False Ts: 70
+Epi: 719  Last action: [ 1.501  0.7   -1.14  -0.354  1.187] Win:True Ts: 70
+Epi: 720  Last action: [ 0.571  0.95   0.967 -0.141 -0.599] Win:False Ts: 70
+Epi: 721  Last action: [-0.883 -1.189  1.413  2.013 -1.823] Win:False Ts: 69
+Epi: 722  Last action: [ 0.857 -0.388  0.651 -0.716  1.78 ] Win:True Ts: 69
+Epi: 723  Last action: [-0.999 -1.126 -1.287 -0.583  0.91 ] Win:False Ts: 69
+Epi: 724  Last action: [-0.06   1.205  0.471 -2.091 -0.453] Win:False Ts: 69
+Epi: 725  Last action: [-0.66  -0.374  0.413  0.1   -0.466] Win:False Ts: 69
+Update: 58  actor_loss: -1.376, critic_loss: 9.482 
+Epi: 726  Last action: [-1.534 -0.125  0.857  0.167 -1.546] Win:True Ts: 70
+Epi: 727  Last action: [-1.625  0.32   0.948 -0.161  0.822] Win:False Ts: 69
+Epi: 728  Last action: [-1.561  0.788 -0.663  0.471 -0.809] Win:True Ts: 69
+Epi: 729  Last action: [-0.582  0.303 -0.851 -1.376 -0.023] Win:False Ts: 68
+Epi: 730  Last action: [-1.337 -1.429  1.412  2.15  -0.17 ] Win:True Ts: 69
+Epi: 731  Last action: [-1.073  0.103  1.062  2.219 -0.48 ] Win:True Ts: 69
+Epi: 732  Last action: [ 1.483  0.432  0.946 -1.017  0.637] Win:False Ts: 69
+Epi: 733  Last action: [ 0.714  0.639  0.33   1.604 -1.549] Win:True Ts: 70
+Epi: 734  Last action: [-0.713 -0.104  0.905  0.4   -1.547] Win:False Ts: 70
+Epi: 735  Last action: [-0.66  -0.694  0.579  2.333  0.125] Win:False Ts: 69
+Epi: 736  Last action: [ 0.885  0.484 -1.    -1.109  0.393] Win:True Ts: 70
+Update: 59  actor_loss: -0.852, critic_loss: 7.172 
+Epi: 737  Last action: [-0.023  1.137 -0.106 -1.014 -0.775] Win:True Ts: 71
+Epi: 738  Last action: [-0.493 -1.44  -1.271 -0.91   0.343] Win:True Ts: 71
+Epi: 739  Last action: [-0.35  -0.897  0.927  0.021 -0.062] Win:True Ts: 72
+Epi: 740  Last action: [-0.951 -0.481 -0.245  0.461 -0.535] Win:True Ts: 72
+Epi: 741  Last action: [ 0.661  0.716 -0.285 -1.321  1.122] Win:True Ts: 72
+Epi: 742  Last action: [ 0.985  0.634 -1.049 -0.576  1.799] Win:True Ts: 73
+Epi: 743  Last action: [-1.018  0.987 -0.238  0.571 -0.769] Win:True Ts: 73
+Epi: 744  Last action: [-1.399 -0.151  0.561 -1.02   1.879] Win:True Ts: 73
+Epi: 745  Last action: [-0.574 -1.182  0.418  0.835 -0.519] Win:False Ts: 72
+Epi: 746  Last action: [ 1.693 -0.626 -1.171 -0.673  0.933] Win:True Ts: 72
+Epi: 747  Last action: [-1.193 -1.309 -1.535  1.351 -2.354] Win:True Ts: 72
+Epi: 748  Last action: [-0.333 -1.125  0.495  2.116 -1.452] Win:False Ts: 71
+Update: 60  actor_loss: -1.226, critic_loss: 8.174 
+Epi: 749  Last action: [ 0.885  0.085  1.411  0.318 -0.161] Win:True Ts: 71
+Epi: 750  Last action: [-0.938 -0.812  1.739  0.922  0.686] Win:True Ts: 72
+Epi: 751  Last action: [-0.688 -0.643  0.497 -0.407 -1.166] Win:True Ts: 73
+Epi: 752  Last action: [ 0.753  1.088 -0.7   -0.833  2.244] Win:True Ts: 73
+Epi: 753  Last action: [-0.939 -1.787 -0.497  1.102  0.703] Win:True Ts: 73
+Epi: 754  Last action: [-1.02   0.176 -0.469  0.396 -0.529] Win:True Ts: 73
+Epi: 755  Last action: [-0.993 -0.789 -0.916  0.64  -0.316] Win:True Ts: 73
+Epi: 756  Last action: [-1.057 -0.309 -0.179 -1.054  2.337] Win:True Ts: 74
+Epi: 757  Last action: [ 1.374  0.522 -1.378 -2.033 -0.112] Win:False Ts: 73
+Epi: 758  Last action: [-0.164  0.949 -0.04  -1.377 -0.91 ] Win:True Ts: 73
+Epi: 759  Last action: [-1.221 -1.495  1.104  1.235  0.699] Win:True Ts: 74
+Epi: 760  Last action: [-0.332 -0.4    0.358 -0.301 -1.134] Win:True Ts: 74
+Epi: 761  Last action: [ 0.426 -0.548  0.107  0.397  2.127] Win:True Ts: 74
+Update: 61  actor_loss: -1.004, critic_loss: 4.163 
+Epi: 762  Last action: [ 0.079 -0.629 -0.212  0.184  1.427] Win:True Ts: 74
+Epi: 763  Last action: [ 0.918  0.603 -0.317 -0.395 -0.174] Win:True Ts: 74
+Epi: 764  Last action: [ 1.027  0.764 -1.025 -0.934 -0.589] Win:True Ts: 74
+Epi: 765  Last action: [-0.982 -1.384  1.492  1.354 -0.065] Win:True Ts: 74
+Epi: 766  Last action: [ 0.393  0.879 -1.295  0.384 -0.712] Win:False Ts: 74
+Epi: 767  Last action: [-2.155 -0.545  0.329 -0.549 -0.95 ] Win:True Ts: 75
+Epi: 768  Last action: [ 1.147  0.628 -0.141 -1.77   0.796] Win:False Ts: 74
+Epi: 769  Last action: [ 0.247  1.508 -1.902 -0.599  1.495] Win:True Ts: 74
+Epi: 770  Last action: [ 1.038  1.067 -0.693 -0.178 -0.276] Win:False Ts: 73
+Epi: 771  Last action: [-0.502 -0.827  1.173  1.625 -0.074] Win:False Ts: 73
+Epi: 772  Last action: [-0.184  0.734 -0.202 -0.86  -0.845] Win:False Ts: 72
+Update: 62  actor_loss: -2.530, critic_loss: 4.867 
+Epi: 773  Last action: [ 1.289  0.487  1.141 -0.439 -1.677] Win:True Ts: 72
+Epi: 774  Last action: [ 1.322  1.117 -0.011 -1.141  0.209] Win:True Ts: 73
+Epi: 775  Last action: [ 1.074  0.844  0.941 -1.121 -0.235] Win:True Ts: 74
+Epi: 776  Last action: [ 1.94   1.83   0.448 -1.877 -1.348] Win:False Ts: 73
+Epi: 777  Last action: [ 0.791  1.105 -1.462 -1.222  0.006] Win:True Ts: 73
+Epi: 778  Last action: [-1.155  0.137  1.073  0.382 -0.707] Win:True Ts: 74
+Epi: 779  Last action: [ 1.092  1.259  0.406 -1.848 -0.145] Win:True Ts: 74
+Epi: 780  Last action: [-0.916 -1.324 -0.101  0.669  1.205] Win:True Ts: 75
+Epi: 781  Last action: [-1.332 -0.587 -1.29   0.002  0.668] Win:True Ts: 76
+Epi: 782  Last action: [-0.647 -0.453  1.327  1.809 -0.514] Win:True Ts: 76
+Epi: 783  Last action: [ 0.359 -0.198  0.251 -0.857  1.431] Win:True Ts: 76
+Epi: 784  Last action: [-1.515 -0.412  0.394 -0.492 -0.559] Win:True Ts: 76
+Update: 63  actor_loss: -1.328, critic_loss: 4.525 
+Epi: 785  Last action: [-0.692 -0.794  0.185 -0.778 -1.181] Win:True Ts: 77
+Epi: 786  Last action: [ 0.077 -0.627 -1.47   1.577 -0.773] Win:True Ts: 77
+Epi: 787  Last action: [-0.018  0.139 -0.316 -0.069 -2.632] Win:True Ts: 78
+Epi: 788  Last action: [ 0.108 -1.136  1.645 -0.095  2.339] Win:True Ts: 78
+Epi: 789  Last action: [-0.707  1.137  0.044 -1.849 -1.325] Win:True Ts: 79
+Epi: 790  Last action: [ 1.803  0.746 -0.265 -0.881 -2.279] Win:False Ts: 78
+Epi: 791  Last action: [-1.789 -0.207  0.543  0.141 -1.445] Win:True Ts: 78
+Epi: 792  Last action: [ 0.605  0.642 -0.603 -1.432 -0.271] Win:True Ts: 78
+Epi: 793  Last action: [ 1.066  1.132 -0.284 -0.858  0.951] Win:False Ts: 77
+Epi: 794  Last action: [ 0.034  1.032 -0.199 -0.773  1.36 ] Win:False Ts: 76
+Epi: 795  Last action: [ 1.589  0.26  -0.869 -0.307  0.624] Win:False Ts: 76
+Epi: 796  Last action: [-1.43   0.702  0.082 -0.391 -1.451] Win:True Ts: 76
+Update: 64  actor_loss: -0.608, critic_loss: 7.953 
+Epi: 797  Last action: [-0.579  0.025  1.241  0.598 -1.299] Win:True Ts: 76
+Epi: 798  Last action: [ 1.444  1.809 -0.712 -0.966 -0.008] Win:False Ts: 75
+Epi: 799  Last action: [ 1.642 -0.642 -0.418  0.184  0.865] Win:True Ts: 75
+Epi: 800  Last action: [-1.859 -0.821  0.574 -0.72  -0.083] Win:True Ts: 75
+Epi: 801  Last action: [ 0.003 -0.86   0.851  1.956 -0.336] Win:True Ts: 75
+Epi: 802  Last action: [ 1.77   1.147 -0.36  -2.484  0.864] Win:True Ts: 75
+Epi: 803  Last action: [ 0.391 -0.901  0.008  0.585  0.84 ] Win:True Ts: 75
+Epi: 804  Last action: [ 1.711  0.757 -0.381 -0.313  2.453] Win:True Ts: 75
+Epi: 805  Last action: [-1.193  1.107 -0.463 -0.389 -0.322] Win:True Ts: 75
+Epi: 806  Last action: [ 0.652  1.023 -1.025 -0.982  0.512] Win:False Ts: 74
+Epi: 807  Last action: [ 0.851  1.073  0.798 -0.999  0.165] Win:True Ts: 74
+Epi: 808  Last action: [ 1.474  0.834 -0.082 -1.577  1.615] Win:True Ts: 74
+Update: 65  actor_loss: -2.871, critic_loss: 12.628 
+Epi: 809  Last action: [-1.425 -1.682  0.725  0.416 -1.052] Win:False Ts: 73
+Epi: 810  Last action: [-2.546 -0.567 -0.269 -2.096  0.031] Win:True Ts: 73
+Epi: 811  Last action: [ 0.891 -0.615  0.407 -0.305  1.415] Win:True Ts: 74
+Epi: 812  Last action: [-1.747 -0.875  0.493 -2.557 -1.319] Win:False Ts: 73
+Epi: 813  Last action: [ 0.451  0.446 -0.58  -0.378  0.933] Win:True Ts: 73
+Epi: 814  Last action: [ 0.869  0.747 -1.518 -2.705  1.42 ] Win:False Ts: 72
+Epi: 815  Last action: [-0.029  0.497  0.378 -0.041 -1.401] Win:True Ts: 72
+Epi: 816  Last action: [-0.736 -1.178  0.022  1.302 -0.463] Win:False Ts: 71
+Epi: 817  Last action: [ 0.371  0.981 -0.762 -2.374  0.296] Win:True Ts: 71
+Epi: 818  Last action: [ 1.215  1.033 -0.195 -1.262  1.831] Win:True Ts: 71
+Epi: 819  Last action: [-0.15   0.868 -1.975  0.456  1.025] Win:True Ts: 72
+Epi: 820  Last action: [-2.103 -0.834  1.433 -1.691 -0.884] Win:False Ts: 71
+Update: 66  actor_loss: -2.057, critic_loss: 8.457 
+Epi: 821  Last action: [ 1.317  0.761 -1.572  0.717  0.537] Win:True Ts: 72
+Epi: 822  Last action: [ 0.117  0.674 -0.655 -2.124  0.122] Win:True Ts: 73
+Epi: 823  Last action: [-0.235 -0.84   2.018  0.91   0.058] Win:False Ts: 72
+Epi: 824  Last action: [0.123 0.288 0.323 0.957 1.527] Win:True Ts: 73
+Epi: 825  Last action: [-1.766 -1.379  0.547  0.759 -2.748] Win:True Ts: 74
+Epi: 826  Last action: [-1.436 -1.095  0.613  0.423 -1.61 ] Win:False Ts: 74
+Epi: 827  Last action: [-1.381 -1.219  0.502  0.521  0.003] Win:True Ts: 74
+Epi: 828  Last action: [ 0.439  0.595 -0.3   -1.269  0.756] Win:True Ts: 75
+Epi: 829  Last action: [-6.100e-01 -6.910e-01 -1.600e+00 -2.000e-03  2.931e+00] Win:True Ts: 75
+Epi: 830  Last action: [-0.791 -0.455  0.048  0.934 -1.324] Win:True Ts: 76
+Epi: 831  Last action: [-1.451 -1.12   1.693 -0.694 -0.863] Win:False Ts: 75
+Epi: 832  Last action: [-1.112 -1.37   1.78   0.222 -0.873] Win:False Ts: 74
+Epi: 833  Last action: [-0.728 -1.512 -0.69   1.533 -1.759] Win:True Ts: 75
+Update: 67  actor_loss: -1.264, critic_loss: 13.382 
+Epi: 834  Last action: [-0.613  0.552  0.695 -1.351 -0.633] Win:True Ts: 75
+Epi: 835  Last action: [ 0.622  0.842 -1.528 -1.575  0.028] Win:True Ts: 76
+Epi: 836  Last action: [-0.898 -0.448  0.182  0.756 -2.399] Win:True Ts: 77
+Epi: 837  Last action: [ 1.063  0.609 -0.461 -2.145  1.205] Win:True Ts: 77
+Epi: 838  Last action: [-1.528  0.294  0.656 -0.636 -0.272] Win:False Ts: 76
+Epi: 839  Last action: [-0.812 -0.709  2.357 -0.614 -0.354] Win:False Ts: 75
+Epi: 840  Last action: [ 0.951  0.007 -1.383 -1.744  0.847] Win:True Ts: 75
+Epi: 841  Last action: [ 1.119  1.082 -1.25   0.236  0.411] Win:True Ts: 75
+Epi: 842  Last action: [-0.841 -1.038  0.752  1.164 -0.287] Win:False Ts: 74
+Epi: 843  Last action: [ 0.748  0.098 -0.986 -2.398  1.42 ] Win:True Ts: 74
+Epi: 844  Last action: [ 0.843  0.864 -1.26  -0.391  0.899] Win:True Ts: 74
+Epi: 845  Last action: [-0.538 -0.629 -1.078 -0.258 -2.23 ] Win:True Ts: 74
+Update: 68  actor_loss: -2.368, critic_loss: 10.841 
+Epi: 846  Last action: [-0.891  1.264 -1.324 -0.236 -0.989] Win:False Ts: 74
+Epi: 847  Last action: [-1.325  0.909 -0.428  0.075 -0.948] Win:False Ts: 73
+Epi: 848  Last action: [ 0.026  1.156 -2.054 -1.935 -1.513] Win:True Ts: 73
+Epi: 849  Last action: [-1.601 -1.841  1.239  1.502 -1.185] Win:True Ts: 74
+Epi: 850  Last action: [-1.222 -0.774  1.79   0.339 -0.656] Win:True Ts: 74
+Epi: 851  Last action: [-1.371 -1.693 -0.028  0.007 -1.108] Win:True Ts: 74
+Epi: 852  Last action: [ 0.5    1.572 -1.359 -1.83   0.446] Win:False Ts: 73
+Epi: 853  Last action: [ 0.596  1.147 -0.5   -0.556 -1.076] Win:False Ts: 72
+Epi: 854  Last action: [-0.431 -1.069  0.992  0.851 -0.364] Win:True Ts: 72
+Epi: 855  Last action: [ 0.712  1.642 -1.5   -0.022  1.272] Win:False Ts: 71
+Epi: 856  Last action: [ 1.196  0.939 -0.586 -0.66  -0.009] Win:False Ts: 70
+Epi: 857  Last action: [ 0.983  0.907 -1.261  0.207  2.034] Win:False Ts: 69
+Update: 69  actor_loss: -0.964, critic_loss: 12.504 
+Epi: 858  Last action: [-1.603  1.038  0.298 -1.296  0.376] Win:True Ts: 70
+Epi: 859  Last action: [-1.782 -1.477  1.553 -0.458 -1.378] Win:False Ts: 69
+Epi: 860  Last action: [-1.398 -1.894  2.328  2.002 -1.74 ] Win:True Ts: 69
+Epi: 861  Last action: [-0.031  0.565 -0.453 -2.217  0.229] Win:True Ts: 69
+Epi: 862  Last action: [-0.091  1.401 -0.152 -1.894  0.118] Win:False Ts: 68
+Epi: 863  Last action: [-0.51  -0.64   0.48   1.284 -0.978] Win:True Ts: 68
+Epi: 864  Last action: [-1.905  0.619  0.32  -1.306 -1.539] Win:True Ts: 68
+Epi: 865  Last action: [-1.042  1.235  0.566 -0.541  0.124] Win:True Ts: 68
+Epi: 866  Last action: [-1.56  -0.682  1.625  0.467 -2.31 ] Win:True Ts: 68
+Epi: 867  Last action: [ 0.785  0.13  -0.118 -1.164  0.126] Win:False Ts: 68
+Update: 70  actor_loss: -0.193, critic_loss: 5.412 
+Epi: 868  Last action: [-1.687 -0.805  2.107 -0.079 -1.338] Win:True Ts: 68
+Epi: 869  Last action: [ 0.507 -0.394 -0.032 -1.568  0.218] Win:True Ts: 69
+Epi: 870  Last action: [-1.23  -0.121  0.393  0.916 -0.279] Win:True Ts: 69
+Epi: 871  Last action: [ 0.316  1.496 -0.358 -0.277  0.567] Win:False Ts: 69
+Epi: 872  Last action: [ 1.421  0.986 -0.319 -1.84   0.153] Win:False Ts: 69
+Epi: 873  Last action: [ 0.503 -1.189 -1.161 -1.016 -1.071] Win:True Ts: 70
+Epi: 874  Last action: [ 1.211  0.69  -0.444 -2.518  1.386] Win:False Ts: 69
+Epi: 875  Last action: [-1.159 -1.41   0.399  0.729 -0.545] Win:True Ts: 69
+Epi: 876  Last action: [-0.66  -1.653  0.14   2.88  -1.664] Win:False Ts: 68
+Epi: 877  Last action: [ 0.755  0.875 -0.731 -0.995  0.214] Win:False Ts: 68
+Epi: 878  Last action: [-0.315  1.281 -0.263 -0.009  0.364] Win:False Ts: 67
+Epi: 879  Last action: [ 0.977 -0.404 -1.386  0.034  0.259] Win:True Ts: 67
+Update: 71  actor_loss: 0.511, critic_loss: 10.660 
+Epi: 880  Last action: [-1.43  -0.986  0.339 -0.252  0.534] Win:True Ts: 67
+Epi: 881  Last action: [-0.02   1.475 -1.588 -0.29   0.185] Win:True Ts: 67
+Epi: 882  Last action: [-0.138 -1.289 -0.65  -1.414  1.047] Win:True Ts: 67
+Epi: 883  Last action: [-0.561 -0.409  1.065 -0.259 -0.652] Win:False Ts: 66
+Epi: 884  Last action: [ 0.552  1.026 -0.205 -2.483  2.374] Win:False Ts: 65
+Epi: 885  Last action: [ 1.321  0.26  -2.083 -1.813  1.227] Win:False Ts: 64
+Epi: 886  Last action: [-1.964 -1.184  0.344 -0.199 -1.247] Win:True Ts: 64
+Epi: 887  Last action: [-0.802 -1.035  1.164  0.103 -1.683] Win:False Ts: 63
+Epi: 888  Last action: [-0.621 -0.956 -0.11   1.95  -0.947] Win:True Ts: 63
+Epi: 889  Last action: [-0.627  1.528  0.792 -0.11  -1.713] Win:False Ts: 62
+Epi: 890  Last action: [-1.169 -1.271  0.329  2.512 -0.854] Win:False Ts: 61
+Epi: 891  Last action: [-0.889 -1.085  0.932  0.017  0.679] Win:False Ts: 61
+Update: 72  actor_loss: -1.258, critic_loss: 7.052 
+Epi: 892  Last action: [-1.133 -0.702  0.111 -0.893 -0.582] Win:False Ts: 60
+Epi: 893  Last action: [-0.831 -0.736 -0.155 -0.645 -1.419] Win:True Ts: 60
+Epi: 894  Last action: [ 0.057  1.488 -0.305 -1.142 -0.785] Win:False Ts: 60
+Epi: 895  Last action: [-0.701  0.924 -0.111 -1.9    1.665] Win:True Ts: 61
+Epi: 896  Last action: [ 0.168  1.072  0.101 -0.811  0.717] Win:False Ts: 61
+Epi: 897  Last action: [-1.000e-03  7.150e-01 -7.270e-01 -1.389e+00  3.006e+00] Win:False Ts: 60
+Epi: 898  Last action: [ 1.122  1.02  -1.793 -0.965  1.707] Win:False Ts: 59
+Epi: 899  Last action: [ 0.206 -1.211 -1.088  1.634 -0.743] Win:True Ts: 60
+Epi: 900  Last action: [ 1.581  1.012 -0.162 -0.502 -0.111] Win:True Ts: 60
+Epi: 901  Last action: [-1.347 -1.062  0.534  0.319 -0.343] Win:True Ts: 60
+Epi: 902  Last action: [ 0.008  0.948 -0.217  0.029 -0.346] Win:False Ts: 59
+Epi: 903  Last action: [-1.144  1.24  -0.213 -1.467 -0.212] Win:True Ts: 59
+Update: 73  actor_loss: -0.448, critic_loss: 6.752 
+Epi: 904  Last action: [-0.862 -0.322 -0.364  1.317 -0.251] Win:True Ts: 59
+Epi: 905  Last action: [ 1.013  1.697 -0.613 -2.748  0.506] Win:False Ts: 58
+Epi: 906  Last action: [-1.565 -1.334 -0.209 -1.005 -0.704] Win:False Ts: 57
+Epi: 907  Last action: [-1.211 -0.699  0.354 -0.55  -0.706] Win:False Ts: 57
+Epi: 908  Last action: [-0.579 -0.347 -1.108  0.718 -0.97 ] Win:True Ts: 57
+Epi: 909  Last action: [-0.326 -0.834 -0.298  1.741 -1.517] Win:True Ts: 57
+Epi: 910  Last action: [ 0.836  1.175  0.657 -0.56   0.577] Win:False Ts: 57
+Epi: 911  Last action: [ 0.269  0.677 -0.48  -0.624  0.562] Win:False Ts: 56
+Epi: 912  Last action: [-0.695 -1.095  0.834 -0.796 -1.442] Win:False Ts: 55
+Epi: 913  Last action: [ 1.092  0.505 -1.015 -1.543  1.518] Win:False Ts: 55
+Epi: 914  Last action: [ 1.185  0.99   0.104 -0.768  1.004] Win:True Ts: 55
+Epi: 915  Last action: [ 0.966 -0.708  0.695  1.122 -1.183] Win:True Ts: 56
+Epi: 916  Last action: [-1.157  0.688  0.66  -1.855 -1.028] Win:True Ts: 56
+Update: 74  actor_loss: -0.882, critic_loss: 9.394 
+Epi: 917  Last action: [ 0.771  1.247  0.026 -0.994  0.401] Win:False Ts: 56
+Epi: 918  Last action: [-1.141 -1.835  0.894 -0.118 -1.428] Win:False Ts: 55
+Epi: 919  Last action: [ 0.43  -1.1   -0.103  0.262 -1.41 ] Win:True Ts: 55
+Epi: 920  Last action: [0.844 0.101 0.105 1.284 1.551] Win:True Ts: 55
+Epi: 921  Last action: [-0.189  1.188 -0.766 -1.382  1.148] Win:True Ts: 56
+Epi: 922  Last action: [ 0.472  0.872 -0.024 -2.249  1.096] Win:True Ts: 56
+Epi: 923  Last action: [ 1.068  1.133 -0.263 -0.99   0.836] Win:False Ts: 55
+Epi: 924  Last action: [-0.786 -0.624 -0.213 -1.76  -0.499] Win:True Ts: 56
+Epi: 925  Last action: [ 0.71   1.254 -0.826  0.302  0.631] Win:False Ts: 55
+Epi: 926  Last action: [ 0.894  0.85  -0.352 -1.662  2.012] Win:False Ts: 54
+Epi: 927  Last action: [-0.584 -1.614  0.253  0.317 -1.076] Win:False Ts: 54
+Epi: 928  Last action: [-1.397 -1.217  0.246  0.432 -0.79 ] Win:True Ts: 54
+Update: 75  actor_loss: -0.240, critic_loss: 4.254 
+Epi: 929  Last action: [ 1.394  1.066 -0.759 -0.744  0.64 ] Win:True Ts: 54
+Epi: 930  Last action: [-0.472 -0.9    0.422  1.931 -2.114] Win:True Ts: 54
+Epi: 931  Last action: [ 2.295  0.905 -0.925 -1.268  1.55 ] Win:False Ts: 53
+Epi: 932  Last action: [ 0.708  1.322 -1.164 -2.788 -0.14 ] Win:False Ts: 53
+Epi: 933  Last action: [-1.108  0.827  0.178 -1.351 -0.557] Win:True Ts: 54
+Epi: 934  Last action: [ 0.588  0.752 -1.377 -0.285  0.247] Win:False Ts: 53
+Epi: 935  Last action: [-0.868  1.327 -0.049 -1.027 -0.287] Win:True Ts: 53
+Epi: 936  Last action: [ 0.61   1.155 -0.08  -0.971 -0.887] Win:True Ts: 53
+Epi: 937  Last action: [-0.253  1.443 -0.071 -0.096 -0.138] Win:False Ts: 52
+Epi: 938  Last action: [ 0.999  1.494 -0.861 -0.493 -0.369] Win:True Ts: 52
+Epi: 939  Last action: [ 0.691  1.042 -1.446 -0.676  1.281] Win:False Ts: 52
+Epi: 940  Last action: [ 1.02  -1.616  0.673 -1.477  1.048] Win:True Ts: 53
+Update: 76  actor_loss: -0.701, critic_loss: 7.721 
+Epi: 941  Last action: [ 1.267  0.647 -0.172 -1.516  0.448] Win:False Ts: 52
+Epi: 942  Last action: [ 0.898 -0.608  0.711 -0.46   0.901] Win:True Ts: 52
+Epi: 943  Last action: [-1.412 -1.487  0.397  1.205  0.57 ] Win:False Ts: 52
+Epi: 944  Last action: [-1.687 -0.719  0.109  0.593 -0.097] Win:False Ts: 51
+Epi: 945  Last action: [ 1.673  1.548 -0.348 -0.006 -0.379] Win:False Ts: 50
+Epi: 946  Last action: [ 1.351  1.388 -0.196 -0.996  0.04 ] Win:True Ts: 50
+Epi: 947  Last action: [-1.025  1.586 -0.522 -0.564 -1.316] Win:False Ts: 50
+Epi: 948  Last action: [-1.305 -1.014  0.545  1.712  0.981] Win:True Ts: 51
+Epi: 949  Last action: [ 1.798  0.918  0.404 -1.869  0.627] Win:False Ts: 50
+Epi: 950  Last action: [ 0.107  0.945 -0.293 -1.665 -0.993] Win:False Ts: 49
+Epi: 951  Last action: [ 1.697  0.206 -1.18  -0.705  0.292] Win:True Ts: 49
+Epi: 952  Last action: [ 0.697  0.996 -0.882 -0.858 -0.166] Win:False Ts: 48
+Epi: 953  Last action: [-1.797  0.198  0.025  0.93  -0.791] Win:True Ts: 49
+Update: 77  actor_loss: 0.537, critic_loss: 8.591 
+Epi: 954  Last action: [ 0.612  0.553  1.109 -1.626  1.143] Win:True Ts: 50
+Epi: 955  Last action: [ 0.287 -0.024 -1.169 -0.283  0.642] Win:False Ts: 49
+Epi: 956  Last action: [-2.07   1.344 -0.095 -0.716 -0.606] Win:False Ts: 49
+Epi: 957  Last action: [ 1.968  0.203  0.381 -2.473  0.492] Win:True Ts: 50
+Epi: 958  Last action: [-0.057 -1.211  0.727 -0.147 -0.834] Win:True Ts: 51
+Epi: 959  Last action: [-0.671 -0.89  -0.262  0.177 -0.478] Win:False Ts: 50
+Epi: 960  Last action: [-0.93   0.493 -0.798  0.134  0.201] Win:True Ts: 51
+Epi: 961  Last action: [-1.249 -0.191  0.742  1.069  0.301] Win:False Ts: 50
+Epi: 962  Last action: [-1.099  0.548 -0.608  1.201 -0.488] Win:False Ts: 49
+Epi: 963  Last action: [ 0.946  1.061  0.574 -1.466  0.635] Win:False Ts: 49
+Epi: 964  Last action: [-0.879 -0.239  2.005  0.073 -1.237] Win:True Ts: 49
+Epi: 965  Last action: [-0.669  0.869  0.106  0.18  -0.006] Win:False Ts: 48
+Update: 78  actor_loss: -1.884, critic_loss: 11.455 
+Epi: 966  Last action: [-1.32  -1.254 -0.054  0.336 -0.589] Win:True Ts: 48
+Epi: 967  Last action: [ 0.545 -1.16  -0.505 -1.632  0.526] Win:True Ts: 48
+Epi: 968  Last action: [-0.937 -1.706 -1.412  0.193 -0.948] Win:False Ts: 48
+Epi: 969  Last action: [-0.101  0.579 -0.498 -0.832 -0.233] Win:True Ts: 48
+Epi: 970  Last action: [-0.068  1.065 -0.644 -2.281  1.131] Win:True Ts: 48
+Epi: 971  Last action: [ 1.239  1.099 -1.743 -0.758 -0.07 ] Win:False Ts: 47
+Epi: 972  Last action: [ 0.77   0.199  1.394 -1.811  0.565] Win:True Ts: 48
+Epi: 973  Last action: [-1.245 -1.137 -1.015  2.346 -1.777] Win:True Ts: 49
+Epi: 974  Last action: [-1.749 -1.075 -0.042  1.401 -1.01 ] Win:True Ts: 49
+Epi: 975  Last action: [ 0.055  1.195 -1.121  0.419  1.311] Win:False Ts: 49
+Epi: 976  Last action: [ 0.373 -1.167  0.947 -0.874 -0.826] Win:True Ts: 49
+Update: 79  actor_loss: -1.208, critic_loss: 5.061 
